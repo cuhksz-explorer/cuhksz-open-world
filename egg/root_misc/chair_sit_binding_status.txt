@@ -1,0 +1,7 @@
+﻿Chair Sit Binding Status
+Generated: 2026/5/26 (reverted incorrect swap)
+Asset: Assets/Resources/ChairSit/ChairSitClipSet.asset
+SitDown: OK 'Sitting (2)' length=4.43s
+SitIdle: OK 'Sitting Idle' length=4.30s
+StandUp: OK 'Sit To Stand (1)' length=2.27s
+Complete: True

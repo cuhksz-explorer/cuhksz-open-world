@@ -1,0 +1,3022 @@
+{
+  "M0-1-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The chirping of cicadas in Shenzhen in August is louder than imagined. The air is filled with the salty humidity of the ocean and the bitter taste of the asphalt road that has been sun-stained. This is the first impression \"The Nameless Sea\" gave to Lin Du."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du dragged his heavy suitcase and stood at the gate of The Chinese University of Hong Kong, Shenzhen. The building lines in front of you are sharp and modern, like a rigorous precision instrument."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Not far away, several students wearing dark blue volunteer vests were walking among the crowd. A senior who looked a little tired wearing black-rimmed glasses noticed Lin Du who was looking at the map."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "Orientation Senior",
+        "text": "Classmate, are you a freshman? Don't look at the map, it's for foreign guests. If you want to go to the check-in point, keep going up this slope."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Lin Du",
+        "text": "Thank you, senior. Excuse me...is that the gymnasium over there where you can register and get your card?"
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Orientation Senior",
+        "text": "Right. Go ahead before there are any long lines. By the way, your campus card is your lifeblood. You rely on it to eat, get in, print lectures, and even grab a seat in the library."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Lin Du walked in the direction pointed by the senior. Under the scorching sun, he felt as if he was entering some kind of huge system. Every student he passed by was walking in a hurry, as if there was an invisible countdown behind him."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "In the gymnasium, the air-conditioning and noise hit at the same time. Lin Du stood still in front of the check-in window."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Registration Staff",
+        "text": "Name, ID number."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "Lin Du",
+        "text": "Lin Du. 440..."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "Lin Du took the thin plastic card and could still feel the residual warmth left by the card-making machine on his fingertips."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "When he returned to the school gate again, the senior student just now was sitting on the steps drinking water. He turned to look at Lin Du with an indescribable scrutiny in his eyes."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "Orientation Senior",
+        "text": "Got the card? Congratulations, you have officially become a part of this precision machine."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Lin Du",
+        "text": "Senior, why does everyone look so... anxious?"
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "Orientation Senior",
+        "text": "urgent? This is just a warm-up. Lin Du, you will understand later - many people think that college is a haven in life and the end of hard work."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "Orientation Senior",
+        "text": "But here, university is just a magnifying glass."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "Orientation Senior",
+        "text": "It will magnify your ambition and your mediocrity. It will cut your anxiety into pieces and cram it into every second of the class schedule."
+      }
+    ],
+    "choices": [
+      "Respond politely",
+      "Respond coolly"
+    ]
+  },
+  "M0-1-2-A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "Thank you, senior, for the reminder. I will try my best to adapt to the rhythm here."
+      }
+    ],
+    "choices": []
+  },
+  "M0-1-2-B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "Sounds like survivor exaggeration, I'll see it through in my own way."
+      }
+    ],
+    "choices": []
+  },
+  "M0-1-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Orientation Senior",
+        "text": "Oh, quite energetic. Go to the dormitory. The road to the garden is not easy to walk. Remember to protect your knees."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du Dragging his luggage, he stepped onto the elevator leading to the Upper Garden. As the height climbs, the outline of the teaching building shrinks in the field of vision, while the sea in the distance becomes clear."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Downstairs in the dormitory, an aunt with a neat ponytail and a notepad was guarding the gate."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "Dorm manager",
+        "text": "Stop and swipe your card. New here?"
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Lin Du",
+        "text": "Hello aunt, I am Lin Du from Building C 402."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Dorm manager",
+        "text": "The names matched. This is the dormitory key. Listen up, the use of high-power electrical appliances is prohibited in the dormitory, and the door will be closed after twelve o'clock in the evening. Also, if you want to hang out here, change places as soon as possible."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Lin Du",
+        "text": "...Is it difficult to get by here?"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Dorm manager",
+        "text": "Every morning at six o'clock, someone in this building will get up and memorize vocabulary. At three o'clock in the morning, there were still people discussing group assignments in the corridor. What do you think?"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "The aunt ignored him and continued to check the list with her head down. Lin Du Walking into the room, the narrow but neat space will be her stronghold for the next four years."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "She sat down at the desk, took out her phone as prompted, and scanned the QR code on the corner of the desk."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "Welcome to the campus intelligent system. Please bind your personal identity and the system will automatically generate the first week's class schedule for you."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "As the progress bar on the screen jumped, Lin Du entered his background information."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "Every choice she made - whether it was her desire for academics, her yearning for social interaction, or her confusion about the future, was transformed into a string of binary codes."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "[System notice]",
+        "text": "The class schedule is bound successfully. 】"
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "Lin DuLooking at the densely packed color blocks on the screen: calculus, introduction to economics, general courses, seminars...these color blocks are intertwined together, like invisible fences."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "Outside the window, the setting sun dyed the sea deep purple. This is \"The Nameless Sea\", so quiet that it's shocking."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "The phone suddenly vibrated. It was a notification from the campus forum."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "The new class has arrived in Hong Kong. Have you heard about it? There are rumors about the 'Lesson Zero' under the bell tower..."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "",
+        "text": "Lin Du frowned and was about to click on the details when the screen suddenly flickered and turned dark."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "",
+        "text": "Is that a system overload, or some unknown interference? She raised her head and saw her face reflected in the window glass, a young face full of uncertainty."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "",
+        "text": "Registration day is over. But for Lin Du, the real tsunami has just begun."
+      }
+    ],
+    "choices": []
+  },
+  "M0-2-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "In Shenzhen in August, a thin layer of cold air seems to be steaming in the air, but it quickly turns into hot and humid moisture under the sun. Lin Du stood in the middle of the corridor named \"Longxiang Avenue\", holding the phone tightly with his right hand, his fingertips turning slightly white from exertion."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The navigation software on the phone screen was bouncing wildly, and the blue dot representing her location was jumping between several adjacent gray and white buildings, as if mocking her as a newcomer to the school."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Lin Du",
+        "text": "It's obvious that I've arrived, but why is there only a wall in front of me... Is the administration building on this floor, or down that damn slope?"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Du lifted up her sweaty bangs a little irritably. The campus of CUHK-Shenzhen is built against a mountain. This platform-style building structure is extremely unfriendly to novices - you think you are standing on the first floor, but in fact you are on someone else's fifth floor; you think the administrative building is close at hand, but in fact it is separated from you by an internal corridor of the college that requires a swipe card to pass."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "It was time for get out of class to end, and the students around him were walking fast. Most of them were wearing noise-canceling headphones, and their eyes were fixed on a point in the void diagonally in front of them, as if everyone was rushing to an academic meeting that was a matter of life and death. Lin Du feels like the only stuck part in this precision-operated gear set."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "After turning the third wrong corner, Lin Du stopped at the public reading area next to the library. There were several students sitting here who were resting or working. Three completely different auras caught her attention."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Lin Du",
+        "text": "That...student, excuse me. Is the archives room in the administration building along this road?"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "The boy didn't look up immediately. Instead, he finished drawing a key point on the screen before turning his eyes smoothly. Shen Qinghe's eyes were very clear, but with a restraint that refused to be overly social."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Shen Qinghe",
+        "text": "You're going the wrong way. The administration building is in that direction."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "He pointed with a capacitive pen to a corridor outside the window."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "Shen Qinghe",
+        "text": "The navigation will have a vertical deviation of about 20 meters here. Because this is a three-story platform, and the entrance to the administrative building is on the second floor. If you follow this path, you will hit the back door of the laboratory in Zhixin Building."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "Shen Qinghe",
+        "text": "The route can be calculated, but life cannot. But at least don’t lose out on your navigation system’s bias on day one."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "Lin Du was stunned by the other party's rigor when a burst of brisk footsteps suddenly came from the right. It was a girl wearing a slim-fitting suit and vest, with long hair neatly tied back. She was neatly folding several club recruitment brochures. When she turned to look at Lin Du, a warm smile appeared on her face."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Zhou Yan",
+        "text": "Qinghe, don't always scare new students with your \"deviation value theory\". Look at this school girl, she is almost overwhelmed by these buildings."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "The girl came over and naturally took out a beautiful bookmark with a miniature map of the campus from her pocket and handed it to Lin Du."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "Zhou Yan",
+        "text": "Hello, I am Zhou Yan. It's really hard to get around the administration building right now. There are preparations for tomorrow's school anniversary event, and several intersections have been temporarily blocked. Even if you have the most accurate navigation, you can't get around the pile of construction fences."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "Zhou Yan",
+        "text": "However, I just happened to have to go to the administration building to find a teacher there to sign a club budget. Lin Du, this is the first thing I want to teach you - in Hong Kong, China and Shenzhen, the fastest shortcut is never on the screen, but in the network."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "Lin Du Holding the bookmark, before he could speak, a shutter sound came from behind the green plants not far away. A boy with slightly curly short hair was sitting astride the bench, focusing on adjusting the focus of his SLR camera. The lens was focused on an orange cat basking in the sun on the armrest of the corridor of the administrative building."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "Gu Cheng",
+        "text": "Two of you, one wants to turn the school girl into a calculator, and the other wants to turn the school girl into an address book. Can you let her take a look at today's Huo Shaoyun first?"
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "",
+        "text": "Gu Cheng put down the camera and blinked at Lin Du, with an unmodified youthful look in his eyes."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "Gu Cheng",
+        "text": "The administration building is right there, you can't escape. But if you rush there now, you will miss the most romantic minute of this school - the moment when the sunset happens to pass through the gap in the corridor."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "Gu Cheng",
+        "text": "Lin Du, if everyone is rushing, who will look up at the sky?"
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "",
+        "text": "Three people, three completely different attitudes. Shen Qinghe represents the ultimate logic and efficiency, Zhou Yan represents complex connections and games, and Gu Cheng represents the sense of breath that is occasionally missed in the tight rhythm."
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "",
+        "text": "Lin Du stood among them, the screen of the mobile phone in his hand was slightly dim due to low battery. She realized it wasn't just a matter of leading the way. On the first day of entering this \"The Nameless Sea\", she had to decide how she wanted to swim."
+      }
+    ],
+    "choices": [
+      "Pursue logical efficiency",
+      "Seek connections",
+      "Look up and take in the view"
+    ]
+  },
+  "M0-2-2-A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "Senior... I still want to walk through it on my own. Could you please tell me the avoidance path of the \"vertical deviation\" in more detail?"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Shen Qinghe had originally planned to re-invest in the paper. When he heard this sentence, his fingers paused slightly on the screen. He raised his head and took another look at the school girl who looked a little embarrassed but had stubborn eyes."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Shen Qinghe",
+        "text": "Since you chose the most logical way. Then I don't mind demonstrating it."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Shen Qinghe closed the tablet neatly and stood up. There was no redundancy in his movements, and even the shoulder straps of the backpack were adjusted to the height where the force was most evenly distributed."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "Lin Du followed closely behind Shen Qinghe. Shen Qinghe did not take those wide avenues, but took her through the side door of an empty seminar room and entered a cargo elevator that few people usually noticed."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Shen Qinghe",
+        "text": "There is direct access to the second-floor platform to avoid the peak flow of people. In Hong Kong and Shenzhen, public routes are often the most time-consuming."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Lin Du",
+        "text": "Senior, are you usually so... rigorous about everything? I saw you were reading an all-English paper just now. Which course is it for?"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Shen Qinghe",
+        "text": "It's just a research assistant project for my sophomore year. This is not rigor, this is survival."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "Shen Qinghe stepped out of the elevator, his steps as steady as if driven by a stepper motor. Lin Du Looking at his back, I felt an almost oppressive sense of order."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "Shen Qinghe",
+        "text": "You have to understand that this school is essentially a resource allocation system. Grade points, scientific research quotas, and letters of recommendation are all limited. If you don't manage your time as well as your path, you'll quickly find that all that's left on your axis is chaos."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "Lin Du",
+        "text": "Chaos... does it mean things that can't be calculated?"
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "Shen Qinghe",
+        "text": "Such as emotions, such as unnecessary social interactions, such as invalid fantasies about the future."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "When they arrived at the service hall of the administrative building, exactly three minutes had passed. Shen Qinghe did not accompany Lin Du to wait in the long queue, but took her to an inconspicuous self-service machine."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "",
+        "text": "Lin Du followed his instructions, and sure enough, in less than five minutes, she got the file that might have taken an hour to queue up. When she walked out of the window, Shen Qinghe was still waiting by the pillar not far away, flipping through the schedule on her phone."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "Shen Qinghe",
+        "text": "Is it done? Then go and eat."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "The second floor of the student center cafeteria. This is the famous \"Academic Area\", and Shen Qinghe chose an extremely quiet corner seat."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "The food on the plate was carefully divided into three areas: protein, carbohydrates and vitamins. Each bite seemed to be chewed an equal number of times. Lin Du Looking at him, he felt like a precision-operated computer."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "Lin Du",
+        "text": "Senior, that senior Zhou Yan said just now that knowing people is more important than knowing the road. What do you think?"
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "Shen Qinghe",
+        "text": "Zhou Yan's method is to bet on variables. People's emotions, interests, and positions are all unstable variables. And I only believe in quantification."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "Shen Qinghe",
+        "text": "Lin Du, here you will meet a lot of people trying to get you to join the gang. But what you ultimately have to rely on is the question you solved alone late at night, and your waterless report card."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "Lin Du",
+        "text": "I get it...although it feels a bit stressful."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "Shen Qinghe",
+        "text": "Stress is feedback from the system. Now that you have chosen this place, don’t expect to be in your comfort zone."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "",
+        "text": "After Shen Qinghe drank the last sip of iced Americano, he stood up neatly."
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "",
+        "text": "He left a simple figure behind and disappeared behind the revolving door leading to the teaching area. Lin Du Sitting in her seat, looking down at the neatly arranged dinner plate she had been \"taught\" by Shen Qinghe, she suddenly felt that in this uncertain campus, this cold sense of order actually brought her an unprecedented sense of security."
+      }
+    ],
+    "choices": []
+  },
+  "M0-2-2-B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du looked at the exquisite bookmark with a miniature map that Zhou Yan handed over, and then looked at the blue dot that was still jumping around on the screen of the phone. There is an irresistible sense of certainty in Zhou Yan's smile, which is the look of someone who has been in control of a certain order for a long time."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "Lin Du",
+        "text": "Senior Sister Zhou... Then I'll trouble you. Since the navigation doesn't work, I still believe that \"local snake\" is better."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Zhou Yan",
+        "text": "Wise decision. By the way, this term is called \"social master\" in Hong Kong, China and Shenzhen."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Zhou Yan took the heavy canvas bag in Lin Du's hand very naturally. Although Lin Du tried to refuse, she just turned sideways lightly and took it with a brave but unquestionable strength."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Zhou Yan",
+        "text": "Girls shouldn't sweat profusely on the first day of school. Follow me. Although the road we are going to take is a little circuitous, it is air-conditioned and the scenery is good."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Zhou Yan took Lin Du into a sightseeing elevator on the side of the administrative building. As the height climbs, the view of the lower garden becomes unobstructed."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Zhou Yan",
+        "text": "Did you see those students queuing up on Longxiang Avenue under the scorching sun? Shen Qinghe will tell them that that is the only way to success. But I will tell you, that is ineffective loss due to poor information."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Lin Du",
+        "text": "Senior sister, you just said that the road to the administrative building is blocked. How are we going to get there?"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Zhou Yan",
+        "text": "That's why I brought you here."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "The elevator stopped at an elegantly decorated café level. Zhou Yan led Lin Du through several booths where people were talking and laughing, and went straight to a middle-aged man in the corner who was wearing reading glasses and reading a newspaper."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "Zhou Yan",
+        "text": "Teacher Lin, long time no see. I have read your paper on regional economy, and the data model is really beautiful."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "The person known as Teacher Lin put down the newspaper and smiled, obviously not surprised by Zhou Yan's appearance."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "Zhou Yan",
+        "text": "This is Lin Du, my new school girl. She is very conscientious in her work. She walked around downstairs three times to get a file and refused to take shortcuts. I was thinking, since you are drinking coffee here, could you help her sign the file? To prevent her from going to the window to bask in the sun again."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "",
+        "text": "In less than two minutes, while Zhou Yan was chatting and laughing, Lin Du got the student status confirmation form that originally required an hour of queuing. When I walked out of the coffee shop, Lin Du felt like I was watching a magical show."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "Lin Du",
+        "text": "Senior sister... can you just help me do it? I didn't even see the service window."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "Zhou Yan",
+        "text": "Lin Du, on this campus, the fastest path is not the straight line drawn by the navigation, but the name in your mobile phone address book."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "Zhou Yan took Lin Du to a fine restaurant on the second floor of Lotte Building. There is no noise like the canteen downstairs, and soft jazz flows in the air."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "Zhou Yan",
+        "text": "For the first meal, I treat you. Don't be too hasty to refuse. In Hong Kong, China and Shenzhen, rejecting others' good intentions often means rejecting a potential opportunity."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "",
+        "text": "At the dining table, Zhou Yan cut the steak gracefully, his eyes scanning the other people in the restaurant from time to time, and occasionally nodding."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "Zhou Yan",
+        "text": "Lin Du, Shen Qinghe will teach you how to solve problems, but I will teach you how to solve people. In this place, who you are is important, but who you know often determines how far you can go."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "Lin Du",
+        "text": "It sounds like...a smaller version of Vanity Fair."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "Zhou Yan",
+        "text": "You can put it more warmly and call it \"grow together.\" As long as you are willing, I can take you into the innermost circle."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "",
+        "text": "Zhou Yan pushed a glass of iced lychee drink in front of Lin Du, her eyes revealed a sense of adult wisdom and oppression. Lin Du Holding the cup and watching Zhou Yan busy processing various messages on WeChat, she realized that she seemed to have come into contact with the most secret and alluring operating rules of this school."
+      }
+    ],
+    "choices": []
+  },
+  "M0-2-2-C": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du In the end, I was moved by the orange cat in Gu Cheng’s lens. Compared to Shen Qinghe's coldness and Zhou Yan's shrewdness, the boy sitting on the back of the bench had a sense of relaxation that was incompatible with this tight campus."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "Lin Du",
+        "text": "Senior Gu... I want to see the lawn where you can see the burning clouds. In fact, I also think the clouds are quite beautiful now."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Gu Cheng",
+        "text": "Haha, I knew it! Lin Du, you have that kind of aura that has not been assimilated by these gray-white buildings. Quick, the best light time is only five minutes!"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Gu Cheng suddenly jumped off the bench and picked up the old canvas bag full of badges. He did not take Lin Du down the corridors filled with air conditioning, but opened a small door leading to the outside."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Gu Cheng",
+        "text": "Shen Qinghe will take you on the straight line, and Zhou Yan will take you on the golden line. But the road I take you to take is a windy road."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "They set out on a gravel path. The roadside is covered with dense poinciana trees. Due to the height difference of the platform buildings, although the steps here are a bit steep, every time you turn a corner, the view will suddenly open up."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Lin Du",
+        "text": "Senior, the mobile phone navigation said this is a dead end..."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Gu Cheng",
+        "text": "Navigation doesn’t understand what life is. You see, going around here, there are stone benches left from the old campus of the school. Sitting here, you can hear the wind by the lake, which is a sound you can never hear in the administration building."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "They came to a sloping lawn. The setting sun was passing through the huge gap between the two teaching buildings, dyeing the entire green space a brilliant golden purple. Lin Du stopped unconsciously. The sight in front of her made her almost forget the fatigue of reporting for school."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "Gu Cheng",
+        "text": "Lin Du, you have to remember that no matter how hard the buildings here are, the clouds are still soft."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "Gu Cheng took out two thick-cut toast rice balls from a convenience store, gave one to Lin Du, and then sat down directly on the floor."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "Gu Cheng",
+        "text": "Teacher Lin in the archives must be drinking tea now. Let's wait until he finishes drinking before going. Now, this burning cloud is yours."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "Lin Du",
+        "text": "Senior, are you so... comfortable every day?"
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Gu Cheng",
+        "text": "Freedom comes at a price. Shen Qinghe would laugh at me for wasting my time, and Zhou Yan would think I was worthless. But I always feel that if a person can't even keep the sunset in front of him, what else can he keep?"
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "Lin Du",
+        "text": "I originally thought that I came here just to become a perfect spot like Senior Sister Shen."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "Gu Cheng",
+        "text": "Don't. This world does not lack perfection, but it lacks warm people."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "Lin Du followed Gu Cheng's example and sat on the grass, tearing open the wrapping paper of the rice balls. The salty sea breeze blew from the direction of Dapeng Bay and brushed the tips of her hair. At this moment, those pressing class schedules, complicated social interactions, and heavy files all seem to have receded a little further."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "She watched as Gu Cheng raised his camera and pressed the shutter towards the horizon. The setting sun outlined his outline with a golden edge, and for the first time in this stressful campus, Lin Du found a breathing rhythm similar to \"home\"."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "Lin Du",
+        "text": "Senior...thank you for bringing me here."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "Gu Cheng",
+        "text": "Thank you for what. When you go to get your files later, if the teacher asks you why you are late, just tell him - you went to capture the sunset."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "",
+        "text": "Lin Du laughed. It was the most relaxed smile since she reported for duty."
+      }
+    ],
+    "choices": []
+  },
+  "M0-3-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "0:24am. Most of the lights in the Shangyuan dormitory area have been extinguished, and only scattered windows still reveal tired cold white light. Those are group previews that have not yet ended, or late-night online classes across time zones."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du Lying on the bed, her legs were sore from the long day of running around. She closed her eyes, but Shen Qinghe's \"coordinates\", Zhou Yan's \"connections\" and Gu Cheng's \"clouds\" kept echoing in her mind."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "In this sophisticated system called Hong Kong, China and Shenzhen, everyone seems to have found a self-consistent posture, but she is like an empty character that has not been written into the program."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Just when he was about to fall asleep, the phone next to his pillow vibrated briefly and dullly."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "A line appears at the top of the screen",
+        "text": "Welcome to the anonymous forum \"The Nameless Sea\"."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Lin Du",
+        "text": "Strange, when did I download this thing? Is it automatically pushed by the campus network?"
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "She tried to uninstall, but the moment her finger touched the icon, the screen suddenly went dark. Immediately afterwards, line after line of faint green code fell down like a waterfall, and was finally reorganized into a concise and almost crude section - \"Lesson Zero\"."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "Lin Du's fingers froze. She thought of the last meaningful look in the welcome senior's eyes when she was at the check-in point today."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "She took a deep breath and began to search for the truth among the flashing posts."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Lin Du clicked on the first red-lettered post that was pinned to the top."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "The text of the post only contained a brief transcript of the audio recording: \"He did not drop out of school, nor did he go abroad. After the last calculus class, he did not go to the library, but to the clock tower."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "Surveillance showed him entering the shadows of the bell tower, but none of the cameras caught him coming out. The next day, his dormitory bed was empty, and his name in the academic administration system turned into a string of garbled characters. The system determined that he ‘does not comply with the operational logic’. Everyone is still talking about his success, but no one remembers what he looks like. \""
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "Lin Du",
+        "text": "Doesn’t conform to... operational logic?"
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "",
+        "text": "Lin DuI felt a chill spreading from my fingertips. This is less like an ordinary urban legend and more like a systematic erasure."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "She continued to scroll down and clicked on the second post. The post was accompanied by a blurry late-night photo of the bell tower twisting into an eerie shape in the darkness."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "Lin Du",
+        "text": "If you hear four bells at four o'clock in the morning, please stop breathing immediately."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "The comment section of the post is extremely weird. Someone said: \"I heard it. That was not a bell, it was the sound of someone tapping the glass in the deep water.\" Someone else said: \"That was the end of get out of class bell. The professor in Lesson Zero never named people, he only picked those who were 'about to burst.' If you feel so stressed that your soul is about to overflow, you will see that door.\""
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "The comment section of the post is extremely weird. Someone said: \"I heard it. That was not a bell, it was the sound of someone tapping the glass in the deep water.\" Someone else said: \"That was the end of get out of class bell. The professor in Lesson Zero never named people, he only picked those who were 'about to burst.' If you feel so stressed that your soul is about to overflow, you will see that door.\""
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "",
+        "text": "When Lin Du reached the third post, her breath froze completely. The title of that post turned out to be: \"To Lin Du: Don't try to find coordinates. 》"
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "The post contains only one line",
+        "text": "The email address Shen Qinghe gave you was fake, the bookmark Zhou Yan gave you contained surveillance, and the clouds Gu Cheng showed you were illusions. Lin Du, come to me. I'll wait for you in the cracks in the system."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "Lin Du",
+        "text": "This is impossible...how do they know my name? Who is posting these things?"
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "",
+        "text": "At this moment, the phone screen was suddenly covered by a huge black dialog box. A user's avatar named \"Null\" lit up, a blank face without any facial features."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "Null",
+        "text": "You have read the three fragments. Lin Du, welcome to the real Hong Kong, China and Shenzhen."
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "Lin Du",
+        "text": "Who are you? How do you know my name? Are these posts from you?"
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "Null",
+        "text": "It doesn't matter who I am. The important thing is, what were you looking for just now? Are you looking for a sense of belonging or a way to escape?"
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "Null",
+        "text": "Shen Qinghe, Zhou Yan, Gu Cheng... they are the three fulcrums of this system. They show a certain extreme in order to cover up the absurdity of the core of the system."
+      },
+      {
+        "pageNumber": 27,
+        "speakerName": "Null",
+        "text": "You think you are choosing a path, but in fact you are just choosing which way to be reduced."
+      },
+      {
+        "pageNumber": 28,
+        "speakerName": "Lin Du",
+        "text": "I don't understand what you are talking about. I just came to college. I wanted to get good grades, make good friends, and find a good job."
+      },
+      {
+        "pageNumber": 29,
+        "speakerName": "Null",
+        "text": "Haha, what a standard set of templates. But Lin Du, do you think an \"unstable factor\" like you can really survive your freshman year within that template?"
+      },
+      {
+        "pageNumber": 30,
+        "speakerName": "Null",
+        "text": "Look at your hands. In Shen Qinghe's logic, you are an unnecessary deviation; in Zhou Yan's network, you are a resource that has yet to be evaluated; in Gu Cheng's dream, you are a supporting audience."
+      },
+      {
+        "pageNumber": 31,
+        "speakerName": "Null",
+        "text": "Only I treat you as a \"variable\"."
+      },
+      {
+        "pageNumber": 32,
+        "speakerName": "Null",
+        "text": "Now, make a decision."
+      },
+      {
+        "pageNumber": 33,
+        "speakerName": "Null",
+        "text": "【Follow】me. I will take you to see the traces left by those who were erased and to hear the real voice in the bell tower. But the price is that you may lose that \"ignorant happiness.\" You will start to question every class, every test, and even every person who smiles at you."
+      },
+      {
+        "pageNumber": 34,
+        "speakerName": "Null",
+        "text": "Lin Du, do you want to be a sane madman or a happy puppet?"
+      },
+      {
+        "pageNumber": 35,
+        "speakerName": "",
+        "text": "Lin Du bit her lower lip tightly and hovered her fingertips above the screen."
+      },
+      {
+        "pageNumber": 36,
+        "speakerName": "",
+        "text": "Outside the dormitory window, the shadow of the bell tower in the distance was stretched extremely long in the moonlight. At this moment, she seemed to really hear some kind of subtle harsh sound, like fingernails scratching glass, coming from the depths of the earth."
+      },
+      {
+        "pageNumber": 37,
+        "speakerName": "",
+        "text": "The feeling of uneasiness that Shen Qinghe couldn't calculate, Zhou Yan couldn't buy out, and Gu Cheng couldn't beautify flooded her like a tide."
+      },
+      {
+        "pageNumber": 38,
+        "speakerName": "Lin Du",
+        "text": "If this is really a game...I refuse to follow the guide you wrote."
+      },
+      {
+        "pageNumber": 39,
+        "speakerName": "",
+        "text": "Lin Du took a deep breath and pointed his finger heavily towards the [Follow] button."
+      },
+      {
+        "pageNumber": 40,
+        "speakerName": "Null",
+        "text": "...very interesting."
+      },
+      {
+        "pageNumber": 41,
+        "speakerName": "Null",
+        "text": "Congratulations, Lin Du. You just killed your \"quiet life\" with your own hands."
+      },
+      {
+        "pageNumber": 42,
+        "speakerName": "Null",
+        "text": "The preview questions for Lesson 1 have been sent to your email. Don't go to the administrative building to get files, go look at the sealed old archives room, where there is... the first record about yourself."
+      },
+      {
+        "pageNumber": 43,
+        "speakerName": "Null",
+        "text": "Good night, Lin Du. I hope you don’t dream about code tonight."
+      },
+      {
+        "pageNumber": 44,
+        "speakerName": "",
+        "text": "The phone screen returned to normal instantly. The weird icon disappeared, replaced by a calm system push: \"Tomorrow's class time: 08:30, please don't be late.\""
+      },
+      {
+        "pageNumber": 45,
+        "speakerName": "",
+        "text": "Lin Du collapsed on the bed, her heart beating so hard that she felt pain."
+      },
+      {
+        "pageNumber": 46,
+        "speakerName": "",
+        "text": "Outside the window, the breeze blew and the leaves of the Poinciana tree rustled. Lin Du knew that from this moment on, this \"The Nameless Sea\" had become completely treacherous to her."
+      },
+      {
+        "pageNumber": 47,
+        "speakerName": "[Prologue]",
+        "text": "over】"
+      }
+    ],
+    "choices": []
+  },
+  "M1-1-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "In early September in Shenzhen, the hot and humid air seemed to seep in even through the dormitory windows. In the dormitory of Diligent College, the cooling fans of four high-performance laptops made a low roar at the same time, as if they were warming up for the upcoming war."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du Sitting in front of the desk, the index finger of his right hand unconsciously pressed the mouse. The academic administration system page on the screen stayed at the \"Course Selection Entry\", and the countdown was beating: 00:12."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Su Mu",
+        "text": "My palms are all sweaty... Really, if I don't get that \"Introduction to Financial Accounting\", all my prerequisite course plans for this semester will be cancelled."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Su Mu's voice was trembling. As the mildest among the roommates, the anxiety on her face almost overflowed at this moment."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Zhao Zixuan",
+        "text": "Don't scare yourself there. Su Mu, listen to me and refresh the page first. When it comes to grabbing classes, what matters is internet speed and hand speed, not your study plan."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Zhao Zixuan pushed up the black-rimmed glasses on the bridge of her nose. She had turned off all programs that occupied bandwidth, and even unplugged the only router in the dormitory and used a wired connection directly."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Liang Jiayi",
+        "text": "It doesn't matter if you can't get it. The worst thing you can do is ask the professor for more seats. Although the probability is lower than winning the lottery."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "Liang Jiayi was still calm and a bit mean. She compiled her pre-selected list without raising her head. Every minute and every second of the schedule on it was as precise as an industrial flow chart."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Countdown hits zero. 09",
+        "text": "00:00."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Lin DuPress the F5 key hard. The originally white page was instantly stuck, and the rotating loading circle seemed to be some kind of turntable of fate, spinning in everyone's tightened pupils."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "Su Mu",
+        "text": "Stuck! Help! My page cannot be opened!"
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "Zhao Zixuan",
+        "text": "Don't move! Wait for it to jump out on its own!"
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "Five seconds later, Lin Du’s page jumped first. The dense list of courses is like a line of prey waiting to be chosen."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Lin Du",
+        "text": "The line generation is gone... so fast."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "Lin Du's fingers moved quickly, and suddenly, the two courses collided in her pre-selected conflict list."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "The other course is \"Zero-Sum Logic and Human Behavior\", and the professor who teaches it is a name that I have never heard of. This course has no grades from previous years and no syllabus preview. The only thing that attracts Lin Du is the weird course code: MAT000."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "The phone jumped rapidly on the table. It's Shen Qinghe."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "Shen Qinghe",
+        "text": "Is it stuck?"
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "Lin Du",
+        "text": "Card. There is also conflict."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "Shen Qinghe",
+        "text": "Send me a screenshot."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "",
+        "text": "Lin Du quickly sent a photo. Three seconds later, Shen Qinghe's signature concise reply popped up in the dialog box."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "Shen Qinghe",
+        "text": "Delete that MAT000."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "Lin Du",
+        "text": "Why? The name of this course looks...interesting."
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "Shen Qinghe",
+        "text": "In this school, \"interesting\" is often synonymous with low grade points. I checked that code and it's not a regular course sequence. A lesson without data support is pure gambling."
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "Lin Du",
+        "text": "But I have almost mastered the course syllabus of \"Strategic Decision-making\" by myself since my freshman year."
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "",
+        "text": "Shen Qinghe's words were like a scalpel, directly cutting through the entanglement called \"desire for knowledge\" and \"achievement\" in Lin Du's heart."
+      },
+      {
+        "pageNumber": 27,
+        "speakerName": "Shen Qinghe",
+        "text": "If you want stability, delete MAT000. If you want that kind of uncontrollable \"space\", keep it. But the stress of this semester may be more than you can handle. You choose."
+      },
+      {
+        "pageNumber": 28,
+        "speakerName": "Su Mu",
+        "text": "Lin Du! Hurry up! If you don’t order it, it will be gone!"
+      },
+      {
+        "pageNumber": 29,
+        "speakerName": "Zhao Zixuan",
+        "text": "Don't worry about the useless ones, occupy the ones that can get points first!"
+      }
+    ],
+    "choices": [
+      "Prioritize GPA security",
+      "Pursue the unknown"
+    ]
+  },
+  "M1-1-2A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "You are right, Shen Qinghe. There is no need to hit the wall in the first semester."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du decisively unchecked \"Zero Sum Logic\" and clicked the confirmation button for \"Strategic Decision Management\". The page jumps, and the green prompt box \"Course selection successful\" lights up."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Lin Du",
+        "text": "Phew...got it."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "Shen Qinghe",
+        "text": "wise. If you take that weird class, I might have to pick you up at the door of the counseling room next week."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "The atmosphere in the dormitory has relaxed a bit. Lin Du Looking at the stable class schedule, although I feel a sense of security, there is a corner in my heart that is like a closed window, with no wind coming in."
+      }
+    ],
+    "choices": []
+  },
+  "M1-1-2B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "No. Shen Qinghe, if college is just to repeat what I already know, then I will really be just a part in these four years."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du gritted his teeth, canceled \"Strategic Decision Management\" at the last second, and pressed the \"Zero Sum Logic\" confirmation button."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "The page turned for three long seconds."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "System notice",
+        "text": "[Course selection successful. Number of students choosing the course: 15/15. 】"
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Lin Du",
+        "text": "Got it... I was the last one."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Lin Du",
+        "text": "One floor below? Isn't that the utility room?"
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Shen Qinghe",
+        "text": "That’s why it’s called “Course Zero.” Good luck, Lin Du."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Liang Jiayi",
+        "text": "Did you take that logic class you’ve never heard of? Lin Du, are you crazy? That kind of class doesn’t even have an exam syllabus, so you’re not afraid of failing the exam at the end of the semester?"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Lin Du",
+        "text": "Just hang up. At least the name of the course didn't bore me."
+      }
+    ],
+    "choices": []
+  },
+  "M1-1-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The laptop fan gradually died down. Su Mu collapsed on the chair, Zhao Zixuan was frantically joining the group, and Liang Jiayi was already buying textbooks based on the new class schedule."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du leaned back in his chair and looked at the strangely coded course lying quietly on the screen. She felt that from the moment she pressed the confirm button, some invisible gear had begun to turn."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "The course selection system in this school is never just about arranging time, it is more like an initial bid for the soul."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Some people chose the safe stairs leading to the Golden Tower, while others chose to jump into the unnamed deep sea."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "And Lin Du knows that no matter which path she chooses, this whirlpool called \"Grade Point Storm\" has completely sucked her into it."
+      }
+    ],
+    "choices": []
+  },
+  "M1-2-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "At 6:30 in the evening, discussion room 402 of the seminar building. Outside the window, the night in Longgang is swallowing up the last ray of light on the horizon little by little. In the discussion room, the incandescent tube made an extremely subtle buzzing sound, and the table was scattered with printed drafts of papers and several bottles of empty energy drinks."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "This is the first group presentation of Basic Data Analysis. The task is not difficult, but the requirements are extremely high, and the atmosphere in Lin Du's group is now colder than the temperature outside."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Lin Jianlu pushed up his glasses and tapped the keyboard with his fingertips. The scatter plot on the screen was messy and looked like a disaster. She is the technical core of the team and the one who can least tolerate flaws."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "Su Mu",
+        "text": "I...I can try to adjust the parameters again, but the rehearsals for my club's recent school anniversary party were so full that I really can't stand it anymore."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "Su Mu's voice was as thin as a gnat. She lowered her head and her eyes were filled with red threads. As the most easy-going person in the group but also the most easily burdened by trivial matters, she has reached the edge of collapse."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Zhao Zixuan",
+        "text": "Okay, everyone, stop wasting your time on this crappy model. I've got a \"off-the-shelf\" solution."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Zhao Zixuan took out a flash drive from his backpack and gently threw it in the center of the table. There was a calm look of victory on her face."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Lin Du",
+        "text": "Zhao Zixuan, are you saying that we should...\"borrow\" other people's achievements?"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Zhao Zixuan",
+        "text": "Lin Du, don’t say it so harshly. In Hong Kong and Shenzhen, this is called \"standing on the shoulders of giants\". When the senior gave this to me, it was a tacit understanding that we could refer to it."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "Lin Jianlu",
+        "text": "Reference and transfer are two different things. Zhao Zixuan, if the consistency of the underlying logic is caught by the plagiarism check system, it is not just a matter of failing the course, it is called academic misconduct."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "Zhao Zixuan sneered"
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "Zhao Zixuan",
+        "text": "Check for plagiarism? I changed the variable names, rearranged the layout, and even rewritten the comments. As long as we don't tell, who knows?"
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "The air froze instantly. Su Mu looked at the countdown on the whiteboard, and then at the flash drive in Zhao Zixuan's hand, with a trace of wavering in his eyes."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Su Mu",
+        "text": "How about... let's learn from it a little bit? As long as you change the core algorithm part yourself, it should...should be okay, right?"
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "Lin Jianlu",
+        "text": "Changing the core is no longer a reference. Lin Du, you are the team leader, you speak."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "Three pairs of eyes looked at Lin Du at the same time."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "Lin Jianlu's eyes held a kind of final stubbornness and expectation, Zhao Zixuan's eyes were full of provocation and temptation, and Su Mu was only tired of longing for relief."
+      }
+    ],
+    "choices": [
+      "Allow the shortcut",
+      "Stick to your principles"
+    ]
+  },
+  "M1-2-2A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "It's really too late. Since Zixuan has a ready-made framework, let's... use it."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Jianlu's hand that was about to operate the mouse froze. She looked at Lin Du, a trace of disappointment flashed in her eyes, and then she lowered her head silently and closed her computer."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Lin Du",
+        "text": "But Zixuan, you must ensure that the changes are thorough enough. All variable names, logical order, and even the dirty data processing methods inside must be rewritten."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "Zhao Zixuan",
+        "text": "Don't worry, it's not the first time I've done this. Lin Du, believe me, when you see your transcript at the end of the semester, you will thank me for my decision tonight."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "That night, the only sound in the discussion room was the frantic typing of keyboards."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Defense the next day."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Professor",
+        "text": "Your prediction accuracy is very high, even exceeding the level of some senior students."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "The professor stared at the curves on the screen, frowning slightly, and his eyes swept over the faces of the four girls."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Professor",
+        "text": "This feature extraction idea is very novel. Can you explain in detail how you derived it?"
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "Zhao Zixuan",
+        "text": "It was written by me, and we referred to last year's..."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "Zhao Zixuan answered fluently, but Lin Du noticed that Lin Jianlu, who was sitting next to him, did not glance at the screen during the whole process."
+      }
+    ],
+    "choices": []
+  },
+  "M1-2-2B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "We don't use that plate. Put it away, Zixuan."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "Zhao Zixuan",
+        "text": "Lin Du! Are you crazy? It's seven o'clock in the evening, only five hours left before the deadline! If we don't copy...and don't refer to it, we can only hand over a pile of garbage tomorrow!"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Lin Du",
+        "text": "Jianlu, if you reconstruct the underlying logic now, how long will it take at the fastest?"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Jianlu suddenly raised his head, and a cluster of fire instantly ignited in his tired eyes."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Lin Jianlu",
+        "text": "Three hours. As long as Su Mu can help me label the remaining data, I can run the model all night."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Su Mu",
+        "text": "I do! I'm not going to the rehearsal, I'm staying."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Defense the next day."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Professor",
+        "text": "Although the completion is a little rough, and there are even a few model fitting errors...but I can see the trajectory of your thinking."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "The professor closed his notebook and showed a rare smile."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "When he walked out of the classroom, the sun shone on Lin Jianlu's relieved face."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "Lin Jianlu",
+        "text": "Lin Du, thank you. Last night...I really thought you were going to pick that plate."
+      }
+    ],
+    "choices": []
+  },
+  "M1-2-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "In the corridor, other groups were cheering and discussing where to go to celebrate getting perfect scores."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du looked back at the small discussion room behind him."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "She began to realize that some choices are just a score at the moment, but in the future, it will become a crack in your character or a hard cornerstone."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "The grade point storm had just begun, and she was already standing at the center of the whirlpool."
+      }
+    ],
+    "choices": []
+  },
+  "M1-3-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "One fifteen in the morning, old library. The light from the incandescent lamp hit the table, making it dazzlingly white."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "There was the rustling of papers and the sound of muffled coughs. In this corner of the city known as the \"City That Never Sleeps\", the air is filled with a sense of anxiety called \"performance points,\" which is so thick that it makes people breathless."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Lin Du stared at the data model on the screen. The characters danced in front of his eyes, gradually blurring into a messy ghost image."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "Lin Du",
+        "text": "...Is it hopeless?"
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "She murmured in a low voice, and her fingertips moved unconsciously on the table. At this moment, a bottle of ice-cold sugar-free black coffee tapped the back of her hand."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Shen Qinghe stood at the table at some point. She was still wearing that meticulous white shirt, her long hair was tied neatly behind her head, and her eyes were sober and almost cold."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Shen Qinghe",
+        "text": "You're looking at other people's points."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Shen Qinghe",
+        "text": "Then don't look. Data can only describe the past and cannot determine how to write your next line of code."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Lin Du",
+        "text": "Can't do it. As long as I close my eyes, all I can think about is rankings and those who started earlier than me. I feel like I'm going to... burst."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Shen Qinghe pulled out his chair and sat across from her. He did not urge her to go back to review or comfort her, but just looked at her calmly."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "Shen Qinghe",
+        "text": "Two options. Or force it to stop. Or, ask someone to stop for you."
+      }
+    ],
+    "choices": [
+      "Ask for help",
+      "Push through alone"
+    ]
+  },
+  "M1-3-2A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "I can't stop. Shen Qinghe, take me to a place without screens."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Shen Qinghe nodded. Without hesitation, he quickly closed Lin Du's computer and stuffed it into his bag. He took her wrist and walked out of the suffocating reading room."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "The lights in the psychological counseling center are dimly lit late at night. On the terrace at the door, a boy was squatting on the ground repairing a pot of withered green plants. It's Gu Cheng."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "Gu Cheng",
+        "text": "Hey, Great Talent Shen, why are you bringing someone to \"surrender\" at such a late hour?"
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Shen Qinghe",
+        "text": "She was burning out. Leave it to you, I have another experiment."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Shen Qinghe let go of his hand, nodded to Lin Du, turned around and disappeared at the end of the corridor. His back looked lonely and hard under the cold white light. Gu Cheng patted the dirt on his hands and smiled gently at Lin Du."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Gu Cheng",
+        "text": "Take a seat. There are no performance points here, only the wind that has not fallen asleep."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Lin Du",
+        "text": "Senior Gu... I just feel that I am so useless. Everyone was sprinting, but I wanted to escape."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Gu Cheng",
+        "text": "People are not machines, Lin Du. The machine will shut down if it overheats. Why do you ask yourself to keep it on?"
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Gu Cheng handed Lin Du a decompression pinch, which was a soft little cloud."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "Gu Cheng",
+        "text": "The road to Hong Kong, China and Shenzhen is very long. If you use up all the gas in the first chapter, how are you going to go in the next ninety chapters? Sometimes, stopping to look at the stars is not a waste of time, but a way to calibrate your course."
+      }
+    ],
+    "choices": []
+  },
+  "M1-3-2B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "No, I can't stop. Shen Qinghe, help me look at this logical flaw. As long as I unlock this level, I can sleep peacefully."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Shen Qinghe was silent for a moment. There was a flash of complicated emotions in his deep eyes, as if he wanted to dissuade, but in the end he just pulled the chair closer."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Shen Qinghe",
+        "text": "Since this is your calculation, hang on."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Shen Qinghe took out his tablet and drew several sharp red lines next to the code of Lin Du. His fingertips occasionally touched the back of Lin Du's hand, and the temperature was surprisingly cold."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Shen Qinghe",
+        "text": "The third line and the seventh line conflict logically. If you want to resist, don't be emotional, use your brain as a processor, and only run logic."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "For the next three hours, Lin Du felt like the world was fading away. Her senses were shrinking, leaving only the numbers on the screen and Shen Qinghe's cold, precise instructions. There was a dull pain in her temple, and the hand holding the mouse began to tremble slightly."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Shen Qinghe",
+        "text": "Untied. But Lin Du, your heart rate is very fast and your breathing rate is wrong."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Lin Du",
+        "text": "It's okay...I won, didn't I?"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "Lin Du looked at the running program with a pale smile on his face. Shen Qinghe looked at her, his brows furrowed slightly, and there was concern in his eyes, but in the end he just handed her a wet tissue."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "Shen Qinghe",
+        "text": "You didn't win, you just prepaid your energy for tomorrow. Come on, I'll take you back to your dormitory."
+      }
+    ],
+    "choices": []
+  },
+  "M1-3-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "At four o'clock in the morning, the poinciana trees outside the library were swaying in the breeze. Lin Du Walking on the path back to the dormitory, my shadow was stretched by the street lights."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "She didn't know if she was moving forward or just spinning. She began to have an illusion: the surrounding teaching buildings seemed to be rising little by little, turning into huge tombstones with densely packed performance rankings engraved on them."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Lin Du, welcome to midterm week. How much 'self' do you have left now?"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Du shook his head, the ominous premonition getting heavier and heavier. She realized that tonight's collapse was just a prelude. Some kind of monster called \"equal distribution\" was slowly opening its eyes deep in her consciousness."
+      }
+    ],
+    "choices": []
+  },
+  "M1-4-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "At the school bus stop at four o'clock in the morning, the fog was so thick that it couldn't be lifted. Lin Du Walking downhill back to the dormitory, the street lights dimmed into blurry yellow haloes in the thick fog, like the eyes of dying fish in the deep sea."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Suddenly, the surrounding sounds disappeared. There was no sound of wind, no chirping of insects, and even her own footsteps became distant."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "A figure slowly emerged in the center of the thick fog. It was wearing the same school uniform as Lin Du, but its face was completely blank, except for a huge, bright red number floating on its chest: 4.0."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "That's the \"phantom of equalization.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "The phantom made overlapping sounds, which were Su Mu's crying, Zhao Zixuan's ridicule, Liang Jiayi's indifference, and the accumulation of tens of millions of private messages in the anonymous forum."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "GPA phantom",
+        "text": "Lin Du. Look at the people around you. Shen Qinghe has gone to a distance that you can't see, and Zhou Yan has mastered resources that you can't touch. And you are still complacent about the logical loopholes in \"Course Zero\"?"
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Lin Du",
+        "text": "……Shut up. Those numbers don't represent me."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "GPA phantom",
+        "text": "Really? Who would you be without these three numbers? In this system, people who have no ranking do not even have a shadow."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "Countless 4.0 numbers hit Lin Du like hailstones. Lin Du I felt like I had difficulty breathing, as if a huge stone was pressing on my chest. She looked at her hands and found that her fingertips were becoming transparent little by little, as if as long as her grades dropped, she would be completely wiped out from this world."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "The phantom's figure suddenly grew larger, and its voice became Lin Du's own confession."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "GPA phantom",
+        "text": "Admit it, Lin Du. You took that weird class not because you were ideal, but because you were afraid of losing on the regular track. You are a coward. What you call \"honest\" is just because you don't have the guts to cheat."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "Lin Du",
+        "text": "That's not it...I just want to get back those forgotten things."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "GPA phantom",
+        "text": "Forgot? No memory is needed here, only output. Look at your stress levels right now, you're going crazy. You think you are looking for the truth, but in fact you are just jumping deeper and deeper into the abyss."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "",
+        "text": "Phantom stretched out his cold hand and touched Lin Du's forehead with his fingertips. Lin Du I felt that the memories about the Poinciana tree, Gu Cheng's clouds, and late-night coffee were fading rapidly in my mind, leaving only a series of calculations and rankings."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "The surrounding tombstones began to collapse, turning into a black tide trying to submerge Lin Du. This is the final game, and she must give a definition before her will collapses."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "Three large, shimmering phrases popped up on the screen."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "How do you respond to this wave of denial?"
+      }
+    ],
+    "choices": [
+      "I am the winner of this system",
+      "I answer only to my curiosity",
+      "I will break this mirror"
+    ]
+  },
+  "M1-4-2A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "I'll get that 4.0, but I'm not there for submission, I'm for dominance. When I stand at the top, all you illusory numbers will listen to me."
+      }
+    ],
+    "choices": []
+  },
+  "M1-4-2B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin DuClose her eyes and let the black tide wrap around her. In the absolute darkness, the \"cloud\" deep in her heart lit up with a faint light, completely dispelling the phantom."
+      }
+    ],
+    "choices": []
+  },
+  "M1-4-2C": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "Lin Du",
+        "text": "Shen Qinghe, Zhou Yan, and you... you are all just reflections of this \"The Nameless Sea\". If the truth is hidden in the abyss, then I will dive to the bottom and break the mirror."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du did not retreat, but rushed towards the phantom. Her hand passed through Phantom's void chest and grasped the core of that core."
+      }
+    ],
+    "choices": []
+  },
+  "M1-4-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "When the last trace of the illusion disappeared, Lin Du found himself standing at the door of the dormitory. The sun has penetrated the morning fog and shone on the stone tablet of Longxiang Avenue."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "She gasped for air, sweat soaking through her shirt."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "The phone vibrated. It was an email notification from the score query system: \"Your midterm transcript has been generated.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Du Looking at the screen, his heartbeat gradually stabilized."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "For the first time she truly realized",
+        "text": "The transcript speaks, but it never tells the truth."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "It is a footnote to this system, but it should not be the title of her life."
+      }
+    ],
+    "choices": []
+  },
+  "M1-5-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Ten o'clock in the morning, Diligent College dormitory."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Four laptops were on at the same time, and the originally lively dormitory fell into an eerie silence. Outside the window, the leaves of the Poinciana tree rustled in the wind, but they couldn't cover up the rapid breathing inside."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "The blue button of \"Score Inquiry\" is now like a mechanism leading to heaven or hell."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "Su Mu",
+        "text": "I...I don't dare to order. If I fail that accounting subject, my scholarship for the next semester will be completely gone."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "Su Mu curled up in the chair, her fingers hovering on the touchpad for a long time, and finally closed her eyes and pressed it hard."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Su Mu",
+        "text": "Phew...3.1. Thank God, I survived."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Zhao Zixuan turned to look at Lin Du, with a hint of probing in her tone."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Liang Jiayi",
+        "text": "3.95. Still not close."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Lin Du",
+        "text": "Mine came out too."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Lin Du looked at the screen. After experiencing the game of \"Equal Sharing Phantom\", that string of numbers seems to be no longer so dazzling."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "The phone vibrates. Shen Qinghe's message arrived as promised."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "Shen Qinghe",
+        "text": "Got the points?"
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "Lin Du",
+        "text": "Got it. 3.x."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Shen Qinghe",
+        "text": "A little higher than I expected. It means you haven't been bogged down by that weird class yet."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "Lin Du",
+        "text": "But there was no score in Course Zero. Is this normal?"
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "Shen Qinghe",
+        "text": "In Hong Kong, China and Shenzhen, abnormality is normal. This means you haven't passed its \"final threshold\" yet."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "Before Lin Du could reply, the screen was suddenly covered by a new incoming call interface. Caller: Zhou Yan."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "This is the first time that Lin Du has received a formal call from this social core since he registered."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "Lin Du",
+        "text": "Hello?"
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "Zhou Yan",
+        "text": "Are the results out? Don't be nervous, I'm not here to check."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "Zhou Yan",
+        "text": "Lin Du, I saw your performance during the group assignment defense. Although your score is not first in the school, your way of thinking is very special."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "Zhou Yan",
+        "text": "Is your current score enough to enter a bigger game?"
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "Lin Du",
+        "text": "What's the meaning?"
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "Zhou Yan",
+        "text": "If you just stare at the numbers on that piece of paper, the best you can do is become a high-level part. But if you want to be the person who designs the machine, you need something that your transcript won't give you."
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "",
+        "text": "The voice on the other end of the phone paused, with a mature and dangerous appeal."
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "Zhou Yan",
+        "text": "You have potential. But you haven't even begun to learn how to use it."
+      },
+      {
+        "pageNumber": 27,
+        "speakerName": "Zhou Yan",
+        "text": "Tomorrow at four o'clock in the afternoon, the coffee shop on the top floor of the administrative building. I have an interesting project proposal for those who dare to look for answers beyond a perfect score."
+      },
+      {
+        "pageNumber": 28,
+        "speakerName": "",
+        "text": "The phone was hung up. Lin Du Looking up out of the dormitory window, the setting sun is lengthening the silhouette of Zhixin Building."
+      },
+      {
+        "pageNumber": 29,
+        "speakerName": "",
+        "text": "The smoke from Chapter 1 is clearing, but the real storm seems to be just brewing."
+      },
+      {
+        "pageNumber": 30,
+        "speakerName": "[Chapter One]",
+        "text": "over】"
+      }
+    ],
+    "choices": []
+  },
+  "M5-1-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The sunset during the graduation season dyed the brick surface of Longxiang Avenue an almost dry blood color. Lin Du Standing on the terrace on the highest floor of the library, listening to the cheers and the click of the camera shutter coming from downstairs. Figures wearing black and gold academic gowns ran on the lawn, their square hats being thrown into the air and falling like birds with broken wings."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "Lin Du",
+        "text": "I got what everyone wanted, but why do I feel like an empty bottle?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "The wind blew up her hair, and the air was filled with the salty smell of earth after rain. Ever since the tragic final of the competition, she always felt like there was a pair of eyes watching her from behind. Every seemingly chance opportunity, every near-death reversal, looking back now, has a sense of being carefully choreographed."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "The phone in my pocket vibrated dully. That was a special frequency she set just for \"that account.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "On the screen, the blank dialog box looked particularly dazzling in the dusk."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Null",
+        "text": "Congratulations. You've finally reached the top. You are now the most proud work of this school."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Lin Du",
+        "text": "Are you here to celebrate or to close the net?"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Null",
+        "text": "I'm here to show you the evidence. The answer you have been searching for for four years is on the basement floor of the old campus administration building. That was the only corner that was missed in the digital transformation of the entire school."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Null",
+        "text": "Go check it out. Go and see where those people before you who also got perfect scores and had the same great scenery ended up."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Lin Du's breathing stopped for a moment. She turned her head and looked at the old building almost covered with ivy on the west side of the campus. It was once the core of the school when it was first founded, but now it is like a tombkeeper abandoned by the times, sinking in the fog."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "She did not go back to the dormitory to attend the graduation dinner. Instead, she followed the slope of the lower garden and sneaked to the west through the shadows of the layers of terraces. The slope was a little slippery after the rain, and the sound of every footstep reminded her that she was deviating from the broad road blessed by everyone."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "When we arrived at the old administration building, the lights of the campus already seemed a bit distant. Lin Du Avoided the chained door in the front and went around a blind corner in the faculty and staff passage at the back. She pushed aside the overgrown weeds, pushed open the side door that could not be closed due to the aging of the door shaft, and got in sideways."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "Darkness swallowed everything in an instant. The interior of the old building was filled with the smell of stale paper, mixed with the smell of ozone from some old computer room. Lin Du did not turn on the flashlight, but used the light of lightning flashing outside the window to avoid the abandoned tables and chairs on the ground."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Lin Du",
+        "text": "Null, I'm already in. The structure here is more complex than I imagined."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "Null",
+        "text": "Go down. Go to the unmarked iron gate. Remember, don't try to scream when you see the truth, the system will recognize the noise in the high frequency band."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "Lin Du felt that my palms were covered with cold sweat. This physical trembling made her feel a long-lost reality. Compared to the polite, efficient, but suffocatingly hypocritical graduation season outside, the coldness and depression here actually made her feel like she was still alive."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "She stepped on the water-logged ground and reached the end of the corridor. The cast iron door glowed green under the weak beam of the flashlight, and a black sealing strip was stuffed into the crack of the door."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "She took out the magnetic card from her bag that she had accidentally obtained from her tutor's office at great risk. She held her breath and moved the card across the sensing area with trembling fingertips."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "",
+        "text": "\"clatter\"."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "",
+        "text": "The sound of the door lock's bits turning caused heavy echoes in the empty basement. Lin Du Pushing the door open hard, the musty smell hit her face. She coughed violently a few times, and was immediately frozen in place by the sight in front of her."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "",
+        "text": "The room was not as messy as expected, but rather eerily neat. Dozens of iron cabinets stand like tombstones, with yellowed year labels on the cabinet doors."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "Lin Du",
+        "text": "This is...the destination of the \"disappeared\"?"
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "",
+        "text": "Trembling, she opened the drawer marked \"Abnormal Trajectory Records\" and took out a heavy brown paper bag. The cotton thread was brittle and broke at her fingertips."
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "Lin Du",
+        "text": "Chen Zihan, graduated in 2015, with full GPA. Treatment opinion: The degree of awakening is too high and cannot be reconstructed by the social system, so \"silence\" treatment is performed."
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "Lin Du",
+        "text": "Li Wei, graduated in 2018, School of Economics and Management. Opinions on handling: Trying to establish a decentralized evaluation system, threatening the steady state, and guiding them to \"suspend school due to illness\"."
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "",
+        "text": "Lin Du flipping through those rosters, those geniuses who once flashed in campus legends but suddenly disappeared. She recalled that Zhou Yan once said calmly that those people just \"choose another path.\" It turns out that the road leads all the way to this dark secret room."
+      },
+      {
+        "pageNumber": 27,
+        "speakerName": "Lin Du",
+        "text": "Proposed watch list...Lin Du."
+      },
+      {
+        "pageNumber": 28,
+        "speakerName": "",
+        "text": "Lin Du It felt like a piece of ice had been stuffed into my throat. The cold handwriting read: \"The object has passed all stress tests and has shown extremely high logical adaptability. However, its core consciousness remains hostile to the system. It is now guided to the final verification stage to evaluate whether it has the value of being 'recycled' or 'erased'.\""
+      },
+      {
+        "pageNumber": 29,
+        "speakerName": "",
+        "text": "Lead it in."
+      },
+      {
+        "pageNumber": 30,
+        "speakerName": "",
+        "text": "These five words were like a heavy hammer, smashing the last trace of luck in Lin Du's heart."
+      },
+      {
+        "pageNumber": 31,
+        "speakerName": "Lin Du",
+        "text": "It turns out that what I thought was an independent investigation, what I thought was a sneak resistance... were all scripts written by you?"
+      },
+      {
+        "pageNumber": 32,
+        "speakerName": "",
+        "text": "At this moment, the fluorescent tube in the data room suddenly made a violent hissing sound, and pale light instantly filled the room."
+      },
+      {
+        "pageNumber": 33,
+        "speakerName": "",
+        "text": "The figure of Lin Du is reflected in the full-length mirror on the wall of the data room. But the figure did not move as she retreated. Instead, it maintained the posture of flipping through the files and slowly raised its head."
+      },
+      {
+        "pageNumber": 34,
+        "speakerName": "",
+        "text": "The shadow showed a face exactly like Lin Du, but without any expression."
+      },
+      {
+        "pageNumber": 35,
+        "speakerName": "Mirror Lin Du",
+        "text": "You're three minutes ahead of schedule. It seems that your curiosity outweighs your fear."
+      },
+      {
+        "pageNumber": 36,
+        "speakerName": "Lin Du",
+        "text": "...Are you Null? Or is it the will of the system?"
+      },
+      {
+        "pageNumber": 37,
+        "speakerName": "Mirror Lin Du",
+        "text": "I am you. The you who thought about tearing up test papers in countless exams, the you who thought about exposing lies in countless social interactions. Now, do you see the end?"
+      },
+      {
+        "pageNumber": 38,
+        "speakerName": "Mirror Lin Du",
+        "text": "Lin Du, success is designed, and perfect scores are also designed. On this campus, you are a data packet, and I am your check value."
+      },
+      {
+        "pageNumber": 39,
+        "speakerName": "Mirror Lin Du",
+        "text": "Now, you have the list. Do you plan to walk out of this door, continue to report to that company, and become part of us? Or do you plan to... disappear completely?"
+      },
+      {
+        "pageNumber": 40,
+        "speakerName": "",
+        "text": "Lin Du Feeling a strong dizziness, she leaned against the cold iron cabinet, and the roster slipped from her fingertips, like a broken dream."
+      },
+      {
+        "pageNumber": 41,
+        "speakerName": "Lin Du",
+        "text": "If all my pain and struggle are calculated, then what does my will mean?"
+      },
+      {
+        "pageNumber": 42,
+        "speakerName": "Mirror Lin Du",
+        "text": "That's what you'll learn next. But before that happens, you have to learn how to get out of the building knowing you're a prisoner."
+      },
+      {
+        "pageNumber": 43,
+        "speakerName": "",
+        "text": "The sound of uniform mechanical footsteps came from outside the corridor, which was a signal that the patrol system was activated. Lin Du realized that if she continued to stay where she was, she would become a piece of paper in the portfolio."
+      },
+      {
+        "pageNumber": 44,
+        "speakerName": "",
+        "text": "She grabbed the list suddenly, her eyes showing an almost crazy sobriety."
+      },
+      {
+        "pageNumber": 45,
+        "speakerName": "Lin Du",
+        "text": "Since you like to calculate probabilities... then I will give you an ending that cannot be defined."
+      },
+      {
+        "pageNumber": 46,
+        "speakerName": "",
+        "text": "She rushed out of the data room and disappeared at the end of the dark corridor. Behind her, the mirror image Lin Du was still standing in the mirror, letting out a vague sigh, as if looking at another part that was about to break."
+      }
+    ],
+    "choices": []
+  },
+  "M5-2-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "In the convenience store, the incandescent light tubes emitted a subtle buzzing sound, which was particularly harsh in the silent night. Lin Du was sitting in the corner, with a cup of cold black coffee in front of her, her bloodshot eyes reflected in the brown liquid."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The incomplete list that had been snatched from the old archives was spread out on the table. The rain wet the corners of the paper, and the originally cold printed fonts were slightly dizzy under the water stains, like struggling souls. Lin Du With trembling fingers, he crossed the three heavily marked names: Chen Zihan, Li Wei, and Zhang Ming."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "Lin Du",
+        "text": "If this is really an \"execution list\", then there must still be traces of their existence somewhere in this campus. The system can erase files, but it cannot erase people's memories."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "She took a deep breath and forced her cold brain to work again. She began to search in those abandoned campus forums and dusty community groups. She discovered that the truth is often not hidden in official narratives, but in the fear and silence of survivors."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "The professor has nearly retired, his hair is gray, and his eyes reveal a loneliness that has seen through the world of mortals. When Lin Du mentioned that name on the pretext of “organizing interviews with outstanding alumni,” Professor Wang’s hand that was wiping the beaker suddenly froze."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Professor Wang",
+        "text": "Zihan...he is a child who pursues \"purity\" too much. In this school, purity often means vulnerability."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Professor Wang",
+        "text": "That's the standard explanation given by the system. The truth is that he discovered in the last national project that our core algorithm was artificially biased by some \"external force\" in order to cater to the expected success rate. He refused to sign the falsified report and tried to disclose it to the academic committee."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Lin Du",
+        "text": "So he was erased?"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Professor Wang",
+        "text": "It's more brutal than that. Overnight, his experimental data was reset, and members of his mentor group fell silent. Everyone said he was crazy and hallucinating due to excessive stress. When a person tells the truth and no one believes him, he is indeed not far from madness."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "When walking out of the laboratory, Lin Du felt the air-conditioning in the corridor chilling to the bone. She understood that Chen Zihan was not a loser. He refused to become a \"sophisticated forger\" and was therefore judged by the system as irreparable redundancy."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "The second name is Li Wei. The outstanding student of the School of Economics and Management in 2018 almost became the president of the student union. Lin Du found Zhou Yan alone on the terrace on the top floor of Lotte Building."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "The evening breeze messed up Zhou Yan's meticulous hairstyle. He looked at the fragment of page handed over by Lin Du, with a bitter curve at the corner of his mouth."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "Zhou Yan",
+        "text": "You still found her. Lin Du, I told you, some secrets are meant to be left in the rain."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Lin Du",
+        "text": "Is she your rival, or your ally?"
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "Zhou Yan",
+        "text": "She is my mirror. Li Wei tried to implement a completely transparent resource allocation system. She wanted students who had no background and could only study to get top referral opportunities. She attempts to break the school's most secretive \"assignment rule.\""
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "Lin Du",
+        "text": "So, the system determines that she \"threatens homeostasis\"?"
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "Zhou Yan",
+        "text": "She is so naive. She thought that as long as the rules were fair, everyone would support her. But she didn’t know that many people were the beneficiaries of unfair rules. That year, she was anonymously reported for so-called \"personal conduct issues.\" Although no evidence was found, her reputation was ruined. The system directed her to \"take a leave of absence due to illness\" and quickly replaced her with another obedient person."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "Lin Du",
+        "text": "Were you among those beneficiaries at that time, Zhou Yan?"
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "Zhou Yan",
+        "text": "…I just chose to follow the rules. Lin Du, if you don’t want to be the second Li Wei, burn that list now."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "",
+        "text": "Zhou Yan turned around, his back looking extremely lonely against the lights of thousands of houses. Lin Du Looking at her, he realized that Zhou Yan's \"game\" was actually a kind of struggle at the edge of the system."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "",
+        "text": "Lin Du Found Gu Cheng on the bench by the Shenxian Lake. He was looking fascinated at the dancing scales on the lake, holding a broken film camera in his hand."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "Gu Cheng",
+        "text": "Zhang Ming, he is the only one who would sit here with me all night, just waiting for the evening breeze that \"doesn't belong to the class schedule\"."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "Lin Du",
+        "text": "Everyone said he had a perfect 4.0 and a bright future. Why is he leaving?"
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "Gu Cheng",
+        "text": "Because when he signed the contract with an annual salary of one million, he suddenly asked me - \"Gu Cheng, if I sell the next forty years to this system, when will I be able to live for myself for a second?\"."
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "Lin Du",
+        "text": "So he chose to disappear?"
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "Gu Cheng",
+        "text": "He folded the contract into a paper boat and put it right here in the Fairy Lake. The system judged him to be in \"psychological crisis,\" but I think he was the only one who was truly sober. He cut off all the labels on his body and returned himself to the wilderness."
+      },
+      {
+        "pageNumber": 27,
+        "speakerName": "",
+        "text": "Lin Du Sitting next to Gu Cheng, the wind from the lake blew away the remaining warmth from her body."
+      },
+      {
+        "pageNumber": 28,
+        "speakerName": "",
+        "text": "Three names, three paths. Chen Zihan defended the truth, Li Wei pursued justice, and Zhang Ming found himself."
+      },
+      {
+        "pageNumber": 29,
+        "speakerName": "",
+        "text": "None of them are \"losers\" in the secular sense. On the contrary, it is because after reaching the peak defined by this system, they still retain the \"impurities\" of being human."
+      },
+      {
+        "pageNumber": 30,
+        "speakerName": "Lin Du",
+        "text": "It turns out that this list is not a \"trash list\", it is a \"awakened list\"."
+      },
+      {
+        "pageNumber": 31,
+        "speakerName": "",
+        "text": "The phone vibrated violently in the pocket, and the expressionless face of the mirror image Lin Du popped up on the screen."
+      },
+      {
+        "pageNumber": 32,
+        "speakerName": "Mirror Lin Du",
+        "text": "Have the puzzle pieces come together? Lin Du, you should have discovered it. Shen Qinghe, Zhou Yan, Gu Cheng, each of them had the opportunity to be a member of the list."
+      },
+      {
+        "pageNumber": 33,
+        "speakerName": "Mirror Lin Du",
+        "text": "Shen Qinghe discovered the falsification of data, but she chose to paralyze herself through logic; Zhou Yan saw through the filth of power, but he chose to become an agent of power; Gu Cheng felt the withering of his soul, but he chose to linger in the illusion."
+      },
+      {
+        "pageNumber": 34,
+        "speakerName": "Mirror Lin Du",
+        "text": "And you, Lin Du. You are the most perfect set of data in the past four years. You went through all their pain and still didn't compromise."
+      },
+      {
+        "pageNumber": 35,
+        "speakerName": "",
+        "text": "Lin Du stood up and held the list close to his chest. She felt her heart beating stronger than ever before, drowning out the dull bells of the bell tower in the distance."
+      },
+      {
+        "pageNumber": 36,
+        "speakerName": "Lin Du",
+        "text": "If being a \"complete person\" means being excluded from this system, then I also want to see what the background of this ocean is."
+      },
+      {
+        "pageNumber": 37,
+        "speakerName": "",
+        "text": "There was a faint white fish belly on the horizon, illuminating the end of Longxiang Avenue. Those magnificent buildings are still silent, but in Lin Du's eyes, they are no longer temples of knowledge, but old statues of gods waiting to be torn down."
+      },
+      {
+        "pageNumber": 38,
+        "speakerName": "",
+        "text": "She turned around and strode towards the administrative center that led to the final decision. Her back looked extremely lonely in the morning mist, but it also carried a tragic and solemn look as if she was about to die."
+      }
+    ],
+    "choices": []
+  },
+  "M5-3-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "On the terrace on the top floor of the administrative building, the wind sounded like a trapped animal trapped in a concrete gap, making a low and shrill roar. Although the rain has stopped, the heavy clouds are still low over the campus, as if you can touch the gray and suffocating sky with your hand."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du Standing on the edge of the rooftop, the strong wind picked up the corners of her clothes and made a sound. She held the somewhat damaged brown paper bag tightly in her hand, which contained not only three erased lives, but also the deepest reef of the entire \"The Nameless Sea\"."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "As long as she takes another step forward, she can overlook the entire Longxiang Avenue. Those magnificent teaching buildings and well-proportioned corridors looked so solemn and unchallengeable in the dim skylight."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "A blurry figure was reflected on the glass door of the terrace. Lin Du Turning around, he saw the \"mirror image\" who looked exactly like him but had eyes as cold as ice, leaning in the shadow."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Mirror Lin Du",
+        "text": "Is the thing in your hand heavy? Those are not just pieces of paper, they are fire that can make this sea boil."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Lin Du",
+        "text": "What on earth were you expecting? Expect me to throw it down and watch it shatter in the wind? Or do you expect me to send it to all on-campus email addresses and watch the system crash instantly?"
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Mirror Lin Du",
+        "text": "The system will have 10,000 ways to shut you up. It will cancel your student ID, withdraw your employment confirmation, and even lead everyone to believe that you are delusional due to excessive stress."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Lin Du",
+        "text": "I know. Chen Zihan tried it, and so did Li Wei."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Mirror Lin Du",
+        "text": "What about you? Do you want to be like them and turn yourself into a string of gibberish formatted by the system?"
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "At this moment, the door to the top terrace was pushed open again. Heavy footsteps were accompanied by rapid breathing, and three figures appeared in Lin Du's field of vision."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "The first person to walk out was Shen Qinghe. He was still wearing the neat shirt, and the tablet screen in his hand was on, with complex data streams jumping on it."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "Shen Qinghe",
+        "text": "Lin Du, don’t be impulsive. I've traced your terminal exception. If this list were made public on a large scale, the collective anxiety caused would exceed the system's capacity."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "Lin Du",
+        "text": "Qinghe, you have known about the existence of this list for a long time, right?"
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Shen Qinghe",
+        "text": "I have deduced the probability of its existence through the model. But Lin Du, data tells us that any extreme change will bring greater damage. If you want to change the system, you should stay, enter management, and optimize it in a more rational way."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "Zhou Yan followed closely behind, her usually calm face showing a rare hint of anxiety, and her tie was slightly askew."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "Zhou Yan",
+        "text": "Lin Du, listen to Qinghe. Give me the list and I can use my channels to pass this list to the board of directors. We can fight for reputational compensation for those who disappeared through internal closed-door meetings, and even promote fine-tuning of the evaluation system."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "Lin Du",
+        "text": "Internal closed-door meeting? Then what? This list will still be locked away in the archives, and people outside will still feel that they are living in a perfect filter, right?"
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "Gu Cheng walked last. He didn't look at the list, he just stared at Lin Du quietly, with an almost transparent purity in his eyes."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "Gu Cheng",
+        "text": "Lin Du, you have to think clearly, the people on this list... do they still want to be pulled back into this system?"
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "Lin Du",
+        "text": "What do you mean, Gu Cheng?"
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "Gu Cheng",
+        "text": "Zhang Ming told me that the day he left, the thing he regretted most was not burning all the records about himself. If you make this list public, they will become a topic of discussion for others and become samples that are systematically dissected repeatedly."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "Gu Cheng",
+        "text": "Perhaps the real protection for them is to completely disappear into these codes and leave their stories to those who truly understand, rather than to audiences who only watch theater."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "",
+        "text": "Lin Du looked down at the file in his hand. The wind became stronger, and the pages rustled in the bag, as if Chen Zihan, Li Wei and Zhang Ming were whispering to her across time and space."
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "",
+        "text": "Three friends, three paths. Disclosing the whole school is a tragic truth; submitting it to the school is a gentle reform; keeping records confidential is the last sign of respect."
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "Lin Du",
+        "text": "I have been doing this calculation for the past four years. I thought the answer was in the grade points, in the resume, in these files."
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "Lin Du",
+        "text": "But now I find that there is no standard answer to this question. Only the price I am willing to pay."
+      },
+      {
+        "pageNumber": 27,
+        "speakerName": "",
+        "text": "The mirror image Lin Du slowly walked to her side, and the figure was intertwined with Shen Qinghe, Zhou Yan, and Gu Cheng, forming an invisible pressure wall."
+      },
+      {
+        "pageNumber": 28,
+        "speakerName": "Mirror Lin Du",
+        "text": "The time has come, Lin Du. The signal jammer in the Administration Building will activate in three minutes. You either upload it, hand it over, or destroy it."
+      },
+      {
+        "pageNumber": 29,
+        "speakerName": "Lin Du",
+        "text": "I once asked Null who I would be without an audience."
+      },
+      {
+        "pageNumber": 30,
+        "speakerName": "Lin Du",
+        "text": "Now I finally know. I am the one who dares to tear up the test paper after getting perfect marks."
+      },
+      {
+        "pageNumber": 31,
+        "speakerName": "",
+        "text": "Lin Du Taking a deep breath, the cold air filled her lungs, giving her an almost painful clarity. Her fingers hovered over the \"School Broadcast\" button on the phone screen, and her other hand pressed on the palm of Zhou Yan's outstretched hand, while her eyes stayed on Gu Cheng's face that represented freedom."
+      },
+      {
+        "pageNumber": 32,
+        "speakerName": "Lin Du",
+        "text": "Qing He, logic is not omnipotent; Zhou Yan, interests are not eternal; Gu Cheng, escape is not the end."
+      },
+      {
+        "pageNumber": 33,
+        "speakerName": "",
+        "text": "She closed her eyes and thought of Chen Zihan's cleared experimental diary, Li Wei's removed campaign poster, and Zhang Ming's paper boat floating on the lake."
+      },
+      {
+        "pageNumber": 34,
+        "speakerName": "",
+        "text": "Their names should be more than footnotes."
+      },
+      {
+        "pageNumber": 35,
+        "speakerName": "",
+        "text": "Lin Du's fingers pressed hard."
+      },
+      {
+        "pageNumber": 36,
+        "speakerName": "",
+        "text": "The electronic screens in the entire administrative building flickered instantly, and the giant screen that was originally playing the school anniversary promotional video suddenly froze, and then began to scroll out rows of dense lists."
+      },
+      {
+        "pageNumber": 37,
+        "speakerName": "",
+        "text": "Those are the names of those who disappeared, their merit points, and the real reason why they were erased from the system."
+      },
+      {
+        "pageNumber": 38,
+        "speakerName": "",
+        "text": "Shen Qinghe closed his eyes, Zhou Yan collapsed on the bench, and Gu Cheng showed a relieved smile."
+      },
+      {
+        "pageNumber": 39,
+        "speakerName": "",
+        "text": "But she finally heard the truest voice."
+      },
+      {
+        "pageNumber": 40,
+        "speakerName": "",
+        "text": "The mirror image Lin Du gradually faded in the wind, and finally turned into a transparent mirror. Lin Du saw himself in the mirror. He was no longer the perfect graduate wearing a black and gold academic gown, but a stalker with clear eyes who had finally found his shadow."
+      },
+      {
+        "pageNumber": 41,
+        "speakerName": "Lin Du",
+        "text": "This is...the first lesson."
+      },
+      {
+        "pageNumber": 42,
+        "speakerName": "",
+        "text": "The clock tower bell rang without warning."
+      },
+      {
+        "pageNumber": 43,
+        "speakerName": "",
+        "text": "One sound, two sounds, three sounds."
+      },
+      {
+        "pageNumber": 44,
+        "speakerName": "",
+        "text": "When the fourth bell echoed over the silent campus, Lin Du did not look back. She walked towards the stairs leading to the unknown depths."
+      }
+    ],
+    "choices": []
+  },
+  "M5-4-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The fourth bell echoed over the silent campus. The sound was not like the reverberation of metal collision, but more like some kind of heavy iron door being slowly pushed open under deep water. Lin Du did not look back at the chaotic administrative building behind him, nor did he look at the names scrolling across the screen. She pushed open the narrow door leading to the attic on the top floor and stepped onto the spiral staircase hidden in the shadows, which seemed to lead to unknown depths."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The steps were cold and slippery, and with each step down, the light behind them diminished. Gradually, the texture of cement disappeared and was replaced by an illusion of nothingness, like stepping on a deep sea mirror. When Lin Du finished the last step, she found herself in a pure white, boundless mirror space."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "There is no gravity, no flow of air, just countless huge mirrors staggered in the void, each mirror reflecting a different side of Lin Du."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Three figures slowly walked out from the depths of the mirror. They had exactly the same faces as Lin Du, but they gave off completely different auras."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "The first one to come out, \"Lin Du\", was wearing the academic gown that had been reserved for the graduation ceremony and had gold thread embroidered on the collar. She held in her hand the entry agreement for a top consulting firm that had been abandoned by Lin Du, her eyes as cold as a precise formula."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Lin Du",
+        "text": "What I threw away was not the opportunity, but the chain."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Mirror",
+        "text": "chain? Lin Du, don't be naive. In this world, only successful people are qualified to talk about freedom. What you have ruined for those few yellowed old files is all the foreseeable good life you could have in the next twenty years. You are now a lunatic without a degree, a troublemaker blacklisted by all famous companies. You think you are redeeming those \"disappeared\", but in fact you are just committing a stupid self-immolation."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "Lin Du",
+        "text": "If that kind of \"superiority\" requires the erasure of fellow human beings and the castration of the self, then it is itself a fraud."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "The mirror image suddenly took a step forward and stared at Lin Du. Lin Du felt a strong dizziness, and the images of her heart racing for fame and wealth, and those images of her working all night long for grades came flooding in, trying to drown her again."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "Lin Du",
+        "text": "It doesn't matter whether they hate me or not. What's important is that from this second on, I no longer have to please anyone for that damn number, nor do I have to cut my soul for a perfect resume. Monsters like you who only live in expectations are the real prisoners."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "The mirror image made a sharp cracking sound, turned into countless black barcodes, and disintegrated into the void."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "The second \"Lin Du\" came out. She was wearing the old shirt from when she reported in freshman year, and her eyes were full of pain and guilt. Scattered at her feet were Shen Qinghe's tablet, Zhou Yan's business card, and Gu Cheng's camera."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "Mirror",
+        "text": "You revealed the truth, Lin Du. But have you ever thought that in the process, you become the kind of person you hate the most?"
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Lin Du",
+        "text": "...I have no choice."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "Mirror",
+        "text": "No choice? In order to get that list, you took advantage of Shen Qinghe's logical recognition of you. You knew that she valued order the most, but you plunged her into chaos. You took advantage of Zhou Yan's connections and made him a betrayer of the power he was attached to. You even took advantage of Gu Cheng's kindness, forcing him to face the cruelty he most wanted to escape."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "Lin Du",
+        "text": "I owe them and I will spend the rest of my life paying them back."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "Mirror",
+        "text": "Still have to clear it? You keep saying that the system is eating people, but look at you now. In order to achieve your so-called \"justice\", you use your friends as stepping stones. Chen Zihan finally found peace in the silence, but you forcibly opened his wounds and showed them to the whole school. Lin Du, are you really saving people? Or are you just enjoying the tragic pleasure of \"one man against the world\"?"
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "The mirror image issued a burst of stern questions. Lin Du felt a chill that penetrated into my bones, and that feeling of guilt was heavier than any punishment. She looked at the items belonging to her friends on the ground and felt her heart being rubbed repeatedly."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "",
+        "text": "Lin Du raised her head. Although tears streaked her cheeks, her eyes penetrated the illusory guilt."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "Mirror",
+        "text": "You are such a madman..."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "Lin Du",
+        "text": "Yes. In this game about yourself, if you don't go a little crazy, how can you jump out of the program you wrote?"
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "",
+        "text": "The mirror gradually became transparent amid violent shaking, and finally turned into a wisp of smoke and disappeared at the end of the space."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "",
+        "text": "The last person who walked out was \"Lin Du\" without any clothes, no expression, and even the outline of his face was a little blurry. She was not aggressive, she just stood there quietly, like an abyss completely reflecting the emptiness."
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "Mirror",
+        "text": "Now, your \"achievement\" is shattered and your \"ideal\" is full of cracks. The school guards downstairs have blocked all exits, and your file is being permanently logged out of the system."
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "Lin Du",
+        "text": "I know."
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "Mirror",
+        "text": "If there are no more labels, if there are no more praises or curses, if no one sees you anymore."
+      },
+      {
+        "pageNumber": 27,
+        "speakerName": "Mirror",
+        "text": "Lin Du. Who are you?"
+      },
+      {
+        "pageNumber": 28,
+        "speakerName": "",
+        "text": "This question is like a bottomless black hole that instantly absorbs all surrounding sounds. Lin Du Standing in the pure white space, I felt lonely as never before. Without the coordinate system, the network of connections, and the backdrop of the scenery, she found that she was just an extremely ordinary soul who felt cold in the dark and scared in desperate situations."
+      },
+      {
+        "pageNumber": 29,
+        "speakerName": "Lin Du",
+        "text": "who I am……"
+      },
+      {
+        "pageNumber": 30,
+        "speakerName": "",
+        "text": "She closed her eyes and thought of the Poinciana tree she saw the day she got lost in her freshman year, the taste of that glass of iced Coke, and the weak wind beside the Fairy Lake. Those moments did not exist because they were \"useful\", but because she truly felt life at that moment."
+      },
+      {
+        "pageNumber": 31,
+        "speakerName": "Lin Du",
+        "text": "I am not a perfect student of the system, nor am I a perfect savior."
+      },
+      {
+        "pageNumber": 32,
+        "speakerName": "Lin Du",
+        "text": "I'm just an ordinary person who learned to row a boat for himself in The Nameless Sea. I am Lin Du. It is not an abbreviation of any rules, nor is it a projection of anyone."
+      },
+      {
+        "pageNumber": 33,
+        "speakerName": "",
+        "text": "Lin Du stretched out his hand and gently touched the blurry reflection."
+      },
+      {
+        "pageNumber": 34,
+        "speakerName": "",
+        "text": "In an instant, the entire pure white space was like a huge piece of bulletproof glass being hit by a heavy hammer, instantly shattering into billions of crystal-clear debris."
+      },
+      {
+        "pageNumber": 35,
+        "speakerName": "",
+        "text": "Air rushed back into her lungs, and her eyes shot open. She discovered that she was not in some \"unknown depth\". She was still standing at the bottom of the spiral staircase in the administrative building."
+      },
+      {
+        "pageNumber": 36,
+        "speakerName": "",
+        "text": "The light was dim except for the flashing emergency lights. There were noisy shouts and running sounds above the stairs, the sound of Order trying to mend the cracks."
+      },
+      {
+        "pageNumber": 37,
+        "speakerName": "",
+        "text": "Mirror Lin Du has completely disappeared. The originally dusty stairwell wall reflected a thin but extremely clear figure."
+      },
+      {
+        "pageNumber": 38,
+        "speakerName": "Lin Du",
+        "text": "Is this the end?"
+      },
+      {
+        "pageNumber": 39,
+        "speakerName": "Null",
+        "text": "Passed the final exam. The answer you gave is a random value that has never been entered by the system."
+      },
+      {
+        "pageNumber": 40,
+        "speakerName": "Null",
+        "text": "Lin Du. Live a life that...is not defined by anyone."
+      },
+      {
+        "pageNumber": 41,
+        "speakerName": "",
+        "text": "Lin Du Putting her phone into her pocket, she straightened her hair that was messed up by the wind, and opened the door to the ground exit."
+      },
+      {
+        "pageNumber": 42,
+        "speakerName": "",
+        "text": "Outside the door, red and blue police lights flashed alternately in the night, and countless pairs of eyes were watching the door. Lin Du Narrowed her eyes, facing the dazzling beam of light, she took her last step in Hong Kong Zhongshen."
+      },
+      {
+        "pageNumber": 43,
+        "speakerName": "",
+        "text": "Her steps were light, but she stepped firmly on the ground with every step."
+      }
+    ],
+    "choices": []
+  },
+  "M5-5-1-A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The electronic storm at the Administration Building subsided just before dawn. The expected violent reckoning did not come, but was replaced by an almost solemn, vast silence."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du Walk out of the heavy revolving door that has lost power and locked. The air at five o'clock in the morning is slightly cool, carrying the fragrance of grass and trees after the rain. Longxiang Avenue appeared extremely broad in the thin morning light, and the outline of the mountains in the distance gradually became clear."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "By the fountain in front of the library, a familiar figure was sitting on a bench."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Zhou Yan did not wear that impeccable suit today, but only wore a simple dark blue sweatshirt, with his long hair draped casually on his shoulders. She held two cans of hot coffee in her hands, which looked soft in the white mist."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "Zhou Yan",
+        "text": "You came out faster than I thought. I thought those old men would chat with you until dawn."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "Lin Du",
+        "text": "They were just discussing how to deal with my \"student status\" as if it had never existed without alerting the outside world."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "Lin Du",
+        "text": "Zhou Yan, my 4.0 is gone."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "Zhou Yan stood up and walked to Lin Du. She did not conduct interest analysis as usual, but stretched out her hand, and her fingertips lightly brushed a trace of dust on Lin Du's cheek."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "Zhou Yan",
+        "text": "Perfect grade points are just vouchers issued by the system to obedient children. Now you don’t need to go to its supermarket to buy anything. Why do you need that coupon?"
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "Lin Du",
+        "text": "Ours?"
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "Zhou Yan showed an extremely bright, even rebellious smile. She took out a crumpled piece of paper from her pocket—it was some kind of partnership agreement that symbolized power that she had always carried with her. Now she had a huge cross scrawled on it."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "Zhou Yan",
+        "text": "I also resigned. Since you have turned this sea upside down, I can't just stay on the shore and be a spectator, right?"
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "Lin Du",
+        "text": "Are you serious? In order to accompany me, you gave up the position you have been running for four years?"
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "Zhou Yan",
+        "text": "No, Lin Du. I'm not here to accompany you. I have found that the \"uncalculated yaw\" with you is ten thousand times more interesting than sitting in the office and reading reports."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "The two walked side by side on Longxiang Avenue. Although all the honors of Lin Du had been erased from the electronic bulletin board on the roadside, some windows on the roadside quietly opened as they walked by."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "Some students waved to them silently from the balcony, and someone posted an unknown little flower on the message wall."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "Chen Zihan, Li Wei, Zhang Ming... those erased names are being resurrected in an informal way on the mobile phones and whispers of thousands of students. The system has patched the loopholes, but it cannot patch people's awakened memories."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "Lin Du",
+        "text": "Where are Shen Qinghe and Gu Cheng?"
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "Zhou Yan",
+        "text": "Qinghe is helping the school reconstruct its logical framework. He is trying to turn the \"Lesson Zero\" cleanup program into a real \"psychological support system\" from within. As for Gu Cheng...he went to Tibet with his camera. He said he wanted to take a picture of the fog-free prayer flags for Zhang Ming."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "",
+        "text": "They walked to the gate of Hong Kong Zhongshen. The stone monument at the school gate still stands, and the school motto \"Bowen and Promise\" shines brightly in the sun."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "Zhou Yan",
+        "text": "tramp?"
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "",
+        "text": "She took Lin Du's hand and clasped her fingers tightly with a firm and warm force."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "Zhou Yan",
+        "text": "We have the underlying code of the entire world in our hands, the clearest minds of this era, and each other."
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "Zhou Yan",
+        "text": "Lin Du, since you tore up the old script, we will write the next play ourselves."
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "",
+        "text": "Lin Du looked back at the towering bell tower."
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "",
+        "text": "The sunshine completely pushed away the clouds and fog, and the golden radiance shone on the glass curtain wall of the teaching building, reflecting thousands of streams of light. This is no longer a fortress where the soul is imprisoned, but a port where we have stayed and are about to say goodbye."
+      },
+      {
+        "pageNumber": 27,
+        "speakerName": "Lin Du",
+        "text": "Let's go, Zhou Yan."
+      },
+      {
+        "pageNumber": 28,
+        "speakerName": "",
+        "text": "They stepped onto the bus. The wheels turned, taking them out of this mesa-like maze and towards a future full of unknowns, risks, but also infinite possibilities."
+      },
+      {
+        "pageNumber": 29,
+        "speakerName": "",
+        "text": "The bus passed through the streets of Longgang, and the sun shone slantly through the windows. Lin Du leaned on Zhou Yan's shoulder, feeling the other person's steady heartbeat."
+      },
+      {
+        "pageNumber": 30,
+        "speakerName": "",
+        "text": "The last time the phone vibrated, it was from Null, but this time there was only a photo."
+      },
+      {
+        "pageNumber": 31,
+        "speakerName": "",
+        "text": "The photo showed their backs side by side in the rain for the first time four years ago. The caption read: \"Congratulations to you for finding that undefined path.\""
+      },
+      {
+        "pageNumber": 32,
+        "speakerName": "",
+        "text": "Lin Du turned off the phone and threw it into the gap in the seat."
+      },
+      {
+        "pageNumber": 33,
+        "speakerName": "",
+        "text": "Outside the window, the sea water of Dapeng Bay sparkles in the sun. It is a truly free and truly unnamed sea."
+      },
+      {
+        "pageNumber": 34,
+        "speakerName": "",
+        "text": "(End of play)"
+      }
+    ],
+    "choices": []
+  }
+}

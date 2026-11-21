@@ -1,0 +1,303 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61439982003de92469be8792356504db, type: 3}
+  m_Name: ProductDatabase
+  m_EditorClassIdentifier: Assembly-CSharp:DormMall:ProductDatabase
+  products:
+  - id: 1
+    productName: "\u6D77\u62A5"
+    category: "\u5899\u9762\u88C5\u9970"
+    description: "\u7B80\u7EA6\u5317\u6B27\u98CE\u683C\u5899\u9762\u6D77\u62A5"
+    iconPath: "DormMall/\u5899\u9762\u88C5\u9970/\u6D77\u62A5"
+    icon: {fileID: 21300000, guid: 3d48be3e50d4dcf46bf858c53edaeaa7, type: 3}
+    price: 49.9
+    placeablePrefabPath: "dormmodel/墙面装饰/海报/海报_1"
+  - id: 2
+    productName: "LED\u661F\u661F\u4E32\u706F"
+    category: "\u7167\u660E\u6C1B\u56F4"
+    description: "USB\u5145\u7535LED\u661F\u661F\u4E32\u706F"
+    iconPath: "DormMall/\u7167\u660E\u6C1B\u56F4/LED\u661F\u661F\u4E32\u706F"
+    icon: {fileID: 21300000, guid: 292c57db6856a4641a0fbb3c01fa26f4, type: 3}
+    price: 39.9
+    placeablePrefabPath: "dormmodel/照明/LED星星串灯"
+  - id: 5
+    productName: "\u5C0F\u578B\u591A\u8089\u690D\u7269\u5957\u88C5"
+    category: "\u7EFF\u690D\u6446\u4EF6"
+    description: "\u53EF\u7231\u591A\u8089\u690D\u7269\u7EC4\u5408"
+    iconPath: "DormMall/\u7EFF\u690D\u6446\u4EF6/\u591A\u8089"
+    icon: {fileID: 21300000, guid: e61bd8585a9501047b3303bd3ca2fe01, type: 3}
+    price: 29.9
+    placeablePrefabPath: "dormmodel/绿植/小型多肉植物套装"
+  - id: 6
+    productName: "\u521B\u610F\u7167\u7247\u5899\u8D34\u7EB8"
+    category: "\u5899\u9762\u88C5\u9970"
+    description: "\u53EF\u79FB\u9664\u7167\u7247\u5899\u8D34\u7EB8"
+    iconPath: "DormMall/\u5899\u9762\u88C5\u9970/\u7167\u7247\u5899\u8D34\u7EB8"
+    icon: {fileID: 21300000, guid: e3e9d4caa98f2b94a993025d90f59fe8, type: 3}
+    price: 39.9
+    placeablePrefabPath: "dormmodel/墙面装饰/照片墙相框组合_2"
+  - id: 8
+    productName: "\u62A4\u773C\u53F0\u706F"
+    category: "\u7167\u660E\u6C1B\u56F4"
+    description: "\u89E6\u63A7\u5F0F\u62A4\u773C\u53F0\u706F"
+    iconPath: "DormMall/\u7167\u660E\u6C1B\u56F4/\u62A4\u773C\u53F0\u706F"
+    icon: {fileID: 21300000, guid: 7a0fd3762283abe4b806dd125a924c79, type: 3}
+    price: 89.9
+    placeablePrefabPath: "dormmodel/照明/护眼台灯"
+  - id: 9
+    productName: "\u684C\u9762\u5C0F\u98CE\u6247"
+    category: "\u751F\u6D3B\u7528\u54C1"
+    description: "USB\u5145\u7535\u684C\u9762\u5C0F\u98CE\u6247"
+    iconPath: "DormMall/\u751F\u6D3B\u7528\u54C1/\u684C\u9762\u5C0F\u98CE\u6247"
+    icon: {fileID: 21300000, guid: 87c1f3c2f11c4a04a879e1d864c4d116, type: 3}
+    price: 29.9
+    placeablePrefabPath: "dormmodel/生活用品/风扇/桌面小风扇_1"
+  - id: 13
+    productName: "\u9999\u85B0\u8721\u70DB\u5957\u88C5"
+    category: "\u751F\u6D3B\u7528\u54C1"
+    description: "\u5929\u7136\u7CBE\u6CB9\u9999\u85B0\u8721\u70DB"
+    iconPath: "DormMall/\u751F\u6D3B\u7528\u54C1/\u9999\u85B0\u8721\u70DB\u5957\u88C5"
+    icon: {fileID: 21300000, guid: 31ab95c42308fd749a10a5b272fe3959, type: 3}
+    price: 49.9
+    placeablePrefabPath: "dormmodel/生活用品/蜡烛/香薰蜡烛套装_1"
+  - id: 15
+    productName: "\u7ACB\u4F53\u5899\u8D34\u753B"
+    category: "\u5899\u9762\u88C5\u9970"
+    description: "3D\u7ACB\u4F53\u5899\u8D34\u753B"
+    iconPath: "DormMall/\u5899\u9762\u88C5\u9970/\u7ACB\u4F53\u5899\u8D34\u753B"
+    icon: {fileID: 21300000, guid: 1dddea087b5e6844d986b92b7f03a4b6, type: 3}
+    price: 29.9
+    placeablePrefabPath: "dormmodel/其他/立体墙贴画"
+  - id: 17
+    productName: "\u6C34\u57F9\u7EFF\u841D\u5957\u88C5"
+    category: "\u7EFF\u690D\u6446\u4EF6"
+    description: "\u900F\u660E\u73BB\u7483\u74F6\u6C34\u57F9\u7EFF\u841D"
+    iconPath: "DormMall/\u7EFF\u690D\u6446\u4EF6/\u7EFF\u7BA9"
+    icon: {fileID: 21300000, guid: 4e2059c7ea1e97f448938dc15b47f54e, type: 3}
+    price: 39.9
+    placeablePrefabPath: "dormmodel/绿植/凤仙花种子盆栽"
+  - id: 18
+    productName: "\u8FF7\u4F60\u4ED9\u4EBA\u638C\u7EC4\u5408"
+    category: "\u7EFF\u690D\u6446\u4EF6"
+    description: "\u591A\u79CD\u8FF7\u4F60\u4ED9\u4EBA\u638C\u7EC4\u5408"
+    iconPath: "DormMall/\u7EFF\u690D\u6446\u4EF6/\u4ED9\u4EBA\u638C"
+    icon: {fileID: 21300000, guid: ad64c717ee9aad54196852b79e4a55cd, type: 3}
+    price: 49.9
+    placeablePrefabPath: "dormmodel/绿植/小型多肉植物套装"
+  - id: 21
+    productName: "\u6587\u7AF9\u76C6\u683D"
+    category: "\u7EFF\u690D\u6446\u4EF6"
+    description: "\u4F18\u96C5\u6587\u7AF9\u76C6\u683D"
+    iconPath: "DormMall/\u7EFF\u690D\u6446\u4EF6/\u6587\u7AF9"
+    icon: {fileID: 0}
+    price: 59.9
+    placeablePrefabPath: "dormmodel/绿植/虎皮兰盆栽"
+  - id: 24
+    productName: "\u864E\u76AE\u5170\u76C6\u683D"
+    category: "\u7EFF\u690D\u6446\u4EF6"
+    description: "\u864E\u76AE\u5170\u76C6\u683D"
+    iconPath: "DormMall/\u7EFF\u690D\u6446\u4EF6/\u864E\u76AE\u5170"
+    icon: {fileID: 21300000, guid: 1181a92fac8e1394cbfce6f80910684c, type: 3}
+    price: 35.9
+    placeablePrefabPath: "dormmodel/绿植/虎皮兰盆栽"
+  - id: 25
+    productName: "\u9F9F\u80CC\u7AF9\u5C0F\u82D7"
+    category: "\u7EFF\u690D\u6446\u4EF6"
+    description: "\u9F9F\u80CC\u7AF9\u5C0F\u82D7"
+    iconPath: "DormMall/\u7EFF\u690D\u6446\u4EF6/\u9F9F\u80CC\u7AF9"
+    icon: {fileID: 21300000, guid: fcd9bc367a9c37f47b57c6c94a5ef89b, type: 3}
+    price: 25.9
+    placeablePrefabPath: "dormmodel/绿植/龟背竹小苗"
+  - id: 26
+    productName: "\u8FF7\u4F60\u7275\u725B\u82B1\u76C6\u683D"
+    category: "\u7EFF\u690D\u6446\u4EF6"
+    description: "\u8FF7\u4F60\u7275\u725B\u82B1\u76C6\u683D"
+    iconPath: "DormMall/\u7EFF\u690D\u6446\u4EF6/\u7275\u725B\u82B1"
+    icon: {fileID: 21300000, guid: 0bf2057d2d447254fa15a6976c98dd07, type: 3}
+    price: 32.9
+    placeablePrefabPath: "dormmodel/绿植/迷你牵牛花盆栽"
+  - id: 27
+    productName: "\u51E4\u4ED9\u82B1\u79CD\u5B50\u76C6\u683D"
+    category: "\u7EFF\u690D\u6446\u4EF6"
+    description: "\u51E4\u4ED9\u82B1\u79CD\u5B50\u76C6\u683D"
+    iconPath: "DormMall/\u7EFF\u690D\u6446\u4EF6/\u51E4\u4ED9\u82B1"
+    icon: {fileID: 0}
+    price: 45.9
+    placeablePrefabPath: "dormmodel/绿植/凤仙花种子盆栽"
+  - id: 28
+    productName: "\u7D2B\u7F57\u5170"
+    category: "\u7EFF\u690D\u6446\u4EF6"
+    description: "\u7D2B\u7F57\u5170"
+    iconPath: "DormMall/\u7EFF\u690D\u6446\u4EF6/\u7D2B\u7F57\u5170"
+    icon: {fileID: 21300000, guid: e58cdeeee27af0a41932cc9ea439752a, type: 3}
+    price: 69.9
+    placeablePrefabPath: "dormmodel/绿植/紫罗兰"
+  - id: 30
+    productName: "3D\u6C34\u6676\u5899\u8D34"
+    category: "\u5899\u9762\u88C5\u9970"
+    description: "3D\u6C34\u6676\u8D28\u611F\u5899\u8D34"
+    iconPath: "DormMall/\u5899\u9762\u88C5\u9970/3D\u6C34\u6676\u5899\u8D34"
+    icon: {fileID: 21300000, guid: be93ccab8739f464d99e535544963996, type: 3}
+    price: 45.9
+    placeablePrefabPath: "dormmodel/其他/立体墙贴画"
+  - id: 31
+    productName: "\u78C1\u6027\u5899\u8D34"
+    category: "\u5899\u9762\u88C5\u9970"
+    description: "\u53EF\u64E6\u5199\u78C1\u6027\u9ED1\u677F\u5899\u8D34"
+    iconPath: "DormMall/\u5899\u9762\u88C5\u9970/\u78C1\u6027\u5899\u8D34"
+    icon: {fileID: 21300000, guid: 45fda42df3429b543ba451a08c9a5ae0, type: 3}
+    price: 59.9
+    placeablePrefabPath: "dormmodel/墙面装饰/磁性墙贴"
+  - id: 32
+    productName: "\u6302\u949F"
+    category: "\u5899\u9762\u88C5\u9970"
+    description: "\u7B80\u7EA6\u5317\u6B27\u98CE\u683C\u6302\u949F"
+    iconPath: "DormMall/\u5899\u9762\u88C5\u9970/\u6302\u949F"
+    icon: {fileID: 21300000, guid: efc4cb0fe4042b74d82e04098395d690, type: 3}
+    price: 79.9
+    placeablePrefabPath: "dormmodel/墙面装饰/挂钟"
+  - id: 33
+    productName: "\u7167\u7247\u5899\u76F8\u6846\u7EC4\u5408"
+    category: "\u5899\u9762\u88C5\u9970"
+    description: "\u591A\u5C3A\u5BF8\u76F8\u6846\u7EC4\u5408"
+    iconPath: "DormMall/\u5899\u9762\u88C5\u9970/\u7167\u7247\u5899\u76F8\u6846\u7EC4\u5408"
+    icon: {fileID: 21300000, guid: c158da966c401394ab18c7073b1e035d, type: 3}
+    price: 89.9
+    placeablePrefabPath: "dormmodel/墙面装饰/照片墙相框组合_1"
+  - id: 34
+    productName: "\u624B\u5DE5\u7F16\u7EC7\u6302\u6BEF"
+    category: "\u5899\u9762\u88C5\u9970"
+    description: "\u624B\u5DE5\u7F16\u7EC7\u68C9\u9EBB\u6302\u6BEF"
+    iconPath: "DormMall/\u5899\u9762\u88C5\u9970/\u624B\u5DE5\u7F16\u7EC7\u6302\u6BEF"
+    icon: {fileID: 21300000, guid: 7bc53c806dc65264e9ed8419b2a8f722, type: 3}
+    price: 129.9
+    placeablePrefabPath: "dormmodel/墙面装饰/手工编织挂毯"
+  - id: 35
+    productName: "LED\u9713\u8679\u706F"
+    category: "\u5899\u9762\u88C5\u9970"
+    description: "LED\u9713\u8679\u706F"
+    iconPath: "DormMall/\u5899\u9762\u88C5\u9970/LED\u9713\u8679\u706F"
+    icon: {fileID: 21300000, guid: 3bfbc73c2e639274bb944f4e648f196c, type: 3}
+    price: 99.9
+    placeablePrefabPath: "dormmodel/墙面装饰/霓虹灯/LED霓虹灯_1"
+  - id: 36
+    productName: "\u6295\u5F71\u661F\u7A7A\u706F"
+    category: "\u7167\u660E\u6C1B\u56F4"
+    description: "\u6295\u5F71\u661F\u7A7A\u706F"
+    iconPath: "DormMall/\u7167\u660E\u6C1B\u56F4/\u6295\u5F71\u661F\u7A7A\u706F"
+    icon: {fileID: 21300000, guid: 2513dfe16ee2edc46b088e034021f5e0, type: 3}
+    price: 129.9
+    placeablePrefabPath: "dormmodel/照明/投影星空灯"
+  - id: 37
+    productName: "\u667A\u80FD\u5C0F\u591C\u706F"
+    category: "\u7167\u660E\u6C1B\u56F4"
+    description: "\u611F\u5E94\u5F0F\u667A\u80FD\u5C0F\u591C\u706F"
+    iconPath: "DormMall/\u7167\u660E\u6C1B\u56F4/\u667A\u80FD\u5C0F\u591C\u706F"
+    icon: {fileID: 21300000, guid: ba10dc52f53d2fa499b5a58195493d19, type: 3}
+    price: 49.9
+    placeablePrefabPath: "dormmodel/照明/智能小夜灯"
+  - id: 38
+    productName: "\u6C1B\u56F4\u9999\u85B0\u706F"
+    category: "\u7167\u660E\u6C1B\u56F4"
+    description: "\u8D85\u58F0\u6CE2\u9999\u85B0\u706F"
+    iconPath: "DormMall/\u7167\u660E\u6C1B\u56F4/\u6C1B\u56F4\u9999\u85B0\u706F"
+    icon: {fileID: 21300000, guid: 3cfcb8170b506854199981470cc7e962, type: 3}
+    price: 79.9
+    placeablePrefabPath: "dormmodel/照明/氛围香薰灯"
+  - id: 40
+    productName: "\u5E8A\u5934\u9605\u8BFB\u706F"
+    category: "\u7167\u660E\u6C1B\u56F4"
+    description: "\u514D\u6253\u5B54\u5E8A\u5934\u9605\u8BFB\u706F"
+    iconPath: "DormMall/\u7167\u660E\u6C1B\u56F4/\u5E8A\u5934\u9605\u8BFB\u706F"
+    icon: {fileID: 21300000, guid: 11b86f61589ff444a91314ffbba7ee4e, type: 3}
+    price: 69.9
+    placeablePrefabPath: "dormmodel/照明/床头阅读灯"
+  - id: 41
+    productName: "LED\u88C5\u9970\u706F\u4E32"
+    category: "\u7167\u660E\u6C1B\u56F4"
+    description: "LED\u88C5\u9970\u706F\u4E32"
+    iconPath: "DormMall/\u7167\u660E\u6C1B\u56F4/LED\u88C5\u9970\u706F\u4E32"
+    icon: {fileID: 21300000, guid: 370a53a84e628b54ab0d2df90fbf5e0f, type: 3}
+    price: 45.9
+    placeablePrefabPath: "dormmodel/照明/LED星星串灯"
+  - id: 43
+    productName: "KTV\u6C1B\u56F4\u706F"
+    category: "\u7167\u660E\u6C1B\u56F4"
+    description: "KTV\u821E\u53F0\u6548\u679C\u6C1B\u56F4\u706F"
+    iconPath: "DormMall/\u7167\u660E\u6C1B\u56F4/KTV\u6C1B\u56F4\u706F"
+    icon: {fileID: 21300000, guid: 3364242155945974d9cc3283fed90523, type: 3}
+    price: 119.9
+    placeablePrefabPath: "dormmodel/墙面装饰/霓虹灯/LED霓虹灯_2"
+  - id: 44
+    productName: "\u84DD\u7259\u97F3\u7BB1\u706F"
+    category: "\u7167\u660E\u6C1B\u56F4"
+    description: "\u96C6\u7167\u660E\u4E0E\u84DD\u7259\u97F3\u7BB1\u4E8E\u4E00\u4F53"
+    iconPath: "DormMall/\u7167\u660E\u6C1B\u56F4/\u84DD\u7259\u97F3\u54CD\u706F"
+    icon: {fileID: 21300000, guid: 0a56c35eb35d9de4c9dfb7fda6eabf59, type: 3}
+    price: 159.9
+    placeablePrefabPath: "dormmodel/照明/护眼台灯"
+  - id: 45
+    productName: "\u4FBF\u643A\u5F0F\u5145\u7535\u5B9D"
+    category: "\u751F\u6D3B\u7528\u54C1"
+    description: "20000mAh\u5927\u5BB9\u91CF\u5145\u7535\u5B9D"
+    iconPath: "DormMall/\u751F\u6D3B\u7528\u54C1/\u4FBF\u643A\u5F0F\u5145\u7535\u5B9D"
+    icon: {fileID: 21300000, guid: bc2d5f243919a4b43a8202d30bdf3b86, type: 3}
+    price: 129.9
+    placeablePrefabPath: "dormmodel/生活用品/充电宝/便携式充电宝_1"
+  - id: 46
+    productName: "\u6298\u53E0\u96E8\u4F1E"
+    category: "\u751F\u6D3B\u7528\u54C1"
+    description: "\u5168\u81EA\u52A8\u6298\u53E0\u96E8\u4F1E"
+    iconPath: "DormMall/\u751F\u6D3B\u7528\u54C1/\u6298\u53E0\u96E8\u4F1E"
+    icon: {fileID: 21300000, guid: 40a78a229e4f3d246b44037bbdaa26fa, type: 3}
+    price: 39.9
+    placeablePrefabPath: "dormmodel/生活用品/伞/折叠雨伞_1"
+  - id: 47
+    productName: "\u4FDD\u6E29\u676F"
+    category: "\u751F\u6D3B\u7528\u54C1"
+    description: "304\u4E0D\u9508\u94A2\u4FDD\u6E29\u676F"
+    iconPath: "DormMall/\u751F\u6D3B\u7528\u54C1/\u4FDD\u6E29\u676F"
+    icon: {fileID: 21300000, guid: 99e82f5ae008d0c42ae6c166d518eae3, type: 3}
+    price: 59.9
+    placeablePrefabPath: "dormmodel/生活用品/杯子/保温杯_1"
+  - id: 48
+    productName: "\u4FBF\u643A\u5F0F\u6536\u7EB3\u888B"
+    category: "\u751F\u6D3B\u7528\u54C1"
+    description: "\u9632\u6C34\u6298\u53E0\u6536\u7EB3\u888B"
+    iconPath: "DormMall/\u751F\u6D3B\u7528\u54C1/\u4FBF\u643A\u5F0F\u6536\u7EB3\u888B"
+    icon: {fileID: 21300000, guid: e58540972c666084a917141b12bfbe17, type: 3}
+    price: 29.9
+    placeablePrefabPath: "dormmodel/生活用品/加湿器/桌面加湿器_2"
+  - id: 49
+    productName: "USB\u6570\u636E\u7EBF"
+    category: "\u751F\u6D3B\u7528\u54C1"
+    description: "\u4E09\u5408\u4E00\u5FEB\u5145\u6570\u636E\u7EBF"
+    iconPath: "DormMall/\u751F\u6D3B\u7528\u54C1/USB\u6570\u636E\u7EBF"
+    icon: {fileID: 21300000, guid: 57bc6038a4014f048a518415dbacb8ea, type: 3}
+    price: 19.9
+    placeablePrefabPath: "dormmodel/生活用品/USB数据线_1"
+  - id: 50
+    productName: "\u4FBF\u643A\u5F0F\u7259\u5237\u67B6"
+    category: "\u751F\u6D3B\u7528\u54C1"
+    description: "\u591A\u529F\u80FD\u7259\u5237\u67B6"
+    iconPath: "DormMall/\u751F\u6D3B\u7528\u54C1/\u4FBF\u643A\u5F0F\u7259\u5237\u67B6"
+    icon: {fileID: 21300000, guid: fcac7b1826a0c024bbf10a8114dbba73, type: 3}
+    price: 25.9
+    placeablePrefabPath: "dormmodel/生活用品/杯子/保温杯_2"
+  - id: 51
+    productName: "\u684C\u9762\u52A0\u6E7F\u5668"
+    category: "\u751F\u6D3B\u7528\u54C1"
+    description: "USB\u5145\u7535\u684C\u9762\u52A0\u6E7F\u5668"
+    iconPath: "DormMall/\u751F\u6D3B\u7528\u54C1/\u684C\u9762\u52A0\u6E7F\u5668"
+    icon: {fileID: 21300000, guid: a27b4b7d6fdeed94b8fa7b94c4a6e2fd, type: 3}
+    price: 69.9
+    placeablePrefabPath: "dormmodel/生活用品/加湿器/桌面加湿器_1"

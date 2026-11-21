@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: library_gaussian
+  m_EditorClassIdentifier: 
+  m_FormatVersion: 20231020
+  m_SplatCount: 4900000
+  m_BoundsMin: {x: -2.414248, y: -0.41051632, z: -1.9300513}
+  m_BoundsMax: {x: 2.376468, y: 0.32037586, z: 2.0367384}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 34e66f74f6157c0f08c99a77fb04f387
+  m_PosFormat: 1
+  m_ScaleFormat: 1
+  m_SHFormat: 2
+  m_ColorFormat: 1
+  m_PosData: {fileID: 4900000, guid: 56585779ddd29774daea56e5e47c8cfd, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 8d6199deb1a0e4342a9c502d9e5a0f1b, type: 3}
+  m_OtherData: {fileID: 4900000, guid: d36e8f59bf08cbb4e83ab9290508da02, type: 3}
+  m_SHData: {fileID: 4900000, guid: e5967cd528df68544a4e7c425b214046, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: 32038bc54db205b42b639b2708f0e0ef, type: 3}
+  m_Cameras: []

@@ -1,0 +1,96 @@
+using UnityEngine;
+
+[RequireComponent(typeof(AudioSource))]
+public class BackgroundMusic : MonoBehaviour
+{
+    [Header("????????????")]
+    public AudioClip bgmClip; // ?????????????
+    [Range(0f, 1f)]
+    public float bgmVolume = 0.5f; // ????????????
+    public bool playOnStart = true; // ???????????????
+    public bool dontDestroyOnLoad = true; // ???????????????
+
+    private AudioSource bgmAudioSource;
+
+    void EnsureAudioSource()
+    {
+        if (bgmAudioSource == null)
+            bgmAudioSource = GetComponent<AudioSource>();
+    }
+
+    void Awake()
+    {
+        // ?????????????????????????????????
+        if (dontDestroyOnLoad)
+        {
+            BackgroundMusic[] instances = FindObjectsOfType<BackgroundMusic>();
+            if (instances.Length > 1)
+            {
+                Destroy(gameObject);
+                return;
+            }
+            DontDestroyOnLoad(gameObject);
+        }
+
+        EnsureAudioSource();
+        if (bgmAudioSource == null)
+            return;
+
+        bgmAudioSource.clip = bgmClip;
+        bgmAudioSource.volume = bgmVolume;
+        bgmAudioSource.loop = true; // ??????????
+        bgmAudioSource.spatialBlend = 0f; // 2D??????????????????3D??
+    }
+
+    void Start()
+    {
+        // ????????????
+        if (playOnStart && bgmClip != null)
+        {
+            PlayBGM();
+        }
+    }
+
+    // ????????????????????????
+    public void PlayBGM()
+    {
+        EnsureAudioSource();
+        if (bgmAudioSource == null || bgmClip == null)
+            return;
+
+        if (!bgmAudioSource.isPlaying)
+            bgmAudioSource.Play();
+    }
+
+    // ????????????????????????
+    public void PauseBGM()
+    {
+        EnsureAudioSource();
+        if (bgmAudioSource == null)
+            return;
+
+        if (bgmAudioSource.isPlaying)
+            bgmAudioSource.Pause();
+    }
+
+    // ???????????????????????
+    public void StopBGM()
+    {
+        EnsureAudioSource();
+        if (bgmAudioSource == null)
+            return;
+
+        bgmAudioSource.Stop();
+    }
+
+    // ???????????????????????????
+    public void SetBGMVolume(float volume)
+    {
+        EnsureAudioSource();
+        if (bgmAudioSource == null)
+            return;
+
+        bgmVolume = Mathf.Clamp01(volume);
+        bgmAudioSource.volume = bgmVolume;
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "TMP.Examples.NoCompile",
+  "rootNamespace": "",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "COMPILE_TMP_EXAMPLES"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

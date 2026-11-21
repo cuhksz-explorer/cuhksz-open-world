@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621fa22f32c96542ae8c947bf9f6603, type: 3}
+  m_Name: ToyotaaCar
+  m_EditorClassIdentifier: 
+  vehicleName: Toyotaa
+  description: "GR\u6218\u795E\u6012\u543C\uFF01\u5F2F\u9053\u738B\u8005\uFF0C\u71C3\u5C3D\u6BCF\u4E00\u5BF8\u8D5B\u9053\uFF01"
+  thumbnail: {fileID: 21300000, guid: d146a3c47cd26644382870496049e34d, type: 3}
+  vehiclePrefab: {fileID: 8309554384303931481, guid: a473b752b6cb3ec4d838015eca5b7700, type: 3}
+  displayMaxSpeed: 360
+  accelerationRating: 5
+  handlingRating: 3

@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="LGU Explorer · 港中深AI校园 — 开放世界探索客户端下载" />
+  <title>LGU Explorer · 港中深AI校园</title>
+  <link rel="stylesheet" href="/portal.css" />
+</head>
+<body>
+  <div class="bg-layer" id="bgLayer" aria-hidden="true"></div>
+  <div class="bg-layer bg-layer-next" id="bgLayerNext" aria-hidden="true"></div>
+  <div class="bg-vignette" aria-hidden="true"></div>
+  <div class="bg-grain" aria-hidden="true"></div>
+  <canvas id="particleCanvas" class="particle-canvas" aria-hidden="true"></canvas>
+
+  <header class="site-nav" id="siteNav">
+    <div class="nav-inner">
+      <a class="brand" href="#home">
+        <span class="brand-mark">LGU</span>
+        <div class="brand-copy">
+          <span class="brand-en">LGU Explorer</span>
+          <span class="brand-cn">港中深AI校园</span>
+        </div>
+      </a>
+      <nav class="nav-links" id="navLinks">
+        <a href="#home" class="nav-link active" data-section="home">首页</a>
+        <a href="#world" class="nav-link" data-section="world">世界观</a>
+        <a href="#features" class="nav-link" data-section="features">游戏特色</a>
+        <a href="#news" class="nav-link" data-section="news">公告</a>
+        <a href="#download" class="nav-link nav-cta" data-section="download">下载</a>
+      </nav>
+      <div class="nav-right">
+        <span id="serverBadge" class="badge">连接中…</span>
+        <button type="button" class="nav-toggle" id="navToggle" aria-label="打开菜单">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero -->
+    <section id="home" class="hero-full section-anchor">
+      <div class="hero-content">
+        <p class="hero-eyebrow">OPEN WORLD · CAMPUS EXPLORATION</p>
+        <h1 class="hero-title">
+          <span class="hero-title-line">踏入未名之海</span>
+          <span class="hero-title-accent">探索港中深 AI 校园</span>
+        </h1>
+        <p class="hero-lead">
+          在真实校园地图中自由行走，体验主线剧情、支线任务与联机协作。
+          局域网一键下载，启动后自动校验版本与增量更新。
+        </p>
+        <div class="hero-actions">
+          <a href="#download" class="btn-primary" id="heroDownloadBtn">
+            <span class="btn-shine"></span>
+            <span>立即下载</span>
+          </a>
+          <a href="#world" class="btn-ghost">了解世界观</a>
+        </div>
+        <div class="hero-tags">
+          <span class="tag">开放世界</span>
+          <span class="tag">剧情任务</span>
+          <span class="tag">联机协作</span>
+          <span class="tag">热更新</span>
+        </div>
+      </div>
+      <div class="hero-banner" id="heroBanner">
+        <div class="banner-frame">
+          <div class="banner-glow"></div>
+          <p class="banner-label">CURRENT BUILD</p>
+          <p class="banner-version" id="heroVersionText">检测中…</p>
+          <p class="banner-sub" id="heroVersionSub">正在连接下载服务</p>
+        </div>
+        <div class="banner-dots" id="bannerDots" aria-hidden="true"></div>
+      </div>
+      <div class="scroll-hint" aria-hidden="true">
+        <span>SCROLL</span>
+        <div class="scroll-line"></div>
+      </div>
+    </section>
+
+    <!-- World -->
+    <section id="world" class="section section-anchor world-section">
+      <div class="section-head">
+        <p class="section-eyebrow">WORLD</p>
+        <h2 class="section-title">未名之海 · 校园即世界</h2>
+        <p class="section-desc">以 CUHK-Shenzhen 为蓝本构建的可探索开放场景，从教学楼到图书馆，从宿舍到花园，每一处都可能触发新的故事。</p>
+      </div>
+      <div class="world-grid">
+        <article class="world-card world-card-featured">
+          <div class="world-card-icon">🌊</div>
+          <h3>未名之海</h3>
+          <p>主角林渡踏入名为「未名之海」的异质空间，在真实与隐喻交织的校园中完成成长与抉择。</p>
+        </article>
+        <article class="world-card">
+          <div class="world-card-icon">🏫</div>
+          <h3>真实校园地图</h3>
+          <p>多场景无缝切换：undergarden、图书馆、研讨室、宿舍与更多建筑等你探索。</p>
+        </article>
+        <article class="world-card">
+          <div class="world-card-icon">📖</div>
+          <h3>分支剧情</h3>
+          <p>主线 M0–M5 与人物支线并行，对话选项将影响后续任务与校园关系。</p>
+        </article>
+        <article class="world-card">
+          <div class="world-card-icon">👥</div>
+          <h3>校园社交</h3>
+          <p>好友、聊天与联机信令，与同学一起在同一个 LAN 世界中冒险。</p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Features -->
+    <section id="features" class="section section-anchor features-section">
+      <div class="section-head">
+        <p class="section-eyebrow">FEATURES</p>
+        <h2 class="section-title">大世界探索 · 主流体验</h2>
+      </div>
+      <div class="features-showcase">
+        <article class="feature-panel">
+          <div class="feature-num">01</div>
+          <h3>自由探索</h3>
+          <p>第一 / 第三人称切换，跑图、交互、地图传送与公交站系统，像主流开放世界一样自由穿行。</p>
+          <ul class="feature-list">
+            <li>多场景加载与存档同步</li>
+            <li>任务引导与地面路径提示</li>
+            <li>交互提示与 NPC 对话</li>
+          </ul>
+        </article>
+        <article class="feature-panel">
+          <div class="feature-num">02</div>
+          <h3>任务与成长</h3>
+          <p>任务栏、金币奖励、新手教学与剧情分页对话，完整 RPG 式推进节奏。</p>
+          <ul class="feature-list">
+            <li>主线 / 支线任务链</li>
+            <li>云端存档与进度同步</li>
+            <li>热更新剧情与资源</li>
+          </ul>
+        </article>
+        <article class="feature-panel">
+          <div class="feature-num">03</div>
+          <h3>联机协作</h3>
+          <p>局域网内多人同屏冒险，GameServer 统一账号、好友与联机信令。</p>
+          <ul class="feature-list">
+            <li>房间与公开房间号</li>
+            <li>Proximity 聊天</li>
+            <li>任务进度云端保存</li>
+          </ul>
+        </article>
+        <article class="feature-panel">
+          <div class="feature-num">04</div>
+          <h3>持续更新</h3>
+          <p>启动器自动校验版本，优先增量补丁；管理员可在后台发布新客户端。</p>
+          <ul class="feature-list">
+            <li>整包 / 增量双模式</li>
+            <li>资源与剧情热更新</li>
+            <li>版本强制更新策略</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <!-- News -->
+    <section id="news" class="section section-anchor news-section">
+      <div class="section-head">
+        <p class="section-eyebrow">NEWS</p>
+        <h2 class="section-title">公告与更新</h2>
+      </div>
+      <div class="news-layout">
+        <article class="news-card news-card-highlight">
+          <span class="news-tag">最新版本</span>
+          <h3 id="newsVersionTitle">版本信息加载中…</h3>
+          <p id="newsNotesPreview" class="news-body">正在从服务器获取更新说明…</p>
+          <time id="newsTime" class="news-time">—</time>
+        </article>
+        <div class="news-list" id="newsList">
+          <article class="news-item">
+            <span class="news-item-tag">指南</span>
+            <h4>首次安装</h4>
+            <p>下载 zip → 解压 → 运行 .exe，保留 <code>_Data</code> 与 <code>MonoBleedingEdge</code> 文件夹。</p>
+          </article>
+          <article class="news-item">
+            <span class="news-item-tag">网络</span>
+            <h4>局域网要求</h4>
+            <p>请与下载服务器处于同一 LAN；游戏内 Base URL 指向 <code id="newsServerUrl">—</code></p>
+          </article>
+          <article class="news-item">
+            <span class="news-item-tag">更新</span>
+            <h4>增量更新</h4>
+            <p>再次启动时会自动校验版本，有补丁时优先下载变更文件，无需重复下载完整包。</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Download -->
+    <section id="download" class="section section-anchor download-section">
+      <div class="section-head">
+        <p class="section-eyebrow">DOWNLOAD</p>
+        <h2 class="section-title">获取客户端</h2>
+        <p class="section-desc">同一局域网内下载最新 LGU Explorer 安装包</p>
+      </div>
+
+      <div class="download-layout">
+        <section class="download-card" id="downloadCard">
+          <div class="card-glow" aria-hidden="true"></div>
+          <div class="card-inner">
+            <div class="card-head">
+              <div>
+                <p class="card-label">LATEST BUILD</p>
+                <h2 id="versionText" class="version-text">—</h2>
+              </div>
+              <div id="versionPill" class="version-pill waiting">检测中</div>
+            </div>
+
+            <div class="meta-grid">
+              <div class="meta-item">
+                <span class="meta-key">安装包大小</span>
+                <span id="sizeText" class="meta-val">—</span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-key">发布时间</span>
+                <span id="timeText" class="meta-val">—</span>
+              </div>
+              <div class="meta-item">
+                <span class="meta-key">文件数量</span>
+                <span id="fileCountText" class="meta-val">—</span>
+              </div>
+            </div>
+
+            <div class="notes-block">
+              <p class="notes-title">更新说明</p>
+              <p id="notesText" class="notes-body">正在获取版本信息…</p>
+            </div>
+
+            <a id="downloadBtn" class="download-btn disabled" href="#" download>
+              <span class="btn-icon" aria-hidden="true">↓</span>
+              <span class="btn-text">下载最新安装包</span>
+              <span class="btn-sub" id="downloadSub">请先等待版本信息加载</span>
+            </a>
+
+            <p id="statusMessage" class="status-message"></p>
+
+            <div class="download-extra">
+              <button type="button" class="link-btn" id="copyOriginBtn">复制下载页地址</button>
+              <span class="download-extra-sep">·</span>
+              <span class="download-extra-text">来源：<strong id="pageOrigin">—</strong></span>
+            </div>
+          </div>
+        </section>
+
+        <aside class="install-steps">
+          <h3>安装步骤</h3>
+          <ol class="steps-list">
+            <li>
+              <span class="step-num">01</span>
+              <div>
+                <strong>下载 zip</strong>
+                <p>点击按钮保存完整客户端到本机。</p>
+              </div>
+            </li>
+            <li>
+              <span class="step-num">02</span>
+              <div>
+                <strong>解压并运行</strong>
+                <p>解压后双击 <code>.exe</code>，勿删 <code>_Data</code> 文件夹。</p>
+              </div>
+            </li>
+            <li>
+              <span class="step-num">03</span>
+              <div>
+                <strong>保持最新</strong>
+                <p>之后启动自动校验，优先增量更新。</p>
+              </div>
+            </li>
+          </ol>
+        </aside>
+      </div>
+    </section>
+
+    <!-- Specs -->
+    <section id="specs" class="section section-anchor specs-section">
+      <div class="section-head">
+        <p class="section-eyebrow">SPECS</p>
+        <h2 class="section-title">推荐配置</h2>
+      </div>
+      <div class="specs-grid">
+        <article class="spec-card">
+          <h3>最低配置</h3>
+          <ul>
+            <li><span>系统</span><strong>Windows 10 64-bit</strong></li>
+            <li><span>处理器</span><strong>Intel i5 / Ryzen 5</strong></li>
+            <li><span>内存</span><strong>8 GB RAM</strong></li>
+            <li><span>显卡</span><strong>GTX 1050 / 同级</strong></li>
+            <li><span>存储</span><strong>10 GB 可用空间</strong></li>
+            <li><span>网络</span><strong>局域网连接服务器</strong></li>
+          </ul>
+        </article>
+        <article class="spec-card spec-card-recommended">
+          <span class="spec-badge">推荐</span>
+          <h3>推荐配置</h3>
+          <ul>
+            <li><span>系统</span><strong>Windows 11 64-bit</strong></li>
+            <li><span>处理器</span><strong>Intel i7 / Ryzen 7</strong></li>
+            <li><span>内存</span><strong>16 GB RAM</strong></li>
+            <li><span>显卡</span><strong>RTX 2060 / 同级及以上</strong></li>
+            <li><span>存储</span><strong>SSD · 20 GB+</strong></li>
+            <li><span>网络</span><strong>稳定 LAN · 低延迟</strong></li>
+          </ul>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="brand-mark sm">LGU</span>
+        <div>
+          <strong>LGU Explorer</strong>
+          <p>港中深 AI 校园 · 局域网探索客户端</p>
+        </div>
+      </div>
+      <div class="footer-links">
+        <a href="#download">下载</a>
+        <a href="#features">特色</a>
+        <a href="#news">公告</a>
+        <button type="button" class="footer-link-btn" id="openConsoleBtn">管理入口</button>
+      </div>
+    </div>
+    <p class="footer-copy">© LGU Explorer · 请确保与下载服务处于同一局域网</p>
+
+    <div class="console-drawer" id="consoleDrawer" hidden>
+      <div class="console-drawer-panel">
+        <div class="console-drawer-head">
+          <h3>管理员控制台</h3>
+          <button type="button" class="icon-btn" id="closeConsoleBtn" aria-label="关闭">×</button>
+        </div>
+        <p class="console-drawer-desc">输入控制台命令进入统一服务器管理（在线统计 / 日志 / 客户端发布）</p>
+        <div class="console-row">
+          <input id="consoleCommand" type="password" placeholder="输入控制台命令" autocomplete="off" />
+          <button id="consoleEnterBtn" type="button">进入</button>
+        </div>
+        <p id="consoleHint" class="footer-sub"></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/portal.js"></script>
+</body>
+</html>

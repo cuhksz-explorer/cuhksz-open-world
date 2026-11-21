@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LGU Explorer · 管理控制台</title>
+  <link rel="stylesheet" href="/control/control.css" />
+</head>
+<body>
+  <div id="loginGate" class="login-gate">
+    <div class="login-card">
+      <h1>港中深AI校园</h1>
+      <p class="login-sub">LGU Explorer · 管理控制台</p>
+      <p class="login-hint">请在下载门户页脚输入管理员命令后进入，或在此直接输入。</p>
+      <input id="loginCommand" type="password" placeholder="控制台命令" autocomplete="off" />
+      <button id="loginBtn" type="button">进入控制台</button>
+      <p id="loginError" class="login-error"></p>
+      <a class="back-link" href="/">← 返回下载门户</a>
+    </div>
+  </div>
+
+  <div id="appShell" class="app-shell hidden">
+    <header class="topbar">
+      <div>
+        <h1>港中深AI校园 · 管理控制台</h1>
+        <p class="subtitle">LGU Explorer · 游戏后端 · 下载门户 · 热更新 · 客户端发布</p>
+      </div>
+      <div class="top-actions">
+        <a class="btn secondary" href="/" target="_blank" rel="noopener">下载门户</a>
+        <a class="btn secondary" href="/admin/" target="_blank" rel="noopener">客户端发布</a>
+        <button id="logoutBtn" class="btn danger" type="button">退出</button>
+      </div>
+    </header>
+
+    <nav class="tabs">
+      <button class="tab active" data-tab="overview">总览</button>
+      <button class="tab" data-tab="releases">客户端 / 热更新</button>
+      <button class="tab" data-tab="logs">服务器日志</button>
+    </nav>
+
+    <section id="tab-overview" class="tab-panel active">
+      <div class="stats-grid">
+        <article class="stat-card accent-green">
+          <p class="stat-label">当前在线玩家</p>
+          <p id="statOnline" class="stat-value">—</p>
+          <p class="stat-hint">近 2 分钟内有位置上报</p>
+        </article>
+        <article class="stat-card accent-blue">
+          <p class="stat-label">有效登录会话</p>
+          <p id="statSessions" class="stat-value">—</p>
+          <p class="stat-hint">sessions 表</p>
+        </article>
+        <article class="stat-card accent-gold">
+          <p class="stat-label">门户今日访问</p>
+          <p id="statPortalToday" class="stat-value">—</p>
+          <p class="stat-hint">下载页 PV</p>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">门户累计 / 独立 IP</p>
+          <p id="statPortalTotal" class="stat-value">—</p>
+          <p class="stat-hint" id="statPortalUnique">—</p>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">下载按钮点击</p>
+          <p id="statDownloads" class="stat-value">—</p>
+          <p class="stat-hint">门户统计</p>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">服务状态</p>
+          <p id="statHealth" class="stat-value ok">在线</p>
+          <p class="stat-hint" id="statTime">—</p>
+        </article>
+      </div>
+
+      <div class="panel">
+        <h2>服务模块（同一进程）</h2>
+        <ul class="module-list">
+          <li><strong>游戏后端</strong> — 账号、位置同步、联机、商城、寝室等 API</li>
+          <li><strong>下载门户</strong> — <code>/</code> 局域网客户端下载</li>
+          <li><strong>热更新</strong> — <code>/api/client/*</code> 整包与增量更新</li>
+          <li><strong>剧情内容热更</strong> — <code>/api/content/*</code>（AssetBundle / JSON）</li>
+          <li><strong>客户端发布</strong> — <code>/admin/</code> 上传 zip 并激活版本</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="tab-releases" class="tab-panel">
+      <div class="releases-shell">
+        <div class="releases-toolbar">
+          <div>
+            <p class="eyebrow">PATCH MANAGER</p>
+            <h2>客户端热更新发布</h2>
+          </div>
+          <div class="releases-toolbar-actions">
+            <a class="btn ghost" href="/admin/" target="_blank" rel="noopener">全屏打开</a>
+            <a class="btn ghost" href="/api/client/public/latest" target="_blank" rel="noopener">最新版本 JSON</a>
+          </div>
+        </div>
+        <iframe class="admin-frame" src="/admin/?embed=1" title="客户端发布管理"></iframe>
+      </div>
+    </section>
+
+    <section id="tab-logs" class="tab-panel">
+      <div class="panel logs-panel">
+        <div class="panel-head">
+          <h2>服务器日志</h2>
+          <button id="refreshLogsBtn" class="btn secondary" type="button">刷新</button>
+        </div>
+        <pre id="logViewer" class="log-viewer">加载中…</pre>
+      </div>
+    </section>
+  </div>
+
+  <script src="/control/control.js"></script>
+</body>
+</html>

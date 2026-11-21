@@ -1,0 +1,56 @@
+# egg organize 2026-06-14T01:02:36
+
+## Kept in project (referenced by game/editor runtime)
+- Assets/content1/ (story docx + database sourceAssetPath)
+- Assets/Imports/Sketchfab/RecommendedModels.md (Editor menu)
+- MirrorExamplesPipelineConverted.txt (Mirror package flag)
+- Assets/Localization/*.json, Content1StoryDatabase.asset
+- Tools/*.py (dev pipelines; paths updated for egg/workbooks)
+
+## Moved
+MOVED LGU_EXPLORER_音频资产清单.xlsx -> egg/workbooks/LGU_EXPLORER_音频资产清单.xlsx
+MOVED Unity_Test_Bug_Report_2026-05-25.xlsx -> egg/workbooks/Unity_Test_Bug_Report_2026-05-25.xlsx
+MOVED 剧情配音文案.xlsx -> egg/workbooks/剧情配音文案.xlsx
+MOVED 游戏音效补充清单.xlsx -> egg/workbooks/游戏音效补充清单.xlsx
+MOVED 项目资产与报价清单.xlsx -> egg/workbooks/项目资产与报价清单.xlsx
+MOVED chair_sit_binding_status.txt -> egg/root_misc/chair_sit_binding_status.txt
+MOVED _fbx_mats.py -> egg/root_misc/_fbx_mats.py
+MOVED Tools/dialogue_import_report.txt -> egg/tools_reports/dialogue_import_report.txt
+MOVED Tools/narration_import_report.txt -> egg/tools_reports/narration_import_report.txt
+MOVED Tools/_quest_doc_index.txt -> egg/tools_reports/_quest_doc_index.txt
+MOVED Tools/_story_roots_list.txt -> egg/tools_reports/_story_roots_list.txt
+MOVED Tools/main_story_zh.json -> egg/tools_reports/main_story_zh.json
+MOVED Tools/side_story_zh.json -> egg/tools_reports/side_story_zh.json
+MOVED Tools/story_main_en.partial.json -> egg/tools_reports/story_main_en.partial.json
+MOVED Tools/story_side_en.partial.json -> egg/tools_reports/story_side_en.partial.json
+MOVED Tools/_audio_cache -> egg/tools_audio_cache
+MOVED Assets/code/1.txt -> egg/design_docs/1.txt
+MOVED Assets/code/1.md -> egg/design_docs/1.md
+MOVED Assets/code/README.md -> egg/design_docs/README.md
+MOVED Assets/code/联机与服务器配置指南.md -> egg/design_docs/联机与服务器配置指南.md
+MOVED Assets/Resources/Music/README_我和我的祖国.txt -> egg/design_docs/README_我和我的祖国.txt
+MOVED Assets/Animations/Locomotion/README.txt -> egg/design_docs/README.txt
+SKIP exists: design_docs/README.md
+SKIP exists: design_docs/README.md
+SKIP exists: design_docs/README.md
+MOVED Assets/Carsystem/carreadme.md -> egg/design_docs/carreadme.md
+MOVED Assets/Carsystem/CarShopSetupGuide.md -> egg/design_docs/CarShopSetupGuide.md
+MOVED Assets/code/DormMall/搭建步骤.md -> egg/design_docs/搭建步骤.md
+MOVED Assets/Imports/Sketchfab/剧情人物模型对应表.md -> egg/design_docs/剧情人物模型对应表.md
+SKIP exists: design_docs/README.md
+MOVED Assets/code/Editor/guid_repair_report_20260526_052849.txt -> egg/editor_reports/guid_repair_report_20260526_052849.txt
+MOVED Assets/code/Editor/guid_repair_report_20260526_053851.txt -> egg/editor_reports/guid_repair_report_20260526_053851.txt
+MOVED Assets/code/Editor/guid_repair_report_20260526_054157.txt -> egg/editor_reports/guid_repair_report_20260526_054157.txt
+MOVED Assets/code/Editor/guid_repair_report_20260526_055049.txt -> egg/editor_reports/guid_repair_report_20260526_055049.txt
+MOVED Assets/code/Editor/guid_repair_report_20260526_055413.txt -> egg/editor_reports/guid_repair_report_20260526_055413.txt
+MOVED Assets/code/Editor/guid_repair_report_20260526_060045.txt -> egg/editor_reports/guid_repair_report_20260526_060045.txt
+MOVED Assets/code/Editor/guid_repair_report_20260526_061029.txt -> egg/editor_reports/guid_repair_report_20260526_061029.txt
+MOVED Assets/code/Editor/guid_repair_report_20260526_135906.txt -> egg/editor_reports/guid_repair_report_20260526_135906.txt
+MOVED Assets/code/Editor/guid_repair_report_20260526_140523.txt -> egg/editor_reports/guid_repair_report_20260526_140523.txt
+MOVED Assets/code/Editor/guid_repair_report_20260526_141824.txt -> egg/editor_reports/guid_repair_report_20260526_141824.txt
+MOVED Assets/code/Editor/guid_repair_report_20260612_215213.txt -> egg/editor_reports/guid_repair_report_20260612_215213.txt
+MOVED Assets/code/Editor/guid_repair_report_20260613_143813.txt -> egg/editor_reports/guid_repair_report_20260613_143813.txt
+MOVED Assets/scene/Backups -> egg/scene_backups
+MOVED Assets/code/Editor/library_reimport_backup -> egg/library_reimport_backup
+MOVED Assets/scene/middlegarden.unity.bak -> egg/scene_orphans/middlegarden.unity.bak
+MOVED _import_temp -> egg/import_temp

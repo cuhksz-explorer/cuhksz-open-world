@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/Loadingscene.scene
+    guid: 5fa462cdcb0e470f85949b2367f78a1c
+  - enabled: 1
+    path: Assets/scene/uppergarden.unity
+    guid: 88c396e652d0a684eb9d40cee6f0f1e4
+  - enabled: 1
+    path: Assets/scene/lingcollegeB.unity
+    guid: 9f7a53986c589ab4287393dd3026e05b
+  - enabled: 1
+    path: Assets/scene/lingcollegeC.unity
+    guid: c8c0ddbff0ba7df46b54787c324480d1
+  - enabled: 1
+    path: Assets/scene/lingcollegeA.unity
+    guid: b80f0f8ce4b23084ab171319b659304b
+  - enabled: 1
+    path: Assets/scene/cec.unity
+    guid: 497d63461f6acad4091793587ed3cb12
+  - enabled: 1
+    path: Assets/scene/classroom1.unity
+    guid: 33026499f1f02ab418b2bb10940bc9c5
+  - enabled: 1
+    path: Assets/scene/corridor.unity
+    guid: 354e08ebecc2e0c4abe0812c168e7ffa
+  - enabled: 1
+    path: Assets/scene/computerroom.unity
+    guid: 5c5d2ae6e53fcea4f94e65229a60677f
+  - enabled: 1
+    path: "Assets/scene/discussion room (TD\u4E00\u697C\uFF09.unity"
+    guid: 29c231de8168fa148a966bbd51d8d89e
+  - enabled: 1
+    path: Assets/scene/dlilgentiac.unity
+    guid: 13b3d37c7f4e8374b83293c3fac2d0c1
+  - enabled: 1
+    path: Assets/scene/eightA.unity
+    guid: 31d916ead603fbf47a1647946cfaa5cf
+  - enabled: 1
+    path: Assets/scene/undergarden.unity
+    guid: cf52a910a9eb8204f8a5b3fe91f3954e
+  - enabled: 1
+    path: Assets/scene/learning room.unity
+    guid: 6f6021d23cc961346aafae899a30a540
+  - enabled: 1
+    path: Assets/scene/eigthB.unity
+    guid: 653ee081dad260447844ed6c33e32aae
+  - enabled: 1
+    path: Assets/scene/lecture hall(TB).unity
+    guid: 952c9e3ccfc2e9c4c81217fe3ea97d66
+  - enabled: 1
+    path: Assets/scene/middlegarden.unity
+    guid: 5de8148cefd13304ba17d1b72ffb2f52
+  - enabled: 1
+    path: Assets/scene/teachingroomA.unity
+    guid: d8f65467633da4344922501d1a7c7a8d
+  - enabled: 0
+    path: Assets/scene/Lingdrom.unity
+    guid: 5c85ee1481802464a959311715b9d111
+  - enabled: 1
+    path: Assets/scene/museC.unity
+    guid: a41da03cb1623fc4497cc5e606b3ca29
+  - enabled: 1
+    path: Packages/com.mirrornetworking.mirror/Mirror/Assets/Mirror/Examples/BenchmarkStinkySteak/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/scene/bus.scene
+    guid: b3b06eb0a8674bdbadccaf364d0be96d
+  - enabled: 0
+    path: Assets/scene/library.unity
+    guid: 096306a33fb34e528e5d383d77d5b3d5
+  - enabled: 1
+    path: Assets/scene/minival.unity
+    guid: 105ad8b11fbeb27449f0213e4201ed00
+  - enabled: 1
+    path: Assets/scene/shawA.unity
+    guid: 205b609e5edf4be8b9e3c260040c4ed0
+  - enabled: 1
+    path: Assets/scene/dorm.scene
+    guid: 28715e2caaf94aae96989e6009002258
+  - enabled: 1
+    path: Assets/scene/libraryfloor1.scene
+    guid: ac51b05878fb47189071856a396aba0e
+  - enabled: 1
+    path: Assets/scene/libraryfloor4.scene
+    guid: 675a3edca112476f93433e452272a0fe
+  - enabled: 1
+    path: Assets/scene/libraryfloor2.scene
+    guid: 99c2e8f8e0254d6f95f2a353b9591543
+  - enabled: 0
+    path: Assets/scene/Backups/_20260612_214805.scene
+    guid: 98eea698690b4ac99982b569283ac6f8
+  - enabled: 0
+    path: Assets/scene/Backups/_20260612_214805.unity
+    guid: e14d56cef2a74b41b3a1b65a6206b6e9
+  - enabled: 0
+    path: Assets/scene/Backups/dorm_20260612_214933.scene
+    guid: 3265f38941ff40968d996f857eaacead
+  - enabled: 0
+    path: Assets/scene/Backups/libraryfloor1_20260526_150306.scene
+    guid: be664ef0eae646eaaa7bd92adde8d4b3
+  - enabled: 0
+    path: Assets/scene/Backups/libraryfloor2_20260526_150306.scene
+    guid: 8617707e5d3c4b74b6322441a951081d
+  - enabled: 0
+    path: Assets/scene/Backups/libraryfloor2_20260526_201313.scene
+    guid: ef42878d0b444464b4af02f92d871800
+  - enabled: 0
+    path: Assets/scene/Backups/libraryfloor2_20260612_214933.scene
+    guid: e74510ffe62e414b8e3edf26142ef319
+  - enabled: 0
+    path: Assets/scene/Backups/libraryfloor4_20260526_150306.scene
+    guid: 9ff56a83170244a3aa58b4fb89bfa1a2
+  - enabled: 0
+    path: Assets/scene/Backups/libraryfloor4_20260612_214933.scene
+    guid: 34071c784eaa4c82bae9df7009e3a73a
+  - enabled: 0
+    path: Assets/scene/Backups/Lingdrom_20260612_214933.unity
+    guid: fc9c7a51c1444b9f9d53209566f64e6b
+  - enabled: 0
+    path: Assets/scene/Backups/undergarden_20260526_191300.unity
+    guid: 9667b14b69524239886e694c51d845f6
+  - enabled: 0
+    path: Assets/scene/Backups/libraryfloor2_restored_20260614.scene
+    guid: ab6858ed259eecd45bc5a24bfea5acbe
+  m_BuildProfiles: []
+  m_configObjects: {}
+  m_SlimFeaturesWeixinMiniGame:
+    ACLDecompression: 0
+    AllocateOverhead: 1
+    DecompressASTC: 0
+    DecompressDXT: 0
+    DecompressETC: 1
+    FreeTypeSfntPng: 1
+    LightProbe: 2
+    RootMotion: 0
+    UseStringInternPool: 2

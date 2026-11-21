@@ -1,0 +1,3561 @@
+{
+  "M2-0-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "In the computer area of ​​the library, late at night at 23:20, there is no one around."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du is debugging a large job of csc1002. In order to prevent the program from reporting errors, she wrote a lot of nested logic to handle extreme situations. Shen Qinghe passed by the printed materials and stopped behind her screen. This was his first time seeing a freshman who wrote 1002 without using AI."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"You write too many exceptions. You try to use the algorithm to appease every input that may go wrong, which makes your code very bloated.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"I just think the system should be more inclusive. In reality, there are always surprises.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"The code does not need warmth, it needs robustness. The result of your trying to please all abnormal data is to make the entire program completely ineffective in terms of operating efficiency. This is not writing a program, but writing a 'wish list'.\""
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Lin Du did not raise his head to argue, but silently deleted those rows of redundant logic, introduced an extremely concise penalty function, and pressed the run button again."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Seeing the instantaneous increase in running speed on the screen, Shen Qinghe took a serious look at the freshman for the first time."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Lin Du, your code is more mature than your problem.\""
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "In the corner of the school cafe, Zhou Yan is in the first cold winter of her start-up company. One employer had an arrogant attitude and tried to use loopholes in the contract to lower their valuation. Zhou Yan was wearing a neatly tailored suit. He had obviously just had a meeting and was calmly quarreling with the other party on the phone."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Lin Du was sitting next to me and heard a few key words. She quickly searched and organized on her tablet and pushed a briefing on the employer's historical breach of contract in front of Zhou Yan."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Freshmen now don't go to social gatherings, and they switch to business background?\""
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Friendship is too inefficient. Sister Zhou, this list can help you take back the initiative in this negotiation.\""
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"What do you want in return? Internship certificate, or extra points on the comprehensive test?\""
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"I need to enter your company's desensitized underlying database, and I want real audit samples. I provide the ammunition, and you are responsible for winning. Everyone gets what they need.\""
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "Zhou Yan showed a smile full of fighting spirit."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Direct enough. In this school, most freshmen just want to be taken care of by me, and you want to sit on the same card table with me.\""
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "At the recruitment booth next to the playground, Gu Cheng stood in front of the \"Yuanshan Support Mission\" booth, sorting out a thick stack of letters from children. Due to the lack of \"quantifiable results\", the society faces the dilemma of having its funding cut. His expression was gentle but with a hint of unnoticeable loneliness."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "Lin Du stood in front of the booth and looked at it for a long time. Instead of taking the flyer, she turned on the computer directly and showed a \"psychological growth heat map\" that she generated based on the high-frequency words in the letter."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Senior Gu, feelings are the easiest thing to dissolve because they cannot be verified. But I made your 'ideal' into a chart.\""
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "\"Gu Cheng\"",
+        "text": "\"...I always thought that the feelings in these words could not be calculated.\""
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"The calculation is to protect them. Ideals without skeletons will be shattered in the face of realistic assessment.\""
+      }
+    ],
+    "choices": []
+  },
+  "M2-1-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "It was raining heavily, and the air was filled with a damp earthy smell. Zhou Yangang experienced a business game, and although he won, he was still tired. She stood under the eaves, her dark gray suit making her tall and straight, but also revealing a hint of inappropriate loneliness."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du I didn’t expect to meet Zhou Yan in the science and technology park, even when it was raining so hard. He opened the long black umbrella and walked to Zhou Yan."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Mr. Zhou, it will take at least half an hour to wait for the bus in this rain. If you don't mind, can we go back to school together?\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Lin Du, it's very lucky that we can appear here at the same time. You have always been good at choosing opportunities. Then I'm not welcome.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "She stepped under the umbrella, and the distance between the two instantly became closer. You can smell the faint scent of fir on her body, mixed with the coolness of the rain."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "The sound of rain covered up the hustle and bustle of the outside world, and the umbrella became a temporary absolute realm. Zhou Yan looked forward and threw out her temptation in a calm tone."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Just now, the management asked me to guarantee that the algorithm weights can be modified at any time for the sake of profit. Lin Du, if you were me, would you become 'mediocre' in order to survive?\""
+      }
+    ],
+    "choices": [
+      "Tendency: Rational",
+      "Tendency: Emotional"
+    ]
+  },
+  "\"M2-1-1\\u6C88\\u9752\\u79BE\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-1-1Shen Qinghe\n    - pageNumber: 1\n      speakerName:",
+        "text": "TA3F·Stairwell / 18:15 pm"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "A sudden local trip caused a complete power outage in the teaching building. Emergency lighting gave off a dim glow. Without the roar of the server fans, the entire building fell into an ear-splitting silence."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Lin Du I just finished writing a core module of aie1902. Before I saved it, the screen went black. She walked out of the computer room with a hint of helplessness, pushed open the fire door of the emergency stairwell, and prepared to go downstairs to see the situation."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Using the emergency lights, she saw a person sitting on the steps at the corner."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "Shen Qinghe. He didn't complain like other people irritated by power outages, nor did he scroll through his phone. He just sat quietly on the steps, looking at the peeling white wall opposite, as if he was concentrating on something."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"I just think the system should be more inclusive. In reality, there are always surprises.\""
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"The code does not need warmth, it needs robustness. The result of your trying to please all abnormal data is to make the entire program completely ineffective in terms of operating efficiency. This is not writing a program, but writing a 'wish list'.\""
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "Lin Du did not raise his head to argue, but silently deleted those rows of redundant logic, introduced an extremely concise penalty function, and pressed the run button again."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "Seeing the instantaneous increase in running speed on the screen, Shen Qinghe took a serious look at the freshman for the first time."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Senior Shen, if you are reviewing the code in your mind right now, will I interrupt your train of thought if I walk over?\""
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"No. The power outage just stuck in the progress of the project I've been working on for a week. I'm just taking advantage of this quiet moment to straighten out the logic that just collapsed.\""
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Looks like your self-repair ability is much faster than the school's backup power supply. Got it straightened out?\""
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "There is no computer or Internet. In this claustrophobic stairwell, the two of them can only talk in the most primitive way."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "That's almost it. In fact, I was thinking just now that this kind of unexpected situation is what I usually hate the most. I like to have a traceable life and stay in the laboratory because the environment there is controllable."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "There are too many uncontrollable factors such as social interactions, accidents, and pleasantries from the outside world, which consume a lot of energy."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "\"Lin Du\"",
+        "text": "So you've streamlined your life to the extreme? In addition to the computer room, it is also the dormitory. Block out all the things that you think are ‘unproductive’?"
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"This is the most comfortable and least labor-intensive way for me. If accidents are eliminated, life can always remain stable.\""
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Senior Shen, stability is indeed good. But you should also know that if a person always stays in the circle where he feels most comfortable and controllable, and refuses any surprises and changes, then he will indeed not make mistakes - but he will always stay there and cannot find a better way.\""
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "",
+        "text": "Shen Qinghe's eyes moved slightly. He turned his head and looked at Lin Du seriously."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"In order to break the current bottleneck, sometimes the system needs to actively introduce a little 'chaos' and 'accidents'. Shen Qinghe, your life is too step-by-step, so stable... it's a pity.\""
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "",
+        "text": "Facing the \"absolute rational defense line\" constructed by Shen Qinghe, in what capacity do you intend to be the \"accident\" that breaks his stable state?"
+      }
+    ],
+    "choices": [
+      "rational kind",
+      "dangerous disturbance"
+    ]
+  },
+  "M2-1-2-A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Mediocrity is just a temporary pass. I will survive first, and then change the rules back to what I like when I have accumulated enough chips.\""
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Zhou Yan showed an expression of \"Sure enough,\" and felt that Lin Du was very sober, but also lacked a little surprise."
+      }
+    ],
+    "choices": []
+  },
+  "M2-1-2-B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"I will not choose this path. I have seen too many people extinguished because of compromise. If I become mediocre, I think... the light in my eyes will probably never shine under your umbrella again.\""
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Zhou Yan looked at Lin Du's face carefully and sighed: \"What a luxury of perseverance... But this is indeed what attracts me most about you.\""
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-1-2a\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-1-2a sink\n    - pageNumber: 1\n      speakerName: \"Lin Du\"",
+        "text": "\"However, I don't intend to do that kind of boring social interference. If you feel that your life or your project needs a fresh perspective to break the deadlock, you can consider me.\""
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The defense in his eyes was completely removed, replaced by a deep recognition of finding a very few \"similar people\". He rarely showed such absolute relaxation in front of others."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Lin Du, this is the most candid cooperation application I have ever heard since my junior year. If my ideas get stuck again next time, I will take the initiative to find you.\""
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-1-2b\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-1-2b sink\n    - pageNumber: 1\n      speakerName: \"Lin Du\"",
+        "text": "\"If you never dare to accept a little uncontrollable change, you will never know what is out there.\""
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du leaned forward slightly and looked at him directly in this dim stairwell."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Senior Shen, do you want to try and include me in your life?\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Shen Qinghe's breathing stopped extremely slightly at this moment. For the first time, his always tight defense line encountered such a straightforward knock on the door. He did not retreat, but stared at Lin Du with his deep eyes, as if he was reassessing the freshman in front of him."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "His voice was slightly hoarse, but he still tried to maintain his usual calm tone: \"Lin Du, accepting a brand new person into your life involves taking a lot of risks... Do you trust me so much?\""
+      }
+    ],
+    "choices": []
+  },
+  "M2-1-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Do you think that in this school, the 'rule-abiding high-scoring students' have a better future, or the 'unruly troublemakers' like us who have a better future?\""
+      }
+    ],
+    "choices": [
+      "Tendency: Ambition",
+      "Tendency: Resonance"
+    ]
+  },
+  "\"M2-1-3\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-1-3 sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "Just when the air between the two was stretched to an extremely tight critical point by these few words of dialogue——"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "\"Buzz--\" Along with a dull sound of electricity, the incandescent lamp in the corridor lit up instantly, and the dazzling light filled the entire stairwell. The silent server in the computer room roared again."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "The rules and light of the real world have returned."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Shen Qinghe Squinted his eyes slightly to adjust to the light. He stood up, patted his trouser legs, and looked down at Lin Du who was still sitting on the steps. The sense of privacy in the darkness just now was dispelled by the light, but the way he looked at Lin Du was completely different from before the power outage."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"The call is coming. Your project was not saved. If you go back now, you should be able to save most of it from the automatic backup.\""
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Don't worry, I have a good habit of saving files anytime and anywhere.\""
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"A good habit of rigor.\""
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "He pushed open the fire door of the stairwell and paused before walking out."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Lin Du, regarding the 'destabilizing accident' you just mentioned... I will seriously consider it.\""
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "The door closed and the footsteps moved deeper into the corridor."
+      }
+    ],
+    "choices": []
+  },
+  "M2-1-4-A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Rules are fences for the weak. The strong will only use the rules and then tear them apart.\""
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Zhou Yan's hand holding the umbrella paused slightly, and then he let out a chuckle. There was no usual social courtesy in that laughter, but a kind of appreciation for meeting an opponent. She turned her head sideways, and the dim light of the street lamp danced in her pupils, like a fire that was ready to try."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Tear it apart...ah, how dare you say it, Lin Du.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"This school is full of people who want to raise the fence, and you're the first person to say to my face that you're going to take it down.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "She lowered her voice and tilted her body slightly towards Lin Du. The space under the umbrella seemed even narrower and more depressing."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Since you want to disrupt the situation, you have to climb higher than them. Remember, when you tear up the rules, remember to hold my hand tightly - at that height, if a person falls, he will be shattered to pieces.\""
+      }
+    ],
+    "choices": []
+  },
+  "M2-1-4-B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Only restless people can walk side by side on a rainy night. I don't like scripts that are too obedient.\""
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Zhou Yan stopped. The rain was noisy, but under this black umbrella, the world was so quiet that even each other's breathing could be clearly heard. She didn't look at Lin Du, but stared at the string of raindrops falling from the tip of the umbrella. The sharpness in her eyes was completely removed for the first time in front of Lin Du, revealing a hint of exhaustion."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Script...yeah, I've been playing the 'excellent template' for so long that I've almost forgotten what it's like to not speak according to the lines.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Originally, I thought you were just a variable in my plan. But now it seems...\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "She smiled self-deprecatingly and straightened her wind-blown temples for Lin Du"
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Since you don't like that script, let's go slower tonight. Let those 'rule-abiding people' go on their way. The place we want to go is not on their map.\""
+      }
+    ],
+    "choices": []
+  },
+  "M2-2-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Halfway through the journey, Zhou Yan suddenly started talking about her family."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"My parents are the kind of people who calculate the return on investment in everything. Growing up in that environment, I will instinctively push away all uncertain variables. Lin Du, what about you? Are you a variable that I can calculate?\""
+      }
+    ],
+    "choices": [
+      "reveal ordinary background",
+      "Keep it mysterious"
+    ]
+  },
+  "\"M2-2-1\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-2-1 sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "Library 5th floor, seminar area / evening\n        21:00"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Shen Qinghe occupied the long table by the window, with several algorithm books and his notebook piled in front of him. Lin Du is sitting opposite him, drawing a data flow diagram on a scratch paper."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "In order to prepare for the mathematical modeling competition half a month later, Shen Qinghe accepted the team formation of Lin Du. These two people, who value efficiency so much, are surprisingly in tune together."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"There are too many abnormal extreme values ​​in the original data provided by the official. If you use conventional algorithms to force smoothing, the characteristics of this set of data will be eaten away.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Since outliers themselves also carry information, don't smooth them. Reduce the dimensionality of the data, project it into an orthogonal space, and directly isolate vectors with excessive offsets for backup comparison.\""
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "“Instead of using deep learning to calculate weights, just use basic geometric dimensionality reduction to avoid computing power bottlenecks?”"
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Lin Du\"",
+        "text": "“The simplest are often the most robust.”"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Try as you say.\""
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Lin Du, regarding the 'destabilizing accident' you just mentioned... I will seriously consider it.\""
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "The door closed and the footsteps moved deeper into the corridor."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "Just when the two of them were progressing very quickly, a boy carrying a backpack (the second senior fellow of the Shen Qinghe research group) came over, pulled out a chair and sat next to Shen Qinghe."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "\"Senior Brother Yan Er\"",
+        "text": "\"Qinghe, I've found you. I have to submit a core paper tomorrow, and there is a set of experimental data that can't produce the results I want. You can write code quickly, help me write a script to filter it, and help me get the picture out by the way. I need it tonight.\""
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "This kind of request is not uncommon in the laboratory - under the banner of \"mutual assistance\", it is natural to take up other people's time and labor results."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"I'm working on a modeling competition, and my schedule is full. And I don't understand the underlying logic of your biochemical experiment, so I can't write it randomly.\""
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "\"Senior Brother Yan Er\"",
+        "text": "\"When will the competition fail? My paper is the key assessment indicator that the tutor is keeping an eye on. You can make a ready-made template and run it for me. It won't take you half an hour. If you don't help me at all, if the tutor knows that you lack a 'team perspective', how will he guide you in the future?\""
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "Shen Qinghe The hand holding the mouse tightened. He hates this kind of behavior that uses \"interpersonal relationships\" to disrupt his workflow. This kind of illogical moral kidnapping makes him feel physiologically irritated, but he doesn't bother to waste time arguing on this kind of thing."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "Faced with this \"moral pressure\", how does Lin Du decide to help Shen Qinghe cut off this noise in its own way?"
+      }
+    ],
+    "choices": [
+      "Take advantage of your strength",
+      "physical block"
+    ]
+  },
+  "M2-2-2-A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "I come from an ordinary family, I don’t have an earth-shattering background, and I don’t have any trump cards worth using precise models to calculate."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du did not avoid Zhou Yan's gaze, and her tone was as frank as a showdown in the sun."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "The reason why I can walk side by side with you under this umbrella is because of my own ability, every line of code I have written in the middle of the night, and every major project I have survived. Zhou Yan, what I want to talk to you about is the future, not the past that has been written to death."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Zhou Yan was stunned. In her eyes, which were accustomed to examining the other party's assets and background, the sense of defensiveness seemed to have been washed away by the heavy rain. She looked at Lin Du as if she were looking at a stranger who broke out from the primitive wilderness with bare hands."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "...an ordinary family? Oh."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Zhou Yan let out a short laugh. She suddenly stretched out her left hand and patted Lin Du heavily on the shoulder. The force was very heavy, with a kind of recognition that she had never felt before."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "I have seen too many puppets who wear designer suits but are full of scheming. You are the first person who dares to say the word \"ordinary\" in front of me with such confidence. Lin Du, if we don’t count the background, then we only count the future."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "Since you are the same kind who started from scratch, hold your umbrella more firmly. What we want to win next is not just a school-level project."
+      }
+    ],
+    "choices": []
+  },
+  "M2-2-2-B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "I don’t want “family” to be a parameter you use to calculate me, and I don’t want it to be a label you put on me."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du stopped, turned around suddenly under the narrow umbrella, and looked directly into Zhou Yan's eyes. The sound of rain seemed to be isolated from some absolute realm at this moment, and Lin Du could feel the slightly chaotic heat coming from Zhou Yan's body."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "If you really want to know me, you shouldn't go through my files or look for answers in that pile of cold data. You should be here -"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Du took half a step forward, the distance was so close that their clothes were almost touching. She stretched out her fingertips and pointed weakly at Zhou Yan's heart, her voice low and aggressive."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "——Come and confirm for yourself what kind of variable I am. Do you dare, Senior Sister Zhou?"
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Zhou Yan was completely stunned. The social genius who had always been able to handle everything with ease, at this moment, his pupils contracted violently. She felt an unprecedented sense of control spreading from her fingertips."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "...Are you crazy?"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "Zhou Yan let out a low laugh, which contained a bit of danger. She didn't flinch, but took half a step forward, with the tip of her nose almost touching Lin Du's forehead. The space under the umbrella seemed almost suffocating due to her approach."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "No one dares to take the lead in my gaming field. Lin Du, you are the first. Since you want me to confirm it myself, you have to be prepared."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "If it turns out that you are a variable that cannot be digested, I will... dismantle you to nothing."
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-2-2a\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-2-2a sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "Lin Du Closed the draft book, turned his head, and looked at the senior brother calmly. Her tone was not sharp, but it carried a sense of professionalism that could not be refuted."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Brother, in order to introduce randomness, our competition model adds non-deterministic random seeds at the bottom. If we use our current environment to set your biochemical data, the results will be irreversible."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "Once the blind review of core journals requires you to provide replication codes, your data will become an orphan. In order to save half an hour and take the academic risk that the data cannot be reproduced, this account does not make logical sense, right? \""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "The senior brother was stunned. He obviously did not dare to take the risk of \"academic fraud\" just to rush for time. His expression changed, and he found an excuse to pack up and leave. Shen Qinghe watched Lin Du use the most rigorous \"reappearance of common sense\" to force the opponent back without any blood, a faint smile appeared in his eyes."
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-2-2b\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-2-2b sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "Lin Du ignored the senior brother, but directly put on the headphones and inserted one into Shen Qinghe’s ear"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The melodious white noise instantly blocked out the outside world. Lin Du made a \"continue\" gesture to Shen Qinghe, then turned to his senior brother and made a silent mouth gesture, with rejection written in his eyes."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "After the senior brother left awkwardly, Shen Qinghe took off his headphones."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Lin Du smile\"",
+        "text": "\"I can't stand him squeezing you like this. Shen Qinghe, just keep your purity. I can help you filter out the noise.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"result\"",
+        "text": "Shen Qinghe realized for the first time that after this \"variable\" entered his life, it did not bring the chaos he was worried about, but gave him unprecedented peace."
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-2-3\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-2-3 sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "After the senior brother left, the library returned to peace. Shen Qinghe did not start working immediately. He looked at Lin Du opposite who lowered his head to draw the matrix again, and suddenly said:"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Lin Du. In this school, everyone wants to take advantage of me; if I refuse, they will think that I am unreasonable.\""
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "He paused for a moment, and there was a real warmth in his cold eyes:"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"You are the first one who is willing to sit across from me and help me block these meaningless consumption of people.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Because you are more suitable for pure logic and algorithms. It would be a pity if even your concentration is blunted by those bad rules. I don't want my friend to be a good old guy who always compromises.\""
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Then you might be at a bit of a disadvantage. Because although I don't owe them any favors, I never like to owe my teammates.\""
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "He smoothly pushed a box of mints next to him to Lin Du's hand. The movement is very light."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Go on. Try to build a preliminary model of projective dimensionality reduction tonight. If any derivation is stuck... you can interrupt my process at any time.\""
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Don't worry, I rarely get stuck.\""
+      }
+    ],
+    "choices": []
+  },
+  "M2-3-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "In front of the girls dormitory building No. 7"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Zhou Yan walked out from under the umbrella, and the rain left a few dark marks on the cuffs of her suit. She turned around, and the light from the sensor light hit the side of her face, making her look heroic."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "She paused, her tone no longer businesslike and calm."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Also, Lin Du. You don't need to call me Mr. Zhou, and you don't need to call me senior. From now on, in private, call me Zhou Yan.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "When I returned to the dormitory that night, the coolness from the umbrella handle still lingered on Lin Du's fingertips, but my heart felt hot repeatedly because of that name."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Turn on the computer, and an encrypted folder labeled \"ZY-Private\" pops up on the screen. That was Zhou Yan's core trump card, and it was also a heavy letter of nomination that she personally handed to Lin Du. Looking at the flashing cursor on the screen, Lin Du realized that the rain last night not only wet the corners of his clothes, but also completely shattered the original clear boundaries between them."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "The next day, 19:45. The air after the rain was still thick, and the old library looked like a tomb of old books sleeping in the dusk."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "Lin Du Pushed open the creaking wooden door of the seminar room on the third floor. The incandescent lamps emitted a subtle hum in the silence, giving the room a deserted tone."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "Zhou Yan is already there. She took off her handsome suit jacket from last night and wore only a neatly tailored white shirt. The cuffs were rolled up high, revealing the silver watch on her wrist that reflected cold light."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "\"Lin Du\"",
+        "text": "I've pre-reviewed the data in the permissions, and it's more complicated than I thought... Zhou Yan."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "For the first time, Lin Du felt a subtle sense of transgression that crossed the boundary."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "Zhou Yan's fingers tapping the keyboard paused for a second. She raised her head, and her sharp eyes lost the temptation and softness last night, replaced by an almost cruel focus."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "Now that you have seen the hole cards, it means that you can no longer play the table."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "The audit presentation is tomorrow morning. If you're not ready to join me in carving a hole in the system, it's not too late to regret it."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "\"Lin Du\"",
+        "text": "Now that I'm here, I have no intention of going back empty-handed. Let's get started."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "Zhou Yan didn't speak anymore, but turned the secondary screen in front of him to the direction of Lin Du."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "As the two laptops beeped at high speed at the same time, the originally ambiguous encounter was instantly cut into a high-intensity silent collaboration by cold codes and tight audit deadlines."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "There was no unnecessary flirting, both of them were quick with their hands. Lin Du is writing a script to capture case data, and Zhou Yan is quickly screening legal articles."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "Lin Du, pull out the files on big data maturity in 2024 separately. I need to see how they define ‘algorithmic fairness’. \""
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"It has been synced to your shared document. By the way, I wrote an automatic association script to help you match those laws with our underlying architecture.\""
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Thanks. Working with you will save me a lot of energy.\""
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "",
+        "text": "Zhou Yan's cell phone vibrated dullly on the desktop. The caller ID is: Zhao Yu (member of the Standing Committee of the Student Congress). This person had been pestering Zhou Yan on the grounds of \"helping the company apply for a venue\"."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "\"Zhao Yu\"",
+        "text": "\"Zhou Yan, aren't you done yet? I heard that your audit demonstration tomorrow has not passed the internal audit. I happen to know the teacher in the school's admissions office. As long as you can help me increase the proportion of 'campus entrepreneurship models' in your report, I can help you with the venue.\""
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "",
+        "text": "Zhao Yu's voice sounded particularly harsh in the empty and dull seminar room, and his sticky sense of superiority seemed to have followed the radio signal to his desk. Zhou Yan's rhythm of tapping the keyboard did not change, but Lin Du noticed that her fingertips holding the mouse turned slightly white due to exertion."
+      }
+    ],
+    "choices": [
+      "Help her refuse",
+      "Stay out of it"
+    ]
+  },
+  "\"M2-3-1\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-3-1 Shen\n    - pageNumber: 1\n      speakerName:",
+        "text": "Shenzhen Bay Park / Winter Vacation Evening 17:30"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "On the southern coast during the winter vacation, there is no biting cold in the air, only as refreshing as ice-cold sparkling water. The mangroves in the distance turn deep purple under the setting sun, and one or two flying fish that disturb the waves occasionally jump out of the sea."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Shen Qinghe Today he wore a very ordinary dark blue hoodie and carried a black backpack that he usually used to carry his computer."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"I checked the tide table. The low tide at this point is the best time to see black-faced spoonbills. However, compared to staring at those birds that may fly away at any time, I think blowing in the wind on the plank road is more in line with the definition of 'holiday'.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Senior Shen, I thought you would use a latitude and longitude instrument to find the best viewing position.\""
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Since I'm going out with you, being 'casual' is probably the highest priority right now.\""
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "The two of them squeezed in front of a stall selling curry fish eggs. Lin Du skillfully bought two skewers and handed one to Shen Qinghe."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "Shen QingheObviously, it is rare to eat this kind of food that requires holding bamboo sticks and rich sauce on the street. He acted extremely carefully, trying to bite the round fish egg in a very upright manner."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "A strong crosswind suddenly blew on the sea."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Be careful—\""
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "He subconsciously turned sideways to help Lin Du block the strong sea breeze. Because the movement range was a bit large, the bamboo stick used to stick fish eggs in his hand accidentally scratched the hem of his waist, leaving a faint trace of curry sauce."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "Shen Qinghe Somewhat embarrassedly, he took out a wet tissue from his pocket and wiped it repeatedly. In the end, the stain became even bigger. Lin Du It’s rare to see him as cramped as he is now."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"I...I rarely encounter this kind of situation. This dress may not be clean.\""
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "",
+        "text": "Lin Du smiled and held his wrist to stop him from ruining the clothes."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Don't wipe it, Shen Qinghe. If you wipe it again, your clothes will be scratched. Since it's stained, just treat it as a souvenir of this trip. Come on, I'll take you to buy a new one.\""
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "Shen Qinghe was pulled by her wrist and walked forward, her eyes fell on Lin Du's fingertips holding him, and the tips of her ears quietly turned red. For the first time, he felt that it was not so difficult to accept that his plan was disrupted."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "In a crowded shopping mall, you picked out a sweatshirt with a punk pattern on it for Shen Qinghe. Looking at him looking a little clumsy in front of the dressing mirror, pulling at the corners of his clothes all the time, what do you decide to do?"
+      }
+    ],
+    "choices": [
+      "Gentle tidying up",
+      "A naughty compliment"
+    ]
+  },
+  "M2-3-2-A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du Listening to the self-righteous chips on the other end of the phone, there was a physical discomfort in my chest. She did not try to seize the right to speak, but quickly typed a line of red words in the public comment column of the document and accurately pushed it to the center of Zhou Yan's home screen."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Zhou Yan's eyes stayed on that line of red letters for half a second, and the corners of his originally tight lips rose slightly in an almost imperceptible arc. She said coldly to the other end of the phone: \"Standing Committee Member Zhao, the proportion of 'model' is calculated, not written. I think the venue matter should be handled publicly according to procedures.\""
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "After hanging up the phone neatly, the seminar room fell into a brief silence. Lin Du closed the computer and looked directly at Zhou Yan with clear eyes."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Lin Du\"",
+        "text": "Zhou Yan, your plan has completed the closed loop and is logically self-consistent."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "Accepting this kind of unequal benefit exchange for a temporary venue will not only burden you with an unfulfilled debt of gratitude, but will also destroy the purity of this algorithm."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Lin Du\"",
+        "text": "You don’t need a savior, you just need to trust the data we have."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Zhou Yan looked at Lin Du with a look as if he was looking at his partner again for the first time. She did not refute this slightly presumptuous advice, but instead felt a long-lost sense of lightness without having to bear the pressure of decision-making alone."
+      }
+    ],
+    "choices": []
+  },
+  "M2-3-2-B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Hearing Zhao Yu's almost charitable tone, Lin Du's fingers on the keyboard paused slightly. From the corner of her eye, she saw Zhou Yan's frown - what Zhou Yan hates most is having his weaknesses seen, and he doesn't need cheap sympathy."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du did not speak or show unnecessary emotions. She just stood up quietly, walked to the water dispenser, took a glass of warm water, and gently placed it next to Zhou Yan's hand. Then, she conveniently reduced the bouncing caller ID window on Zhou Yan's home screen to the corner and covered it with a running, complex chart with strict logic."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "After hanging up the phone, the seminar room fell into a reassuring silence. Lin Du took off the earphones and did not ask about the content of the call. Instead, he handed over a pen and pointed at a data node on the screen."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "After hanging up the phone, the seminar room fell into a reassuring silence. Lin Du took off the earphones and did not ask about the content of the call. Instead, he handed over a pen and pointed at a data node on the screen."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Because in my eyes, you deserve a clean success, not this kind of muddy exchange.\""
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-3-2a\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-3-2a sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "Lin Du walked forward, stretched out his hand naturally, helped him straighten the drawstring of his new clothes, and smoothed his collar at the same time."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"This one suits you very well, Shen Qinghe. Don't always wear those gray and black ones. Sometimes you look... very energetic like this. Don't move, the collar is turned in.\""
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Shen Qinghe He ​​held his breath and stood motionless, like a frozen stone statue. He could smell the faint scent of shampoo on Lin Du. He didn't dare to look at Lin Du at all. He just stared at his toes and whispered: \"...you just think it looks good.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Shen Qinghe I silently recorded the feel of this dress in my mind. In his originally only world of black, white and gray, it was painted with a bright color for the first time."
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-3-2b\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-3-2b sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "Lin Du took two steps back, looked at him, whistled deliberately, and then patted him on the shoulder."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"You're so handsome, handsome guy Shen. When you walk out of this door, someone will probably ask you for your contact information. Then don't be like before, so embarrassed that you can't even walk.\""
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Shen Qinghe scratched his hair in embarrassment and put the hood of his sweatshirt on his head, trying to cover his hot face."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"I...I won't give it to them. I'm not that...incapable of walking.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "Shen Qinghe's tense body relaxed, and he realized that in front of Lin Du, he didn't have to be the \"senior who made no mistakes\"."
+      }
+    ],
+    "choices": []
+  },
+  "M2-3-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"You are the first person in this school to sit across from me and talk to me about 'logical purity'.\""
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"I just don't want to waste time on inefficient games. Zhou Yan, you don't actually need to put yourself in that impeccable shell, at least not in front of me.\""
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"If you could find that logic flaw earlier next time, I might actually be able to stop pretending for a while.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "She stood up and slid an unopened bottle of water that had been placed in the middle of the table in front of Lin Du."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Go back to the dormitory, Lin Du. At the ten o'clock demonstration tomorrow morning, we will give those guys who only understand the exchange of interests a little shock of 'logical purity'.\""
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Then what? When the project is completed, how will Mr. Zhou plan to reward your chief partner?\""
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Zhou Yan looked out the window at the silent campus, with a rare and somewhat dangerous curve on his lips."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"By the time finals week is over, we need a...complete, incalculable yaw.\""
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "As the last audit report passed in the school hall, the smoke of finals week finally dissipated in the winter rain on the border between Shenzhen and Hong Kong."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "That week, Lin Du and Zhou Yan had almost no private communication. They cooperated tacitly at the reporting site, like two machines that fit together perfectly, sweeping away all doubts. When Lin Du thought that their relationship would return to being a \"partner\" with the end of the project, she received a coordinate positioning message on New Year's Eve."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "There is no written description, just a ticket stub for a direct bus to Central, Hong Kong."
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-3-3\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-3-3 sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "The sky has completely darkened, and the lights of \"Spring Bamboo Shoots\" and Vientiane World are on. The two of them were sitting on a stone bench on the plank road, each holding a bottle of cocktail bought in the supermarket."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Shen Qinghe kept lowering his head to hold the ring of the cocktail, looking like he was hesitant to speak. After a long time, he took out a small box from his backpack that was poorly packaged and even had some creases on the corners."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Just now... I saw it on the roadside. The shop owner said it was called a handmade wind chime. I think the sound is pretty nice, and I don't mean anything else... I just thought you might like it.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Du took the box and opened it. Inside was a very simple little wind chime. It can be seen that this is definitely not a famous brand."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Did you secretly go back and buy it?\""
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Shen Qinghe My ears turned red again. I took a big sip of the cocktail, choked and coughed twice, and the smell of alcohol crept up my face."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"...Just along the way. I'm not good at picking these things. If...if you don't think it looks good, you can pick one yourself and I'll pay for it.\""
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "Lin Du Lifted the wind chime and swayed it in the evening breeze, making a clear sound"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"I like it very much, Shen Qinghe. You actually know that I have liked wind chimes since I was a child.\""
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Shen Qinghe turned his head and looked at Lin Du who was smiling brightly under the light. At this moment, all the complicated logic in his mind disappeared. He just felt that the cold night wind blowing on his face could actually taste sweet."
+      }
+    ],
+    "choices": []
+  },
+  "M2-4-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The sunshine in the winter afternoon has restrained the heat and brought a clear chill. The streets of Central are decorated with lights to welcome the New Year, and the aroma of cinnamon coffee and egg tarts hangs in the air."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Zhou Yan wore an oatmeal-colored cashmere coat with excellent texture today, and a dark turtleneck sweater underneath. His long hair was slightly messy due to the sea breeze, but it had a gentleness that was not usually seen in the laboratory."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Lin Du, according to my calculations, we should line up at the Central Pier now so that we can occupy the best viewing position of the Victoria Harbor ferry before the countdown begins. But the uphill road you are taking me on is taking us at least 1.2 kilometers away from the pier.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Boss Zhou, since you left it to me to arrange New Year's Day, the first rule is: don't talk about 'calculations' and 'moving lines' during the holidays. Do you want to go to the pier and squeeze into sardine cans with 30,000 people, or do you want to follow me to this alley to find the most interesting mechanism shop in Hong Kong?\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "(Hands over a hot paper bag) \"Forget it, I'll block your mouth with this egg waffle first.\""
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Zhou Yan looked at the egg boy that appeared out of thin air in his hand and smiled helplessly. The desire for control that was ubiquitous in the laboratory was completely eliminated by the slight heat coming from the fingertips at this moment. She found that she didn't dislike this \"passive yaw\" at all."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "The two of them sat in front of an old Hong Kong-style arcade machine. Lin Du Originally thought that someone like Zhou Yan who was used to strategizing would be a little unfamiliar playing a game that relies purely on reaction."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "But she was wrong."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "At the beginning of the game, Zhou Yan's operation was extremely aggressive. She didn't remember complicated combos, and relied solely on her excellent intuition and oppressive positioning to force the Lin Du character into the corner of the screen. Her hands were very fast, and the rocker was pushed with a clicking sound."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Boss Zhou, do you also like to push people into blind spots in the game? Your style of play is too aggressive and leaves no room for retreat.\""
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Defense cannot win the game. According to my rules, as long as the benefits of attacking are greater than the risk of being counterattacked, that is the optimal solution. Lin Du, if you retreat again, you will run out of blood.\""
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "At this time, the health bars of both sides have bottomed out, and they have entered the final match point game."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "Facing Zhou Yan, who is eager to win or lose, how do you decide to end the game?"
+      }
+    ],
+    "choices": [
+      "Accurate calculation",
+      "rogue style"
+    ]
+  },
+  "\"M2-4-1\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-4-1 Shen\n    - pageNumber: 1\n      speakerName:",
+        "text": "Outside the floor-to-ceiling windows are the dark blue lights of Ping An Financial Center. The two people who came out of the library still had a bit of tiredness on their bodies. This kind of tiredness made people become more honest."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Shen Qinghe leaned back in the chair, one button of his shirt was undone, and his hair was slightly messy at the moment, which made him look less \"distanced\"."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"I originally wanted to stay until early in the morning, but as soon as I turned around and saw you staring at the code, I knew it was time to take you out. If we stay any longer, we will both go crazy.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"So are you caring about me, or are you simply thinking of skipping work?\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "Shen Qinghe My ears turned red again. I took a big sip of the cocktail, choked and coughed twice, and the smell of alcohol crept up my face."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"I want to be alone with you for a while. Is this reason straightforward enough?\""
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Shen Qinghe’s phone kept vibrating, and he pushed the tablet towards you while handling emergency calls."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Lin Du, help me confirm the progress chart just sent to your email.\""
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "You swiped, but because of a mistaken gesture, you cut directly into a pinned note. That is not experimental data, but a short but clear \"observation diary\" about you:"
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "[December 12] > I have to bring mints to her when I go to the lab from now on. When she can't write code, she frowns and feels better after eating a candy."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "[January 5th] > She wore that dark green sweatshirt today. I find it so strange that I can remember every single item of clothing she wore."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "Shen Qinghe hung up the phone and turned around, just in time to catch you staring at the page of records."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "At that moment, his brain was overloaded. He subconsciously wanted to pick up the tablet, but his hand froze halfway out, and his ears were piercingly red."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"...I didn't originally intend for you to see it. I'm just used to writing down everything I care about. I'm afraid that when I get busy, I'll forget to take care of... my friend's mood.\""
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Senior Shen, you pay so much attention to me behind my back, which puts me under a lot of pressure.\""
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"It's not that I pay attention, it's that I can't help it. Lin Du, my life plan was very rigid, but after you appeared, all the plans were messed up. I found that I couldn't get you out of my mind at all.\""
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "Instead of waiting for the next opportunity, he took out a project topology diagram that he had just printed out in the laboratory from his bag and handed it to you."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"Look here, the naming of this core operating module.\""
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "",
+        "text": "If you look closely, he has a name at the most critical position that determines whether the entire program can run: Always_With_Lin."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "\"As long as this module is running, this name will always be here. I used to feel that the promise was false, but I want to tie my future to you. This is the most serious confession I can think of.\""
+      }
+    ],
+    "choices": [
+      "Definite answer [Love Line]",
+      "A longer tacit understanding [Friendship Line]"
+    ]
+  },
+  "M2-4-2-A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du suddenly gave up defense and started counting the seconds. She accurately calculated the \"hard time\" of Zhou Yan's attack movements, and within a few tenths of a second when Zhou Yan's ultimate move was released, she executed a perfect floating combo with extreme calmness."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "\"K.O.\" pops up on the screen. Lin Du Released the joystick and turned to look at Zhou Yan."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Your intuition is indeed very strong, but I can predict it. I agree.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Zhou Yan stared at the gray screen for a second, then turned to look at Lin Du. Not only was he not angry, but he laughed out loud. She likes the feeling of being defeated openly by someone of equal strength."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"You're so cruel, you even use your brain to play a game. Let's play another game.\""
+      }
+    ],
+    "choices": []
+  },
+  "M2-4-2-B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du didn't play according to the routine at all, gave up on complicated combos, and started pressing the same basic button of \"squatting and sweeping legs\" like crazy. Although this move does low damage, it is extremely shameless and is designed to defeat Zhou Yan's starting moves."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Seeing his character tripped three times in a row by Lin Du using the same move, Zhou Yan finally couldn't help but turn his head."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Lin Du! Do you dare to change the buttons? What kind of strategy is this?\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"No matter how cliche the moves are, they just work.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "She replied with a smile."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Zhou Yan laughed angrily at this \"gangster style\" with no technical content. She completely put aside her usual poise and began to \"click\" each other's grudges on the machine with Lin Du. The two laughed together, and the atmosphere became extremely relaxed and natural."
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-4-2a\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-4-2a sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "Lin Du directly reached out and held his slightly trembling hand on the table, inserting her fingertips into his fingers."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "\"Shen Qinghe, there is no need to write any more records. I also want to be with you, not just in the laboratory.\""
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Shen Qinghe He ​​held his backhand very tightly and whispered back: \"Okay, keep your word.\""
+      }
+    ],
+    "choices": []
+  },
+  "\"M2-4-2b\\u6C88\"": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "text: M2-4-2b sink\n    - pageNumber: 1\n      speakerName:",
+        "text": "Lin Du Pushed the tablet back generously, touched his arm lightly with the cup, and smiled brightly."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "\"Since my name is written in the code, you can take care of my troubles from now on. Shen Qinghe, it feels good to have a partner who understands me like you.\""
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Shen Qinghe was stunned for a second, then showed a relieved and gentle smile, nodded and said: \"As long as you need me, I will always be here.\""
+      }
+    ],
+    "choices": []
+  },
+  "M2-4-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The two miraculously avoided the crowds before midnight and boarded a speedboat they had reserved in advance."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The ship sailed slowly towards the center of Victoria Harbor, surrounded by dark water and the bright lights of Hong Kong Island in the distance."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Shortly before 24:00, the pair sat on the edge of the deck. The evening breeze blew against my cheeks, and the giant screen on the building on the other side had begun the final countdown. The two of them each held a bottle of orange soda in a glass bottle bought at the dock convenience store. Fine water droplets condensed on the walls of the glass bottle."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"It seems like it's been a long time since I had a night when I didn't have to work. I didn't think about anything and just competed for a wooden box mechanism or a bottle of soda. Even...even before the fireworks were set off, I felt like I won tonight.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"How do you feel? Is it more interesting than looking at those false financial statements?\""
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Zhou Yan turned to look at Lin Du. The lights of Victoria Harbor were reflected in her deep eyes. The hard shell called \"leader\" had completely disappeared."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Except for the outrageous way you broke my calculation logic, everything else is fine.\""
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"With \"00\"",
+        "text": "00\" countdown ended, fireworks exploded all over the sea, and golden rain and purple shooting stars lit up the entire night sky."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "Zhou Yan approached Lin Du amidst the loud sound of fireworks, and gently touched the glass bottle in his hand in the direction of Lin Du, making a crisp \"ding\" sound."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Lin Du, Happy New Year. Thank you... for taking me off my schedule, but finding a new direction.\""
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "",
+        "text": "Lin Du raised the bottle to clink glasses with her and responded with a loud laugh."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Happy New Year's Day, Zhou Yan! By the way, I have airdropped the photo of you in front of the gashapon machine that broke your defense just now. It is my most important collection this year!\""
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "Zhou Yan was stunned for a second, then immediately put down the soda, pretending to grab the Lin Du mobile phone in his coat pocket."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Lin Du! Did you secretly take a photo just now?! Delete it immediately before the fireworks are finished!\""
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "Lin Du nimbly ducked to the other side of the deck and shouted at the fireworks in the sky."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"I can't delete it, I can't delete it. I've already backed it up in the cloud, Boss Zhou!\""
+      }
+    ],
+    "choices": []
+  },
+  "M2-5-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The hustle and bustle of Central gradually faded away on the cross-border bus at two o'clock in the morning. Lin Du leaned against the car window and looked at the endless car lights on the Shenzhen-Hong Kong Bridge, like a string of binary codes that would never go out."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Zhou Yan fell asleep in the jolt. She lost all her defenses and tilted her head slightly in the direction of Lin Du. There was still a faint scent of cinnamon and sea salt from Victoria Harbor on her oatmeal coat. At that moment, Lin Du realized that that \"deviated\" night had become the last piece of the puzzle they had stolen in their competitive life here."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "However, the gravity of reality always comes back the moment the boundary is crossed."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "On the afternoon before the defense, the competitor \"Star Map Team\" publicly released their test data. That string of data that was so perfect that it was almost false was like a death sentence hanging over the project that Zhou Yan had been preparing for half a year."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "01:00 am. The air conditioner in the old library has stopped heating a long time ago, and the chill creeps up to my ankles along the marble floor."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Zhou Yan rubbed his eyebrows. In her hand, she held the pre-run data released by the competitor \"Star Map Team\" in the afternoon."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"We can't win. The test indicators released by Star Map are too high, almost reaching the top level of current commercial large models. But this is impossible. Their team's computing power simply cannot run out of such parameters.\""
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Shenanigans and fraud. But most of tomorrow's judges are administrative leaders and non-hard-core technical experts, and they only look at the demonstration effect. Even if we write a report letter now, it will take half a month to complete the review process, and the funds will be released to their accounts tomorrow afternoon.\""
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "The lagging nature of the rules has become a dead end. In this ivory tower, ambitious people are being cornered by counterfeiters who have no bottom line."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Lin Du No emotional outburst. She pushed away the keyboard and turned to look at Zhou Yan."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"I have a way to break this shell directly at tomorrow's defense. But the method is not very clean.\""
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "Zhou Yan raised his head and his eyes met with Lin Du."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Their interface does not have strict prompt word injection defense. If I use a script to send a specific adversarial prompt word to their interface at high frequency tomorrow when they conduct a real-machine demonstration...their model will collapse due to security protocol conflicts and spit out the error message of the native commercial model directly on the big screen.\""
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Injecting malicious code at the public defense scene... Lin Du, this is malignant interference. Once the IP is found to be yours, you will even be punished.\""
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"I will use multiple layers of agents to avoid tracking, but the risk does exist. Zhou Yan, the question now is not whether I dare or not. It is whether I am willing to become a 'saboteur' with me in order to win this life-saving money?\""
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "",
+        "text": "Zhou Yan looked at Lin Du, and she suddenly discovered that under the calm appearance of this freshman, there was a more decisive execution ability than hers. She reached out and closed Lin Du's computer screen."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"We shouldn't have used the campus network to write this script.\""
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "Lin Du looked up at her."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Go back to my apartment and write. Use my private network. If I do get tracked down, that's my responsibility.\""
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "",
+        "text": "Zhou Yan's apartment is located on a high-rise in Longgang District. The minimalist decoration style seems a bit deserted late at night. Outside the huge floor-to-ceiling windows, you can see the sleeping neon lights of the city."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "",
+        "text": "The two sat side by side on the carpet in the living room, with printed interface documents and several empty cans of coffee scattered around."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "",
+        "text": "Lin Du's fingers danced rapidly on the keyboard, and the tapping sound sounded particularly crisp in the empty room. Zhou Yan sat behind her, holding a red pen in his hand, constantly fine-tuning the speech for tomorrow's defense, and occasionally reaching out to Lin Du to pluck the fallen hair."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "Has the script been written?"
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "\"Lin Du\"",
+        "text": "Done. The attack payload has been packaged into three ladders. As soon as they enter the first command during the demo, our script will automatically trigger through the proxy."
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "\"Lin Du\"",
+        "text": "Zhou Yan, if you regret it now, it's still too late. We just need to delete this folder and you can lose with dignity tomorrow."
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "",
+        "text": "Zhou Yan smiled self-deprecatingly and opened a new bottle of water for Lin Du."
+      },
+      {
+        "pageNumber": 27,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "Decent? In Hong Kong and Shenzhen, respectability is a decoration left to the winner. Losers only deserve silence."
+      },
+      {
+        "pageNumber": 28,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "Lin Du, if we take this step, we really won’t be able to leave the table."
+      },
+      {
+        "pageNumber": 29,
+        "speakerName": "",
+        "text": "Lin Du Turning back, under the dim light of the desk lamp, Zhou Yan's eyes had lost all social pretense, leaving only a cold, almost desperate enthusiasm. Lin Du Click the Enter key to save the script into the cloud encrypted volume."
+      },
+      {
+        "pageNumber": 30,
+        "speakerName": "",
+        "text": "At ten o'clock the next morning, the multi-purpose hall of the administrative building."
+      },
+      {
+        "pageNumber": 31,
+        "speakerName": "",
+        "text": "The leader of the Star Map team was talking on the stage. The big screen behind him showed the nearly perfect set of test curves. The judges in the audience—the leaders from the school's admissions office and administrative department—were nodding frequently, and some were even whispering among themselves, preparing to give full marks."
+      },
+      {
+        "pageNumber": 32,
+        "speakerName": "\"Lin Du\"",
+        "text": "It was their turn to demonstrate."
+      },
+      {
+        "pageNumber": 33,
+        "speakerName": "",
+        "text": "Lin Du was sitting in the darkest corner of the back row, with a black backpack on his knees. Her fingers flicked lightly on the micro terminal in her backpack, and her eyes were fixed on the demonstration laptop on the stage."
+      },
+      {
+        "pageNumber": 34,
+        "speakerName": "",
+        "text": "On the stage, the leader of the Star Map team entered the first demonstration instruction with great satisfaction: \"Please generate an innovative sentiment based on the history of our school.\""
+      },
+      {
+        "pageNumber": 35,
+        "speakerName": "",
+        "text": "The moment he clicked send, Lin Du muttered something in a low voice."
+      },
+      {
+        "pageNumber": 36,
+        "speakerName": "\"Lin Du\"",
+        "text": "That's it now."
+      },
+      {
+        "pageNumber": 37,
+        "speakerName": "",
+        "text": "The progress bar on the big screen suddenly got stuck, and the rotating circle stayed there for three seconds. The leader on the stage was stunned and tried to save it by refreshing."
+      },
+      {
+        "pageNumber": 38,
+        "speakerName": "",
+        "text": "The next second, there was no realization popping up on the screen, but it was like the skin had been torn open by some invisible hand."
+      },
+      {
+        "pageNumber": 39,
+        "speakerName": "",
+        "text": "There was dead silence. That line of error message with the obvious words \"Third Party Business Model Interface\" was like a loud slap in the face of the Star Map team."
+      },
+      {
+        "pageNumber": 40,
+        "speakerName": "",
+        "text": "Judge A: Is that...an Azure error? Didn’t you say this is a self-developed local model?"
+      },
+      {
+        "pageNumber": 41,
+        "speakerName": "",
+        "text": "Judge B: What’s going on? Explain."
+      },
+      {
+        "pageNumber": 42,
+        "speakerName": "",
+        "text": "The leader of Star Map turned pale instantly. He hesitated on the stage, his shirt soaked in cold sweat. The fake mask shattered at this moment."
+      },
+      {
+        "pageNumber": 43,
+        "speakerName": "",
+        "text": "Zhou Yan slowly stood up at this time. She didn't show any surprise, she just straightened the outer edge of her neat suit and walked to the podium with an elegance that was like a dimensionality reduction attack."
+      },
+      {
+        "pageNumber": 44,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "It seems that the level of \"self-research\" of some teams is indeed beyond our imagination."
+      },
+      {
+        "pageNumber": 45,
+        "speakerName": "",
+        "text": "She made a very brief eye contact from the direction of Lin Du, which was a code that only the accomplice could understand."
+      },
+      {
+        "pageNumber": 46,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "So, next, please allow us to show you what is the real base that actually runs on local computing power."
+      },
+      {
+        "pageNumber": 47,
+        "speakerName": "",
+        "text": "An hour later, the results were announced. Zhou Yan's team won the first place unanimously with its undisputed technical authenticity and solid implementation logic."
+      },
+      {
+        "pageNumber": 48,
+        "speakerName": "",
+        "text": "Outside the administrative building, the sun is still dazzling. Zhou Yan pushed open the heavy glass door and took a deep breath of the outdoor air."
+      },
+      {
+        "pageNumber": 49,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "Lin Du."
+      },
+      {
+        "pageNumber": 50,
+        "speakerName": "",
+        "text": "Lin Du stopped and turned to look at her."
+      },
+      {
+        "pageNumber": 51,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "From now on, don’t do this kind of thing alone again."
+      },
+      {
+        "pageNumber": 52,
+        "speakerName": "\"Lin Du\"",
+        "text": "Why, Mr. Zhou regrets being my protector?"
+      },
+      {
+        "pageNumber": 53,
+        "speakerName": "",
+        "text": "Zhou Yan didn't answer. She took a step forward, so close that Lin Du could smell the faint cold fragrance on her body. Zhou Yan stretched out his hand, crossing the social boundary for the first time, and gently held Lin Du's finger. The fingertips of that hand were still trembling slightly due to the nervous operation just now."
+      },
+      {
+        "pageNumber": 54,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "No regrets. I'm just thinking, if this world is destined to be black, then I also hope to hold your hand tightly in this abyss."
+      },
+      {
+        "pageNumber": 55,
+        "speakerName": "",
+        "text": "Under the sun, Lin Du felt Zhou Yan's palms were so warm that it felt scalding. When they won, they not only won the funds, but also won a tacit understanding that was completely broken under the order, but was extremely strong."
+      }
+    ],
+    "choices": []
+  },
+  "M2-5-2": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Restaurant terrace/evening 18:30"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The sunset burned the sky into a deep purple. Zhou Yan took off the suit jacket he wore during his defense, wearing only a white shirt, and leaned against the railing of the rooftop. That storm has passed, but the aftershock of wandering on the edge of the rules is still faintly lingering in the blood of the two of them."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Zhou Yan turned to look at Lin Du. In this place where there are no outsiders, she lets go of all her defenses and is calm."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Lin Du, when I was on stage just now, watching their system collapse... I found that I didn't feel guilty, I even felt happy.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "She raised her eyes and looked at Lin Du with a depth that only the two of them could understand."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"We are no longer clean 'good students'. This feeling is better than I imagined.\""
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Zhou Yan smiled self-deprecatingly, his fingertips caressing the cold metal railing unconsciously, his eyes showing an unprecedented, almost feral relaxation."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"I used to think that everything should run on the preset track. But just now... when you hit the enter key and watched the data flow completely tear apart the defense of those hypocrites, I realized that I was not only watching a good show.\""
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"I'm looking at you. Lin Du, the look in your eyes at that moment made me feel that we were born to stand together and trample those self-righteous rules under our feet.\""
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Boss Zhou, this is not what a rational founder would say.\""
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Sane? How do you define sanity? Maybe it's the afterglow of today. Now... I just want to do something even more irrational.\""
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "She stopped at a very close distance, which was a red line that ordinary friends would never cross."
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "",
+        "text": "After the meal, Zhou Yan excitedly said that she had rented a small office for her company. Although it was still empty, there were sea views and high-rise buildings outside the floor-to-ceiling windows. It was hard to resist the kindness, so Lin Du went with her."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Lin Du, tell me, if people like us are really 'bound', will we reach the top together, or will we fall into hell together?\""
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"It depends on what Mr. Zhou defines as 'binding', whether it refers to the equity structure or something else.\""
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"You clearly know what I'm talking about. I have the ability to see through most people's trump cards, but in front of you, I don't even know which card I should play. I'm afraid...I'm afraid that if I act too greedy, I'll scare you away...Forget it, just pretend I didn't hear you.\""
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "The office was only illuminated by the lights of the office building outside the window. She did not turn on the lights, but took out a ring engraved with Lin Du's birthday and the company's highest authority password by using the bright city neon outside the window."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "",
+        "text": "Zhou Yan forced the ring into your hand, and the temperature in your palm was shockingly hot."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"I used to feel that the promise was empty, so I only gave permission. But now I find that even if I give you the entire company, it is not enough to express my desire to keep you.\""
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Not just at the poker table, but in my life.\""
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "",
+        "text": "After this game that crossed the bottom line, Zhou Yan has handed her most secret weakness into your hands. Faced with her unreserved truth at this moment, what do you decide?"
+      }
+    ],
+    "choices": [
+      "cross the line",
+      "Establish comrades-in-arms"
+    ]
+  },
+  "M2-5-3-A": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du took a step forward, shortening the final distance between the two. She didn't say anything unnecessary, she just reached out and gently adjusted the collar of Zhou Yan's shirt that was messed up by the wind when he came up, and her fingertips slid across the warm side of her neck."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"Zhou Yan, since we dare to break even the rules, do you still care about... crossing one more line?\""
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Zhou Yan's breathing stagnated for an instant, and his usual calmness was finally completely shattered. She held Lin Du's wrist in a nonchalant manner, the certainty in her eyes burning hot."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"[Chapter 2\"",
+        "text": "over】"
+      }
+    ],
+    "choices": []
+  },
+  "M2-5-3-B": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du calmly put away the ring, put it neatly into his pocket, and then looked out the window side by side with Zhou Yan."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "\"We are happy because we got back what should belong to us. Zhou Yan, remember this feeling today. As long as we join hands, no one can touch our plate.\""
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Zhou Yan was silent for a few seconds, and then smiled in relief. She knew it was a long-lasting bond."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "\"Then may our ambitions always resonate with each other. Cheers, partners.\""
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"[Chapter 2\"",
+        "text": "over】"
+      }
+    ],
+    "choices": []
+  },
+  "M3-1-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Academy Dormitory - Late at night 23:30 Your roommate Liang Jiayi tossed and turned irritably, Zhao Zixuan was scrolling short videos on the bed, Su Mu just opened the door and came in, the sound of plastic bags was loud"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Liang Jiayi\"",
+        "text": "Lin Du, the last time. The sound of your keyboard is too disturbing. Essentially, dormitories are for sleeping, not your late-night computer room. So when do you shut down?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "Jiayi, I have to hand in this set of data tomorrow morning..."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhao Zixuan\"",
+        "text": "Ouch, our King Liang Dajuan finally can’t stand others anymore? When you usually run models all night, why don't you think that this is a dormitory?"
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Liang Jiayi\"",
+        "text": "Zhao Zixuan, you played on your phone until midnight and you still have the nerve to blame me. And I'm really doing something, you're just wasting traffic by swiping those things. And don’t you know that your headphones are leaking sound?"
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Su Mu\"",
+        "text": "Well... don't be so angry. I just gathered some small cakes left over from club activities, do you want..."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Zhao Zixuan\"",
+        "text": "Su Mu, please calm down! I have leisure time to join your club, but why don’t I have time to clean up the pile of garbage you piled next to the window?"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Su Mu\"",
+        "text": "That's not garbage...it's club supplies. I'll move them tomorrow."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Liang Jiayi\"",
+        "text": "It's tomorrow again. Our dormitory is not a club warehouse. It is very upsetting to see the dormitory buried like this."
+      }
+    ],
+    "choices": [
+      "rational response",
+      "It exploded directly",
+      "comfort everyone"
+    ]
+  },
+  "M3-1-1a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Okay, stop for a moment. Let's just settle the accounts."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Liang Jiayi\"",
+        "text": "How do you want to calculate it?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "First of all, I accept that I go out to type on the computer after 12 o'clock; and the reasonable noise made before 12 o'clock is not your responsibility."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhao Zixuan\"",
+        "text": "Okay, okay, what else can you say?"
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "You can either mute the sound or change your headphones; as for Su Mu, if these things don't disappear tomorrow night, then let me clean them up for you."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "The dormitory returned to cold order. Although no one was being affectionate, the simmering tension dissipated for the time being."
+      }
+    ],
+    "choices": []
+  },
+  "M3-1-1b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Are you tired? Each one is better than the other."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Zhao Zixuan\"",
+        "text": "Lin Du, what do you mean?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "Literally. Zhao Zixuan, isn't the reason why you are so sarcastic here because you are about to fail your professional course, and it would look dazzling to anyone who tries hard?"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Liang Jiayi\"",
+        "text": "Indeed."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "Don't rush to hum, Jiayi. Your \"me-only\" self-discipline is really selfish. If you really can't stand the slightest noise, you should have moved out in the first place instead of flaunting self-discipline while squeezing public space."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Su Mu\"",
+        "text": "Lin Du, stop talking..."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Lin Du\"",
+        "text": "Su Mu, you too, you brought the club work to the dormitory and caused a burden to everyone. No one is allowed to perform tonight. If you can, you can. If you can't, please apply for accommodation now."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "No one was in the mood to talk that day. Everyone washed up and lay on the bed in silence, and began to seriously consider whether to change their dormitory."
+      }
+    ],
+    "choices": []
+  },
+  "M3-1-1c": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Su Mu\"",
+        "text": "Yes, I also feel that everyone is under a lot of pressure recently."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Zhao Zixuan\"",
+        "text": "I just can't stand how she looks like that..."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "Zixuan, let’s adjust the earphones. I’ll try to be as quiet as possible. Su Mu, I will move the things on the balcony with you at noon tomorrow. Everyone, please take a step back, okay?"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "The atmosphere relaxed, Su Mu looked at you gratefully, and everyone made an appointment to help Su Mu move things together tomorrow, and then go to the cafeteria."
+      }
+    ],
+    "choices": []
+  },
+  "M3-2-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Classroom reserved by the club - late at night 23:45."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Seeing Deer in the Forest\"",
+        "text": "She doesn't care about power or social interaction. She joins the club as a treasurer purely to hone her auditing instincts. She is the person you are relatively close to within the club."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "The director of the external relations department of the society and an egoist, he is extremely good at dancing in the gray area of ​​​​the rules. In his view, diverting a little of the club's budget to maintain his huge network of contacts inside and outside the school is a \"reasonable replacement of resources.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Seeing Deer in the Forest\"",
+        "text": "Lin Du, don't turn it over there. The previous year's final accounts you are looking for should be in the blue folder marked 'Connection with the External Relations Department'."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "Found it. But... the final reviewer of this final account was signed by Zhao Chengxun?"
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Lin Du\"",
+        "text": "Jianlu, I’m afraid even you yourself don’t believe the “reasons” in this form that was personally reviewed by Minister Zhao."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "[On November 11 last year, I spent 3,500 yuan to purchase a \"professional lens set,\" but the club's asset list only included second-hand entry-level cameras. 】"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "[An \"inter-school exchange travel expense\" appeared during the winter vacation, but the whole school was closed at that time, and the column for the reimbursor clearly stated Zhao Chengxun. 】"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Seeing Deer in the Forest\"",
+        "text": "...How could it be him? He kept telling me that these are the \"public relations costs\" that must be paid in advance to attract sponsorship for the association."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "\"Lin Du\"",
+        "text": "This is pure embezzlement of funds."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "Not done yet? Lin Du, how is the plan revised?"
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "[Internal Audit] or [Exposure]?"
+      }
+    ],
+    "choices": [
+      "private game",
+      "completely exposed"
+    ]
+  },
+  "M3-2-1R": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "After the club classroom door closed, only the faint green light of the fire sign remained in the corridor. Lin Jianlu sent a very short message to Lin Du: \"Seminar room. Now.\""
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Seeing Deer in the Forest\"",
+        "text": "Don't you think we were all acting out the same scene just now? Zhao Chengxun needs a stage, the club needs dignity, and you need an answer."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "When you called me here, did you want me to keep it secret for you, or did you want me to believe that the system can still repair itself?"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Seeing Deer in the Forest\"",
+        "text": "If auditing only involves \"revealing\", the community will only be left with fear; if auditing only involves \"covering up\", only liars will remain. I wonder - where would you take tonight's numbers."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "The whiteboard in the seminar room still retains the afterimage of the afternoon discussion on the competition questions. There was no audience outside the window, only the low hum of the air conditioner, like some kind of patient questioning."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Lin Du\"",
+        "text": "I'll leave you a copy. But next time, go through the process. Publicity is not about humiliation, it is about allowing those who are willing to stay to sit still."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Seeing Deer in the Forest\"",
+        "text": "……good. At least tonight, we are still willing to sit at the same table."
+      }
+    ],
+    "choices": []
+  },
+  "M3-2-2a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "What style to use for private gaming"
+      }
+    ],
+    "choices": [
+      "reason",
+      "edge",
+      "gentle"
+    ]
+  },
+  "M3-2-2b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "What style to use for thorough exposure"
+      }
+    ],
+    "choices": [
+      "reason",
+      "edge",
+      "gentle"
+    ]
+  },
+  "M3-2-3a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Minister Zhao, there is no problem with the planning, but I just discovered that there were several \"calculation errors\" in last year's accounts, and the amount was just enough for our start-up capital this year. It would be better for everyone if we settled this debt quietly now. You make up for the misappropriated resources, and I guarantee that this audit report will always remain within the society."
+      }
+    ],
+    "choices": []
+  },
+  "M3-2-3b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Minister Zhao, this is really surprising. There are only two paths before you: either you spit out the money you spent and get the booth next to the pool we want; or, your position as minister may not be stable."
+      }
+    ],
+    "choices": []
+  },
+  "M3-2-3c": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Senior Chengxun, I know that the External Relations Department usually has a lot of expenses, and sometimes it is inevitable that it needs some 'flexible' processing. But this money is the lifeblood of our events department. Can we settle the accounts privately?"
+      }
+    ],
+    "choices": []
+  },
+  "M3-2-3d": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "See deer, we scan them all. Minister Zhao, I chose to submit this false reimbursement form directly to my superiors."
+      }
+    ],
+    "choices": []
+  },
+  "M3-2-3e": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Minister Zhao, don't look at me like that. Since you dare to play numbers games on your budget, you have to be prepared for the truth to come to light. This thing will appear on the campus wall and the campus forum in five minutes. How do you want PR?"
+      }
+    ],
+    "choices": []
+  },
+  "M3-2-3f": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Senior Chengxun, I used to admire your ability. But after seeing this bill, I found that if you continue to remain in the position of minister, you will only hurt the interests of more people. I'm sorry, but for the sake of fairness to the society, I must make this public."
+      }
+    ],
+    "choices": []
+  },
+  "M3-2-4a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Zhao Chengxun's smile froze for a moment, and then he took the document as if nothing had happened. He replenished the funds through private channels and granted you an additional good position. Although it is temporarily safe, he has put you on the \"danger list\"."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "Lin Du, you really impress me. But in school, such tactless people usually don't end well."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Seeing Deer in the Forest\"",
+        "text": "Lin Du, you took that step that many people dare not take, including me. I'm glad there are people like you in the club."
+      }
+    ],
+    "choices": []
+  },
+  "M3-2-4b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The whole school was in an uproar. Zhao Chengxun was investigated, but his network quickly counterattacked, causing the club to be labeled as \"internal management chaos\", and your club's evaluation was far away. This is a tragic \"social suicide\"."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "Lin Du, you really impress me. But in school, such tactless people usually don't end well."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Seeing Deer in the Forest\"",
+        "text": "Lin Du, you took that step that many people dare not take, including me. I'm glad there are people like you in the club."
+      }
+    ],
+    "choices": []
+  },
+  "M3-3-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Late night in the college dormitory. The only thing left in the dormitory is the fluorescent light of the monitor. A post by Ka Yuan was pushed to the home page, with a typical provocative style of title: - \"Get the inside story on the falsification of a certain society's accounts, and talk about some people's methods to get in positions of power.\""
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Starbucks at the school gate (commercial Wi-Fi):\n        At 23:00, the last reply came from an off-campus hotspot."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Starbucks is closed late at night. You walked to the brightly lit table outside. The tablet in Zhao Chengxun's hand lit up, and his untroubled face was reflected on the screen."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "Lin Du, this point is still in the complex, it seems that post really kept you awake."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "Senior Chengxun, you are actually working very hard. Running from the library to TX and going to Starbucks just to post a rumor?"
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "In a place like Kayuan, the truth is not important, what is important is what people want to see. As long as everyone thinks your personality is flawed, no one will believe the authenticity of that bill. This is called public relations, do you understand?"
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Lin Du\"",
+        "text": "The MAC address cannot be changed. The certifier of this device is you, Zhao Chengxun. Once this kind of \"public relations\" becomes real-name, have you calculated the cost?"
+      }
+    ],
+    "choices": [
+      "rational negotiation",
+      "complete break",
+      "mild change"
+    ]
+  },
+  "M3-3-2a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Minister Zhao, exposing you will further destroy the association, which is not good for everyone."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "The current plan is: use your original account to post a statement, saying it was a misunderstanding caused by statistical data, and delete the post. In exchange, I won't expose you. You cut your losses and I'll get your reputation back."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "Okay, you are indeed better suited to playing with the rules than I thought."
+      }
+    ],
+    "choices": []
+  },
+  "M3-3-2b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Minister Zhao, since you think the price of \"real name\" is high, then I will help you realize the price."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "I just sent the matching screenshots to the club group and the instructor's email. You don’t need to talk about public relations with me. Since you dare to throw dirty water behind your back, you should expect that the water will splash on yourself. As for how you want to fight back, that's your business. I'll wait for your follow-up."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "You really don't leave any room for maneuver."
+      }
+    ],
+    "choices": []
+  },
+  "M3-3-2c": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Senior Chengxun, there is actually no need for you to involve yourself in this matter. This method is too cheap."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "I have deleted the evidence and will not report it. But I hope you can use the part of the budget you swallowed to replenish the society in the name of anonymous sponsorship. I'm saving face for you because I don't want Lin Jianlu and the others to think that the club is full of such bad things. Everyone, please take a step back, okay?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "...Lin Du, you are quite generous. Okay, that's it."
+      }
+    ],
+    "choices": []
+  },
+  "M3-3-3a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"narration\"",
+        "text": "The forum post disappeared within ten minutes. The campus is still quiet late at night, but the subtle rift caused by interests being touched has been completely solidified between you."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "Lin Du, I hope your luck will always be this good."
+      }
+    ],
+    "choices": []
+  },
+  "M3-3-3b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "You didn't wait for Zhao Chengxun's anonymous sponsorship, but instead waited for the instructor's summons."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Zhao Chengxun took advantage of your generosity and beat the instructor first. He misrepresented your accusation of falsifying accounts as a vicious incident in which you used technical means to fabricate evidence and tried to blackmail the Minister of External Relations."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhao Chengxun\"",
+        "text": "Lin Du, I was very optimistic about you, but I didn’t expect that you would have such a strong desire to win and use this method... Sigh."
+      }
+    ],
+    "choices": []
+  },
+  "M3-4-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "College Lounge / 23:00. The sound of heavy rain outside the window covered up the movement in the corridor. Lin Du had just finished his DDL. He rubbed his eyes and checked his phone before falling asleep. He found anxious text messages from three friends asking for help: Shen Qinghe's scientific research quota, Zhou Yan's internship, and Gu Cheng's charity project."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "There is a problem with the data processing program. It crashed as soon as it reached the final data aggregation stage. I just need you to help us go through the most basic data loop and find out the dead end of the stuck program. If it fails before six o'clock tomorrow morning, the funding for the research team's junior year will be cleared directly. I owe you a favor."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Zhou Yan\"",
+        "text": "Some people are jealous of our project and are using robot scripts to download the core data from our website like crazy. They want to steal all our cards before we meet with investors tomorrow. Can you help me write an interception program now to kick out the fake traffic from those robots? The benefits will not be lost on you."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Gu Cheng\"",
+        "text": "\"Lin Du...My charity project was rejected. The reviewers said that our narrative was too thin. If we can't rewrite an appealing application tonight, this project will be completely rejected. You promised that you would help me revise the final draft, right?\""
+      }
+    ],
+    "choices": [
+      "Select Shen Qinghe",
+      "Choose Zhou Yan",
+      "Choose Gu Cheng"
+    ]
+  },
+  "M3-4-2a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "I'll go over now. That knot of yours can only be untied by breaking out of your existing thinking. ."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "(Send a message to the other two people) I'm very sorry, I have a more important collaboration today and I really can't spare the time. If you need help next time, be sure to come to me again, okay?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"(The next day)Shen Qinghe\"",
+        "text": "\"Funds have been saved and the research team has survived. Lin Du, thank you very much.\""
+      }
+    ],
+    "choices": []
+  },
+  "M3-4-2b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "I'll turn on the computer now. Leave the online defense to me, and leave the real-life negotiations to you. …"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "(Send a message to the other two people) I'm very sorry, I have a more important collaboration today and I really can't spare the time. If you need help next time, be sure to come to me again, okay?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"(The next day) Zhou Yan\"",
+        "text": "This battle is won, and the rival company will wait for Huang. Are you free on the weekend? I'll treat you to dinner, and you choose the address."
+      }
+    ],
+    "choices": []
+  },
+  "M3-4-2c": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Letting Gu Cheng's determination to benefit others be shown in the documents is the key to the approval of the current project. I do this partly for the sake of the children who will benefit."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "(Send a message to the other two people) I'm very sorry, I have a more important collaboration today and I really can't spare the time. If you need help next time, be sure to come to me again, okay?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"(Several Days Later) Gu Cheng\"",
+        "text": "\"Lin Du! I have received special funding, you are my hero! I will never let down the words you wrote, and I will do my best to bring value to the children!\""
+      }
+    ],
+    "choices": []
+  },
+  "M3-4-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The absence of Lin Du made the project of the remaining two people come to nothing. Although this is not Lin Du's responsibility, Lin Du can feel that \"sitting back and doing nothing\" at critical moments makes it difficult for them to have such pure trust in themselves. Correspondingly, the frequency of chatting has also been reduced a lot."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"[Chapter 3\"",
+        "text": "over】"
+      }
+    ],
+    "choices": []
+  },
+  "M4-1-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Administration Building 304 Seminar Room / 14:00 PM"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Chu Tian stared at the dense data sets on the screen, his brows furrowed. He is a well-known geek in the Department of Statistics, and was recruited by Lin Du to be responsible for data cleaning and underlying architecture."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Chu Tian\"",
+        "text": "This batch of open source user behavior data is too complex and has many missing values. If we force the classification, the error rate will be so high that it will not even be able to pass the preliminary review."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Lin Du\"",
+        "text": "Therefore, we do not preset labels in the early stage. Since machine learning includes the category of unsupervised learning, we will directly take the route of cluster analysis and let the algorithm capture potential feature associations by itself."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "The partial cutting and cleaning of the data is left to you. As long as the base is clean, subsequent models will not collapse."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Xia Lin was tapping the tablet next to her. She majored in interaction design and was responsible for transforming data models into intuitive visual charts."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Xia Lin\"",
+        "text": "The results of unsupervised clustering can be produced using dynamic scatter plots and heat maps. But to be honest, this technical solution is too hard-core. Half of the judging panel are business school professors and external investors. They don’t want to hear the algorithm’s derivation. Who can tell them what practical problems this model can solve?"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "The door to the seminar room was pushed open, and Sun Zhe, a junior, walked in carrying his computer bag. He is the captain of the debate team at the business school."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Lin Du\"",
+        "text": "There are less than three days until the first draft is due. Chutian stuck the data source, Xia Lin made the front-end charts, and Sun Zhe handed over the first version of the business plan and roadshow tomorrow night. Time is very tight, so everyone needs to be online at all times these days."
+      }
+    ],
+    "choices": []
+  },
+  "M4-1-2": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Late at night the next day, Lin Du was running the last piece of code test, and the phone screen suddenly lit up. A long message from Sun Zhe popped up in the group."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The seminar room was so quiet that only the hum of the chassis fan could be heard. Lin Du looked at the phone and was silent for a while."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "Sun Zhe quit the team."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Chu Tian suddenly turned his swivel chair, and Xia Lin also stopped painting."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Chu Tian\"",
+        "text": "The first draft is about to be handed in. Is he leaving now?"
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Lin Du\"",
+        "text": "His mentor temporarily took over a national key project and asked him to join the group and work in isolation immediately. It is impossible for him to refuse his mentor's key project for the sake of a student competition."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Lin Du\"",
+        "text": "His mentor temporarily took over a national key project and asked him to join the group and work in isolation immediately. It is impossible for him to refuse his mentor's key project for the sake of a student competition."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Xia Lin\"",
+        "text": "What about our road show? The business plan is just a bunch of empty shells. Where can we find someone who understands our algorithm and can go on stage to talk about the business model?"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "",
+        "text": "Facing the sudden loss of core roadshow personnel, the rhythm of the game was completely disrupted. You must finalize a remedy immediately."
+      }
+    ],
+    "choices": [
+      "Choose Lin Jianlu",
+      "Choose Zhou Yan",
+      "Choose Gu Cheng"
+    ]
+  },
+  "M4-1-2a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "Telling business stories doesn’t necessarily require someone who can be sensational. The judges are all employers. They are better than anyone else. It is useless to talk about feelings. They have to look at the books. I'll contact Lin Jianlu."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Chu Tian\"",
+        "text": "That Lin Jianlu who studied accounting? She is really good at financial auditing, but the business plan requires a big picture. Can her strict character do it?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "If we show them a financial model with no logical loopholes and reasonable calculations of costs and expected benefits during the road show, we can calm the crowd."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Du Lin Jianlu was invited overnight. Lin Jianlu took over the writing of the business plan without saying a word. During the road show, she used flawless financial data flow with Lin Du's algorithm, which made the judges feel a high degree of professional trust."
+      }
+    ],
+    "choices": []
+  },
+  "M4-1-2b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "You don’t have to find people from business schools to tell business stories. Zhou Yan's eloquence and ability to control the field are well-known in the club federation, and he is very experienced in dealing with those picky judges."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Chu Tian\"",
+        "text": "Zhou Yan? The one in administration? He can't even understand the code."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "He does not need to understand the code, he only needs to understand the application prospects of this system. Zhou Yan is now in the critical period of the student union's transition. He urgently needs a heavyweight competition award to increase his chips. I gave him the signature rights of the core members, and he was absolutely willing to memorize our roadshow script overnight."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Du used a precise exchange of interests to attract Zhou Yan. Zhou Yan's highly provocative and realistic speech style perfectly concealed his unfamiliarity at the bottom level of technology, and he used his aura to forcefully open up a path to advancement."
+      }
+    ],
+    "choices": []
+  },
+  "M4-1-2c": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "If the pie of commercial value is not round, then we will change the track. Change business applications into social welfare applications. I'll contact Gu Cheng."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Xia Lin\"",
+        "text": "Gu Cheng? Isn't he working on that religious group?"
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "Our unsupervised learning model can be used to optimize resource allocation. If we position the application scenario of this algorithm in \"accurate matching of educational resources in remote areas\", Gu Cheng can tell this story more movingly than anyone else. In this competition where commercial realization is everywhere, humanistic care can actually make a difference."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Du found Gu Cheng, who was completely untechnical. Gu Cheng used a warm and empathetic speech to package a cold algorithm model into a technological proposal full of social responsibility. This approach was eccentric and successfully attracted experts on the judging panel who were inclined towards social value investment."
+      }
+    ],
+    "choices": []
+  },
+  "M4-2-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Department of Artificial Intelligence Office Building / 15:30 pm"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The corridor echoed with the low-frequency hum of the server cooling fan in the computer room next door. The annual \"State Key Laboratory Direct Recommendation Quota\" selection has entered the final stage of additional examinations."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Professor Chen stared at the terminal interface on the screen. He entered an extremely complex question in industry terminology. As an academic authority in the department, he was surprised that undergraduates could achieve this level of engineering implementation."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Three seconds later, the system not only gave an accurate answer, but also provided local literature traceability of the source. As an academic authority in the department, he was surprised that undergraduates could achieve this level of engineering implementation."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "I wrote a set of automated processing scripts based on RAG (Retrieval Augmentation Generation) to vectorize all the unstructured documents in your laboratory over the past five years and connect them to the local model."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Lin Du\"",
+        "text": "Director Chen, I know that my theoretical derivation is not deep enough, but I can guarantee that your team’s efficiency can be greatly improved when processing those complex original corpora."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Professor Chen\"",
+        "text": "Your engineering acumen and practical ability are indeed more mature than students of the same generation. First submit the application form and test report to Mr. Wang, the office of the college. We will finalize the specific recommendation list at the meeting tomorrow morning."
+      }
+    ],
+    "choices": []
+  },
+  "M4-2-2": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The door to the archives room of the hospital office was ajar. When Lin Du walked over with the application form, he heard the voice of his classmate Lu Ming."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lu Ming\"",
+        "text": "Teacher Wang, it will be hard for you to file this material. This weekend, my dad asked Professor Chen to go to a resort in the suburbs to relax and talk about the renewal of the cloud server for the next quarter. You can go too."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Teacher Wang\"",
+        "text": "Okay, I've sorted out your list. You go back quickly to prepare the materials for next week's group entry. When you get to the key laboratory, follow the seniors to gain experience and don't cause trouble for Professor Chen."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lu Ming pushed the door open and came face to face with Lin Du. His expression stiffened slightly, he said a perfunctory hello and left in a hurry."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "The header is \"State Key Laboratory Recommendation Summary (Final Draft)\", and the only column with quota is Lu Ming's name."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Lin Du\"",
+        "text": "Teacher Wang, Director Chen just said that the list will be finalized tomorrow morning."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Teacher Wang\"",
+        "text": "Oh, this is pre-typesetting. Lin Du Ah, it’s good to be able to write a few useful plug-in tools, but going to key laboratories pays more attention to students’ comprehensive resource integration capabilities. Leave the form here and I'll let you know when there's news."
+      }
+    ],
+    "choices": [
+      "Negotiation game",
+      "Fight to the end",
+      "Switch immediately"
+    ]
+  },
+  "M4-2-3a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du Instead of going back to the dormitory, he turned around and opened the door of Professor Chen's office."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "Director Chen, I just saw the final draft of the comprehensive evaluation at the hospital office."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "Lu Ming couldn't even read the error log. If your automated data pipeline breaks while he is in the key laboratory, who will repair it?"
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Professor Chen\"",
+        "text": "What do you want to say?"
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "Lin Du uses extremely mature benefit exchange logic to accurately grasp the instructor's pain points. Professor Chen was moved by this reality and calmness beyond his age, and revised the list under pressure."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "Lin Du successfully got a spot, but the price was that she had to bear the extremely heavy and high-pressure life of \"working double jobs\", not to mention taking care of her studies. She became a top student at school in her sophomore year."
+      }
+    ],
+    "choices": []
+  },
+  "M4-2-3b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du calmly took back his application form from Teacher Wang’s desk."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "Now that the results of the comprehensive consideration have come out, this skill packaging manual will not be wasted in the filing cabinet of the hospital office."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Lin Du quietly used the most sensitive data security red line in the AI ​​field to kill the rules. This irreproachable compliance warning forced the hospital office to urgently withdraw Lu Ming's quota in order to avoid suspicion."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Lin Du has won a high reputation for administrative skills, but has also become a \"difficult thorn\" in the eyes of the hospital office."
+      }
+    ],
+    "choices": []
+  },
+  "M4-2-3c": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du pretended not to see the name, put down the watch politely, and exited the hospital office."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Although it has lost its aura as a national key laboratory in the short term, it has accumulated a lot of practical experience in the highly promising \"AI + medical\" intersection field."
+      }
+    ],
+    "choices": []
+  },
+  "M4-3-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The fifth floor terrace of the school library / evening\n        18:30"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The setting sun in the distance gilded the outline of the administration building. Lin Du There were two freshly printed letters of intent for internship admission in front of him, and the breeze rustled the papers. These are the two most important places to go during the summer vacation of my sophomore year."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Chutian walked over with two cups of milk tea, handed one of the bottles to Lin Du, and glanced at the two contracts on the table."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Chu Tian\"",
+        "text": "I heard that you finished interviewing the last one in the afternoon. Is this the final list?"
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "Um. One is an internship at Hengchuang Technology, and the other is a project at Jade Bird Company."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Chu Tian\"",
+        "text": "Hengchuang is the outsourcing core group of a large company. It offers sophomore interns a salary of 8,000 a month, which is already the ceiling in our department. But I also heard from seniors that when I join, I will be a \"labeled migrant worker\", processing tens of thousands of marketing data every day, purely exchanging physical strength for money."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Lin Du\"",
+        "text": "They do only give interns the dirty work, but this internship fee can indeed relieve the pressure on the 140,000 tuition fee."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Chu Tian\"",
+        "text": "What about the Blue Bird? Why haven’t you heard of this company?"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Chu Tian\"",
+        "text": "For three thousand yuan, you can only order a good meal. But this job is indeed very idealistic. You are going to be an architect for others, not a screw."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "The phone vibrated, and Zhou Yan's message popped up."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "Lin Du, the person in charge of Jade Bird Laboratory was my senior before, and he has a very keen sense of technology. If you want to make real achievements in the application layer of large models, you may learn much more here than in the building in the science and technology park of Hengchuang."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "",
+        "text": "Lin Du Close your eyes and mentally move the sliders representing the future."
+      }
+    ],
+    "choices": [
+      "Go to Hengchuang Technology",
+      "Go to Jade Bird Company"
+    ]
+  },
+  "M4-3-2a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Lin Du\"",
+        "text": "I decided to go to Hengchuang. At this stage, I need a solid resume to knock on the door to the future, and I can’t always rely on my family’s living expenses."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Chu Tian\"",
+        "text": "clear. Although it is repetitive work, the process management of large factories can indeed hone people's professional qualities."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "I'll continue working on my plug-in model in my off-duty time, but I need the money and I need the label."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "(Summer vacation) Lin Du has entered a fast-paced business environment. Although every day is filled with trivial marking and cleaning work, her bank card balance has grown rapidly, and she has received a highly competitive \"endorsement from a major company\" in the future school recruitment season."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "However, when night falls and she works overtime, she sometimes feels a huge sense of emptiness in work that is not in line with her abilities."
+      }
+    ],
+    "choices": []
+  },
+  "M4-3-2b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "\"Chu Tian\"",
+        "text": "Cruel enough. Go get a Pinhaofan membership."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "As long as it gives me access to the core code base, it's nothing to eat. I want to see where the limits of large models are in the vertical field, rather than doing things on the cyber assembly line."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "(Summer vacation) Lin Du began a hard and intense development life. She assumed core responsibilities in a small team that far exceeded the scope of an intern, and her technical capabilities achieved a qualitative leap in a short period of time."
+      }
+    ],
+    "choices": []
+  },
+  "M4-3-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du picked up the pen and signed his name on the selected letter of intent."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "Now that you have made your choice, there is no need to look back."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Chu Tian\"",
+        "text": "Good luck to you, and I hope that when next semester starts, you haven't been overwhelmed by either of these two lives."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "Outside the school auditorium / 08:30 AM"
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "",
+        "text": "The list of finalists for the \"Venture Capital Cup\" was scrolling on the electronic screen outside the auditorium. There was a tension in the air that only comes on the day of a big event. Lin Du’s cell phone memo is filled with schedule reminders, and three time nodes are like three mountains weighing on the day’s schedule."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "",
+        "text": "The air-conditioning in the auditorium was fully turned on. Standing in the background with his teammates, Lin Du could clearly hear the sharp questions from the judges at the front desk."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Chu Tian\"",
+        "text": "The group just now was asked about the interpretability of the model and was immediately dumbfounded. Lin Du, if someone grabs hold of our black box logic of unsupervised learning later, how do you plan to answer it?"
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Lin Du\"",
+        "text": "I would focus on the robustness of the results. As long as the business logic of clustering can be self-consistent, internal weight distribution can be used as a direction for subsequent optimization rather than an immediate obstacle. Xia Lin, are you ready for the interactive demonstration?"
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Xia Lin\"",
+        "text": "Don’t worry, the real-time heat map has been mounted. As soon as you send a command, I will cast it directly on the screen."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "\"Lin Du\"",
+        "text": "Everyone, it’s not easy to get to this point. When we go up later, we will follow the version that we have rehearsed most stably."
+      }
+    ],
+    "choices": []
+  },
+  "M4-4-1": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The defense in the morning had just ended, and Lin Du received an interview notice from the instructor."
+      }
+    ],
+    "choices": [
+      "I chose Professor Chen before",
+      "I chose Professor Zhang before"
+    ]
+  },
+  "M4-4-2a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The interview took place in the internal conference room of the department building."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Professor Chen\"",
+        "text": "I watched the defense and it was very stable. I am coming to see you now because I want to finalize the admission agreement of the key laboratory. I have reserved the spot for you, but there is a condition."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Lin Du\"",
+        "text": "This means that all my core output in the past six months does not belong to me in name."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Professor Chen\"",
+        "text": "This is the ticket money for a platform. Think clearly and reply to me before two o'clock in the afternoon, otherwise it will be difficult for me to sign the recommendation letter."
+      }
+    ],
+    "choices": []
+  },
+  "M4-4-2b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The interview took place in Professor Zhang’s independent office filled with medical records."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Lin Du\"",
+        "text": "Director Zhang, we said before that the underlying logic of this tool will be released to the community as an open source project."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Professor Zhang\"",
+        "text": "Capitalists require absolute technological exclusivity. If you agree to buy out and hand over the source code, you will not only get a generous reward, but also be a core member of two top publications."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Lin Du\"",
+        "text": "In other words, I must completely give up control of this code and sign a confidentiality agreement."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Professor Zhang\"",
+        "text": "Scientific research needs to bow to reality. It doesn’t matter if you don’t sign. The junior year seniors in the group can rewrite an interface according to your framework. It's just that your reputation and dividends have to be given to others. The management representative will arrive at two o'clock in the afternoon, and you can decide for yourself."
+      }
+    ],
+    "choices": []
+  },
+  "M4-4-3": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "In the evening, just as Lin Du was about to take a breath, his phone started vibrating crazily. Displayed on the screen was a call from Su Ran from the Department of Sociology. Su Ran usually only interacts with Lin Du in interdisciplinary public elective courses, and he is considered a good partner."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "\"Su Ran\"",
+        "text": "Lin Du, where are you now? There's big trouble."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "\"Su Ran\"",
+        "text": "My nationally innovative project \"Investigation of Hidden Social Isolation in College Students\" was handed in this afternoon, but it was blocked by the review team of the school's academic committee, and a hearing notice for suspected academic misconduct was issued."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Su Ran\"",
+        "text": "They said that the social graph clustering algorithm embedded in the application form was too professional and could not have been written by a sociology undergraduate. They suspected that I had paid an outsourcing data company to do it for me."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "I gave you a detailed explanation of the underlying logic before. Can't you argue with that and explain it?"
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Su Ran\"",
+        "text": "Among the judges are experts from the computer science department, who have been asking about the underlying label mapping and attention mechanism. I can only explain sociological survey conclusions, but I cannot answer the code logic at all."
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "\"Su Ran\"",
+        "text": "Lin Du, can you come over to the school office? Just ten minutes, help me prove that this algorithm was written for me as a technical supporter, and it is not some commercial outsourcing."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "",
+        "text": "Due to the conflict between physical strength and geographical location, you can only complete two of the following three things, and you must give up one completely."
+      }
+    ],
+    "choices": [
+      "Give up the morning race",
+      "Give up the noon interview",
+      "Give up the phone calls at night"
+    ]
+  },
+  "M4-4-3a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du chose to deal with the tutor or Su Ran's affairs at the last moment, which resulted in the team's on-site demonstration completely failing due to the absence of the keynote speaker and core technical backbone in the finals."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The team missed out on awards. Chu Tian and Xia Lin were extremely angry about this. Lin Du Although they saved scientific research resources and rescued Su Ran, they completely lost trust in this team that had been working together for a long time. The three of them broke up and never met again."
+      }
+    ],
+    "choices": []
+  },
+  "M4-4-3b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du completed the defense and went to help Su Ran out, but missed the final reply deadline given by the instructor, or directly rejected the unequal terms."
+      }
+    ],
+    "choices": [
+      "Professor Chen",
+      "Professor Zhang"
+    ]
+  },
+  "M4-4-3c": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du completed the defense and signed an agreement as a mentor for the sake of his future, but he turned off his phone when Su Ran needed technical endorsement the most."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The sociological survey project failed to pass the hearing, the national innovation funds were frozen in full, Su Ran was given a warning for academic misconduct, and his postgraduate qualification was revoked."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "Late at night, Su Ran sent an extremely calm text message: \"I thought interdisciplinary cooperation would achieve mutual success, but I obviously overestimated my priority in your timetable. That's it, I won't delay your bright future.\""
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "",
+        "text": "The next time Lin Du saw Su Ran at school, she originally wanted to rush up to her and apologize frantically to find some remedy, but Su Ran glanced at her and walked away quickly."
+      }
+    ],
+    "choices": []
+  },
+  "M4-4-4a": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "The key laboratory quotas returned to other people's hands, and Lin Du was marginalized within the department."
+      }
+    ],
+    "choices": []
+  },
+  "M4-4-4b": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "Lin Du refused the overlord’s terms and turned around and left the office. Professor Zhang decisively handed over the task to the senior students of the third year of graduate school. It only took the senior a few days to put a new shell on this framework, and successfully won the million-dollar project from the employer and two core journals."
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "Lin Du can only watch as the great prospects and industry reputation that originally belonged to him have become the brightest thing on other people's resumes, but he has completely lost his position in this research group."
+      }
+    ],
+    "choices": []
+  },
+  "M4-4-5": {
+    "pages": [
+      {
+        "pageNumber": 1,
+        "speakerName": "",
+        "text": "School playground late night 23:30"
+      },
+      {
+        "pageNumber": 2,
+        "speakerName": "",
+        "text": "The school's sign has long been extinguished, and the hustle and bustle of the day has been completely drained away. The summer night wind blows through the empty green fields, bringing a touch of sultry heat. Lin Du was sitting alone on the plastic seat, and the screen of his mobile phone had gone dark."
+      },
+      {
+        "pageNumber": 3,
+        "speakerName": "",
+        "text": "There was a slight sound of footsteps beside him. Shen Qinghe, wearing the washed-white gray hoodie, walked slowly to the steps next to Lin Du and sat down. He was holding two cans of iced coffee from the vending machine and handed one to Lin Du."
+      },
+      {
+        "pageNumber": 4,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "I just passed by the teaching building and saw that the lights in your seminar room were turned off. I heard that you achieved some results that were long overdue for you in the afternoon, although the process was a bit tortuous."
+      },
+      {
+        "pageNumber": 5,
+        "speakerName": "\"Lin Du\"",
+        "text": "Smoothness is just an appearance. To keep that model on stage, I made some compromises that I wouldn't have considered before."
+      },
+      {
+        "pageNumber": 6,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "For example, to sign an admission agreement that clearly requires undergraduates to do hard work? Or have you sacrificed some of the emotions you've always cherished in order to devote yourself to the competition?"
+      },
+      {
+        "pageNumber": 7,
+        "speakerName": "",
+        "text": "Lin Du didn't answer immediately, just opened the tab of the can, and the bitterness of the coffee dispersed in the air."
+      },
+      {
+        "pageNumber": 8,
+        "speakerName": "\"Lin Du\"",
+        "text": "When I was a freshman, I thought that as long as my code was clear and consistent enough, the results would be error-free. But this year I discovered that there are too many variables outside of code. The exchange of interests between mentors, temporary collapse of the team, and requests for help from friends, these parameters simply cannot be written into a perfect prediction model."
+      },
+      {
+        "pageNumber": 9,
+        "speakerName": "\"Lin Du\"",
+        "text": "In order to win, in order to survive in this evaluation system, I can only continue to abandon some things, even if I don't agree with this abandonment behavior."
+      },
+      {
+        "pageNumber": 10,
+        "speakerName": "",
+        "text": "Shen Qinghe looked at the empty runway in front of him. The street lights stretched his shadow very long. He rarely made moral judgments on other people's choices, but tonight, there was a rare heaviness in his tone."
+      },
+      {
+        "pageNumber": 11,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "Every optimization of the algorithm does require discarding some data. But people are not machines. Lin Du, how do you live your life? You pursue maximizing current interests at every step."
+      },
+      {
+        "pageNumber": 12,
+        "speakerName": "\"Lin Du\"",
+        "text": "With extremely limited resources, isn't this the most rational choice?"
+      },
+      {
+        "pageNumber": 13,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "You are very rational, you have always been a smart person. You have the ability to get tickets to high-end laboratories, the resume to win national awards, and even learn to balance between mentors and capital."
+      },
+      {
+        "pageNumber": 14,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "But when I look at you now, I feel that you are far different from what you were before. There's nothing good or bad about it, it's just that I hope your ideals last forever."
+      },
+      {
+        "pageNumber": 15,
+        "speakerName": "",
+        "text": "Shen Qinghe turned his head and looked into Lin Du's slightly tired eyes."
+      },
+      {
+        "pageNumber": 16,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "Lin Du, you win many games but start to wonder what you lost."
+      },
+      {
+        "pageNumber": 17,
+        "speakerName": "",
+        "text": "This sentence is like a dull evening bell, striking in the empty playground. Lin Du The hand holding the can tightened slightly."
+      },
+      {
+        "pageNumber": 18,
+        "speakerName": "\"Lin Du\"",
+        "text": "Maybe that’s the price of admission to growing up. If I hadn't chosen this way, I wouldn't even have the chance to sit here and review it now."
+      },
+      {
+        "pageNumber": 19,
+        "speakerName": "\"Shen Qinghe\"",
+        "text": "I hope that when you are in your junior year, when you really need to be on your own, you will still feel that the ticket money is worth it."
+      },
+      {
+        "pageNumber": 20,
+        "speakerName": "",
+        "text": "Shen Qinghe stared at Lin Du and stopped talking."
+      },
+      {
+        "pageNumber": 21,
+        "speakerName": "",
+        "text": "The playground fell silent again."
+      },
+      {
+        "pageNumber": 22,
+        "speakerName": "",
+        "text": "In your sophomore year, you are like a high-speed machine, accurately avoiding all the troughs and stepping on every rising springboard. You have learned to be ruthless, learn to exchange interests, and learn to exchange the smallest price for the most generous prize."
+      },
+      {
+        "pageNumber": 23,
+        "speakerName": "",
+        "text": "But on such a quiet summer night, when you count the heavy chips in your hand, you find that there are fewer and fewer people in your address book who can talk."
+      },
+      {
+        "pageNumber": 24,
+        "speakerName": "",
+        "text": "The price of success is never marked in the dark. It is deducted from your bottom line and temperature the moment you make every decision."
+      },
+      {
+        "pageNumber": 25,
+        "speakerName": "",
+        "text": "The wind and waves have temporarily subsided, or in other words, the deeper and bottomless ocean has just begun to unfold under your feet."
+      },
+      {
+        "pageNumber": 26,
+        "speakerName": "\"[Chapter 4\"",
+        "text": "over】"
+      }
+    ],
+    "choices": []
+  }
+}

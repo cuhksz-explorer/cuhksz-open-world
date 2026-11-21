@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LGU Explorer · 客户端发布</title>
+  <link rel="stylesheet" href="/admin/admin.css" />
+</head>
+<body>
+  <div class="app" id="appRoot">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand-block">
+        <span class="brand-mark">LGU</span>
+        <div class="brand-copy">
+          <span class="brand-en">LGU Explorer</span>
+          <span class="brand-cn">港中深AI校园</span>
+        </div>
+      </div>
+      <nav class="side-nav">
+        <button type="button" class="side-link active" data-view="deploy">发布构建</button>
+        <button type="button" class="side-link" data-view="history">版本历史</button>
+        <button type="button" class="side-link" data-view="api">更新 API</button>
+      </nav>
+      <div class="sidebar-foot" id="sidebarFoot">
+        <span id="serverStatus" class="status-pill">检测中…</span>
+        <div class="sidebar-links">
+          <a href="/control/" target="_blank" rel="noopener">控制台</a>
+          <a href="/" target="_blank" rel="noopener">下载门户</a>
+        </div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <nav class="embed-tabs" id="embedTabs" hidden>
+        <button type="button" class="embed-tab active" data-view="deploy">发布构建</button>
+        <button type="button" class="embed-tab" data-view="history">版本历史</button>
+      </nav>
+      <header class="main-head" id="mainHead">
+        <div>
+          <p class="eyebrow">PATCH MANAGER</p>
+          <h1>客户端热更新发布</h1>
+          <p class="subtitle">上传 Unity 构建包，自动建立增量索引；玩家启动时优先差分更新，失败时回退完整包。</p>
+        </div>
+      </header>
+
+      <!-- Live build hero -->
+      <section class="live-build" id="liveBuild">
+        <div class="live-glow" aria-hidden="true"></div>
+        <div class="live-inner">
+          <div class="live-badge-row">
+            <span class="live-badge">LIVE BUILD</span>
+            <span class="live-dot" id="liveDot"></span>
+          </div>
+          <div class="live-grid">
+            <div class="live-version-block">
+              <p class="live-label">当前线上版本</p>
+              <p id="liveVersion" class="live-version">—</p>
+              <p id="liveNotes" class="live-notes">正在读取版本信息…</p>
+            </div>
+            <div class="live-meta">
+              <div class="live-stat">
+                <span class="live-stat-key">完整包</span>
+                <span id="liveSize" class="live-stat-val">—</span>
+              </div>
+              <div class="live-stat">
+                <span class="live-stat-key">文件数</span>
+                <span id="liveFiles" class="live-stat-val">—</span>
+              </div>
+              <div class="live-stat">
+                <span class="live-stat-key">发布时间</span>
+                <span id="liveTime" class="live-stat-val">—</span>
+              </div>
+            </div>
+            <div class="live-actions">
+              <a id="liveDownloadBtn" class="btn launch" href="#" target="_blank" rel="noopener" hidden>
+                <span class="btn-icon">↓</span>
+                下载完整包
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Deploy view -->
+      <section class="view-panel active" id="view-deploy">
+        <div class="panel deploy-panel">
+          <div class="panel-head">
+            <h2>部署新版本</h2>
+            <p>将 Unity Build 输出目录打包为 zip 后上传</p>
+          </div>
+
+          <form id="uploadForm" class="deploy-form">
+            <div class="dropzone" id="dropzone">
+              <input id="fileInput" type="file" accept=".zip" required />
+              <div class="dropzone-content">
+                <div class="dropzone-icon" aria-hidden="true">📦</div>
+                <p class="dropzone-title">拖拽 zip 到此处，或点击选择文件</p>
+                <p class="dropzone-sub">需包含 .exe 与 *_Data 目录 · 建议与 Player Settings 版本号一致</p>
+                <p id="dropzoneFileName" class="dropzone-file"></p>
+              </div>
+            </div>
+
+            <div class="form-row">
+              <label class="field">
+                <span class="field-label">版本号（可留空，服务器自动识别）</span>
+                <input id="versionInput" name="version" type="text" placeholder="留空自动识别，例如 0.0.2" />
+              </label>
+              <label class="field">
+                <span class="field-label">更新说明</span>
+                <input id="notesInput" name="release_notes" type="text" placeholder="本次更新内容、修复与新增功能" />
+              </label>
+            </div>
+
+            <div class="toggle-row">
+              <label class="toggle">
+                <input id="forceUpdateInput" type="checkbox" checked />
+                <span class="toggle-ui"></span>
+                <span class="toggle-text">
+                  <strong>强制更新</strong>
+                  <small>客户端版本不一致时必须下载</small>
+                </span>
+              </label>
+              <label class="toggle">
+                <input id="setActiveInput" type="checkbox" checked />
+                <span class="toggle-ui"></span>
+                <span class="toggle-text">
+                  <strong>立即上线</strong>
+                  <small>上传完成后设为当前激活版本</small>
+                </span>
+              </label>
+            </div>
+
+            <label class="field full" id="tokenRow" hidden>
+              <span class="field-label">管理员令牌</span>
+              <input id="tokenInput" type="password" placeholder="输入管理员令牌" autocomplete="off" />
+            </label>
+
+            <div class="deploy-actions">
+              <button type="submit" class="btn primary" id="uploadBtn">
+                <span class="btn-shine" aria-hidden="true"></span>
+                上传并发布
+              </button>
+              <div class="progress-wrap" id="progressWrap" hidden>
+                <div class="progress-track">
+                  <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <span id="progressPct" class="progress-pct">0%</span>
+              </div>
+              <progress id="uploadProgress" max="100" value="0" hidden></progress>
+              <p id="uploadStatus" class="status-text"></p>
+            </div>
+          </form>
+        </div>
+      </section>
+
+      <!-- History view -->
+      <section class="view-panel" id="view-history">
+        <div class="panel">
+          <div class="panel-head row">
+            <div>
+              <h2>版本历史</h2>
+              <p>按时间排列的构建记录与增量信息</p>
+            </div>
+            <button type="button" class="btn ghost" id="refreshBtn">刷新</button>
+          </div>
+          <div id="releaseList" class="release-list">
+            <div class="release-empty">加载中…</div>
+          </div>
+          <table class="sr-only" aria-hidden="true">
+            <tbody id="releaseTableBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- API view -->
+      <section class="view-panel" id="view-api">
+        <div class="panel api-panel">
+          <div class="panel-head">
+            <h2>客户端更新 API</h2>
+            <p>Unity 客户端启动时调用的热更新接口</p>
+          </div>
+          <div class="api-grid">
+            <article class="api-card">
+              <span class="api-method get">GET</span>
+              <code>/api/client/version?current=0.1</code>
+              <p>校验版本，返回 updateMode = incremental | full</p>
+            </article>
+            <article class="api-card">
+              <span class="api-method get">GET</span>
+              <code>/api/client/patch?from=0.1&amp;to=0.2</code>
+              <p>增量补丁清单（变更文件列表与哈希）</p>
+            </article>
+            <article class="api-card">
+              <span class="api-method get">GET</span>
+              <code>/api/client/file/{version}/{path}</code>
+              <p>下载单个变更文件</p>
+            </article>
+            <article class="api-card">
+              <span class="api-method get">GET</span>
+              <code>/api/client/download/latest</code>
+              <p>完整包下载（增量失败时回退）</p>
+            </article>
+          </div>
+          <p class="api-footnote">上传 zip 后服务端自动解压并建立文件索引；Unity <strong>Player Settings → Version</strong> 需与发布版本一致。</p>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="/admin/admin.js"></script>
+</body>
+</html>

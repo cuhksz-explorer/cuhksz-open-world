@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5621fa22f32c96542ae8c947bf9f6603, type: 3}
+  m_Name: TankCar
+  m_EditorClassIdentifier: 
+  vehicleName: "M1\u827E\u5E03\u62C9\u59C6\u65AF"
+  description: "\u94A2\u94C1\u5DE8\u517D\u6012\u543C\uFF01\u8D2B\u94C0\u88C5\u7532\uFF0C\u78BE\u788E\u4E00\u5207\u6218\u573A\uFF01"
+  thumbnail: {fileID: 21300000, guid: 602a3955c97eab649936577a55158b08, type: 3}
+  vehiclePrefab: {fileID: 6486939582219639962, guid: 5156c42723c78d14ca57e8b7c8b09b60, type: 3}
+  displayMaxSpeed: 9999999
+  accelerationRating: 5
+  handlingRating: 5
+  previewScale: 1
+  previewYawDegrees: 0
+  previewPitchDegrees: 0
+  previewOffset: {x: 0, y: 0, z: 0}

@@ -1,0 +1,5 @@
+# 勿将其它 Unity 工程的 Library 复制进 Assets；仅保留 CarScripts 等资源。
+Library/
+Temp/
+Obj/
+Logs/

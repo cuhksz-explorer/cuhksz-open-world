@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7a4f1e82b9d4c6a8e3f5b2d1c0a9e8f, type: 3}
+  m_Name: ChairSitClipSet
+  m_EditorClassIdentifier: Assembly-CSharp::ChairSitClipSet
+  sitDownClip: {fileID: -203655887218126122, guid: 1ec53322471862d42888a58616beeb3b, type: 3}
+  sitIdleClip: {fileID: -203655887218126122, guid: 10f261ddcce4110418f426afd9e75601, type: 3}
+  standUpClip: {fileID: -203655887218126122, guid: e9a926a7dba7aec42b981c7561c87057, type: 3}

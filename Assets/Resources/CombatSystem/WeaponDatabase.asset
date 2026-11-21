@@ -1,0 +1,587 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65ccab6f139642ca80f6d997b1fcf1f1, type: 3}
+  m_Name: WeaponDatabase
+  m_EditorClassIdentifier: 
+  weapons:
+  - id: 1
+    brand: "\u6668\u5149"
+    modelName: "K35 \u6309\u52A8\u4E2D\u6027\u7B14"
+    displayName: "\u6668\u5149 K35 \u6309\u52A8\u4E2D\u6027\u7B14"
+    description: "\u3010\u84DD\u3011\u6668\u5149 K35 \u6309\u52A8\u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      1\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 0
+    realWorldTier: 1
+    damage: 8
+    sellPrice: 10
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_01
+    icon: {fileID: 0}
+  - id: 2
+    brand: "\u771F\u5F69"
+    modelName: "009 \u4E2D\u6027\u7B14"
+    displayName: "\u771F\u5F69 009 \u4E2D\u6027\u7B14"
+    description: "\u3010\u84DD\u3011\u771F\u5F69 009 \u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      1\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 0
+    realWorldTier: 1
+    damage: 9
+    sellPrice: 12
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_02
+    icon: {fileID: 0}
+  - id: 3
+    brand: "\u767D\u96EA"
+    modelName: "PVR144 \u76F4\u6DB2\u5F0F"
+    displayName: "\u767D\u96EA PVR144 \u76F4\u6DB2\u5F0F"
+    description: "\u3010\u84DD\u3011\u767D\u96EA PVR144 \u76F4\u6DB2\u5F0F\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      1\uFF0C\u9002\u5408\u4F5C\u4E3A \u7B7E\u5B57\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 3
+    realWorldTier: 1
+    damage: 9
+    sellPrice: 12
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_03
+    icon: {fileID: 0}
+  - id: 4
+    brand: "\u5F97\u529B"
+    modelName: "S08 \u6309\u52A8\u4E2D\u6027\u7B14"
+    displayName: "\u5F97\u529B S08 \u6309\u52A8\u4E2D\u6027\u7B14"
+    description: "\u3010\u84DD\u3011\u5F97\u529B S08 \u6309\u52A8\u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      2\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 0
+    realWorldTier: 2
+    damage: 10
+    sellPrice: 15
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_04
+    icon: {fileID: 0}
+  - id: 5
+    brand: "\u7231\u597D"
+    modelName: "GP1628 \u4E2D\u6027\u7B14"
+    displayName: "\u7231\u597D GP1628 \u4E2D\u6027\u7B14"
+    description: "\u3010\u84DD\u3011\u7231\u597D GP1628 \u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      2\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 0
+    realWorldTier: 2
+    damage: 10
+    sellPrice: 15
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_05
+    icon: {fileID: 0}
+  - id: 6
+    brand: "\u9F50\u5FC3"
+    modelName: "K35 \u529E\u516C\u4E2D\u6027\u7B14"
+    displayName: "\u9F50\u5FC3 K35 \u529E\u516C\u4E2D\u6027\u7B14"
+    description: "\u3010\u84DD\u3011\u9F50\u5FC3 K35 \u529E\u516C\u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      2\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 0
+    realWorldTier: 2
+    damage: 11
+    sellPrice: 18
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_06
+    icon: {fileID: 0}
+  - id: 7
+    brand: "\u5E7F\u535A"
+    modelName: "G-112 \u6309\u52A8\u7B14"
+    displayName: "\u5E7F\u535A G-112 \u6309\u52A8\u7B14"
+    description: "\u3010\u84DD\u3011\u5E7F\u535A G-112 \u6309\u52A8\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      2\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 0
+    realWorldTier: 2
+    damage: 11
+    sellPrice: 18
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_07
+    icon: {fileID: 0}
+  - id: 8
+    brand: "\u4E09\u83F1 Uni"
+    modelName: "UM-151 \u6309\u52A8\u4E2D\u6027\u7B14"
+    displayName: "\u4E09\u83F1 Uni UM-151 \u6309\u52A8\u4E2D\u6027\u7B14"
+    description: "\u3010\u84DD\u3011\u4E09\u83F1 Uni UM-151 \u6309\u52A8\u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      3\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 0
+    realWorldTier: 3
+    damage: 12
+    sellPrice: 20
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_08
+    icon: {fileID: 0}
+  - id: 9
+    brand: "\u767E\u4E50 PILOT"
+    modelName: "BP-S \u5706\u73E0\u7B14"
+    displayName: "\u767E\u4E50 PILOT BP-S \u5706\u73E0\u7B14"
+    description: "\u3010\u84DD\u3011\u767E\u4E50 PILOT BP-S \u5706\u73E0\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      3\uFF0C\u9002\u5408\u4F5C\u4E3A \u5706\u73E0\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 1
+    realWorldTier: 3
+    damage: 12
+    sellPrice: 22
+    fireRate: 9
+    maxSpread: 6.5
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_09
+    icon: {fileID: 0}
+  - id: 10
+    brand: "\u6591\u9A6C Zebra"
+    modelName: "JJ15 \u6309\u52A8\u4E2D\u6027\u7B14"
+    displayName: "\u6591\u9A6C Zebra JJ15 \u6309\u52A8\u4E2D\u6027\u7B14"
+    description: "\u3010\u84DD\u3011\u6591\u9A6C Zebra JJ15 \u6309\u52A8\u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      3\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 0
+    realWorldTier: 3
+    damage: 13
+    sellPrice: 25
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_10
+    icon: {fileID: 0}
+  - id: 11
+    brand: "\u6587\u6B63"
+    modelName: "0.5 \u9488\u7BA1\u4E2D\u6027\u7B14"
+    displayName: "\u6587\u6B63 0.5 \u9488\u7BA1\u4E2D\u6027\u7B14"
+    description: "\u3010\u84DD\u3011\u6587\u6B63 0.5 \u9488\u7BA1\u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      3\uFF0C\u9002\u5408\u4F5C\u4E3A \u9488\u7BA1\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 4
+    realWorldTier: 3
+    damage: 13
+    sellPrice: 25
+    fireRate: 8.5
+    maxSpread: 5
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_11
+    icon: {fileID: 0}
+  - id: 12
+    brand: "\u70B9\u77F3"
+    modelName: "DS-904 \u6309\u52A8\u4E2D\u6027\u7B14"
+    displayName: "\u70B9\u77F3 DS-904 \u6309\u52A8\u4E2D\u6027\u7B14"
+    description: "\u3010\u84DD\u3011\u70B9\u77F3 DS-904 \u6309\u52A8\u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      4\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 0
+    penStyle: 0
+    realWorldTier: 4
+    damage: 15
+    sellPrice: 30
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_12
+    icon: {fileID: 0}
+  - id: 13
+    brand: "\u767E\u4E50 PILOT"
+    modelName: "V5 \u76F4\u6DB2\u5F0F\u7B7E\u5B57\u7B14"
+    displayName: "\u767E\u4E50 PILOT V5 \u76F4\u6DB2\u5F0F\u7B7E\u5B57\u7B14"
+    description: "\u3010\u7D2B\u3011\u767E\u4E50 PILOT V5 \u76F4\u6DB2\u5F0F\u7B7E\u5B57\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      5\uFF0C\u9002\u5408\u4F5C\u4E3A \u7B7E\u5B57\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 3
+    realWorldTier: 5
+    damage: 18
+    sellPrice: 45
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_13
+    icon: {fileID: 0}
+  - id: 14
+    brand: "\u767E\u4E50 PILOT"
+    modelName: "P500 \u9488\u7BA1\u7B14"
+    displayName: "\u767E\u4E50 PILOT P500 \u9488\u7BA1\u7B14"
+    description: "\u3010\u7D2B\u3011\u767E\u4E50 PILOT P500 \u9488\u7BA1\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      5\uFF0C\u9002\u5408\u4F5C\u4E3A \u9488\u7BA1\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 4
+    realWorldTier: 5
+    damage: 19
+    sellPrice: 48
+    fireRate: 8
+    maxSpread: 4.5
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_14
+    icon: {fileID: 0}
+  - id: 15
+    brand: "\u4E09\u83F1 Uni"
+    modelName: "Jetstream \u6309\u52A8\u5706\u73E0\u7B14"
+    displayName: "\u4E09\u83F1 Uni Jetstream \u6309\u52A8\u5706\u73E0\u7B14"
+    description: "\u3010\u7D2B\u3011\u4E09\u83F1 Uni Jetstream \u6309\u52A8\u5706\u73E0\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      5\uFF0C\u9002\u5408\u4F5C\u4E3A \u5706\u73E0\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 1
+    realWorldTier: 5
+    damage: 20
+    sellPrice: 50
+    fireRate: 9.5
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_15
+    icon: {fileID: 0}
+  - id: 16
+    brand: "\u6591\u9A6C Zebra"
+    modelName: "Sarasa Grand \u590D\u53E4\u4E2D\u6027\u7B14"
+    displayName: "\u6591\u9A6C Zebra Sarasa Grand \u590D\u53E4\u4E2D\u6027\u7B14"
+    description: "\u3010\u7D2B\u3011\u6591\u9A6C Zebra Sarasa Grand \u590D\u53E4\u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      6\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 0
+    realWorldTier: 6
+    damage: 21
+    sellPrice: 55
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_16
+    icon: {fileID: 0}
+  - id: 17
+    brand: "\u6D3E\u514B Parker"
+    modelName: "Jotter \u7ECF\u5178\u5706\u73E0\u7B14"
+    displayName: "\u6D3E\u514B Parker Jotter \u7ECF\u5178\u5706\u73E0\u7B14"
+    description: "\u3010\u7D2B\u3011\u6D3E\u514B Parker Jotter \u7ECF\u5178\u5706\u73E0\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      6\uFF0C\u9002\u5408\u4F5C\u4E3A \u5706\u73E0\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 1
+    realWorldTier: 6
+    damage: 22
+    sellPrice: 60
+    fireRate: 9
+    maxSpread: 5.5
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_17
+    icon: {fileID: 0}
+  - id: 18
+    brand: "\u51CC\u7F8E Lamy"
+    modelName: "Safari \u72E9\u730E\u94A2\u7B14"
+    displayName: "\u51CC\u7F8E Lamy Safari \u72E9\u730E\u94A2\u7B14"
+    description: "\u3010\u7D2B\u3011\u51CC\u7F8E Lamy Safari \u72E9\u730E\u94A2\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      7\uFF0C\u9002\u5408\u4F5C\u4E3A \u94A2\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 2
+    realWorldTier: 7
+    damage: 23
+    sellPrice: 65
+    fireRate: 6.5
+    maxSpread: 5
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_18
+    icon: {fileID: 0}
+  - id: 19
+    brand: "\u6D3E\u901A Pentel"
+    modelName: "EnerGel \u901F\u5E72\u4E2D\u6027\u7B14"
+    displayName: "\u6D3E\u901A Pentel EnerGel \u901F\u5E72\u4E2D\u6027\u7B14"
+    description: "\u3010\u7D2B\u3011\u6D3E\u901A Pentel EnerGel \u901F\u5E72\u4E2D\u6027\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      7\uFF0C\u9002\u5408\u4F5C\u4E3A \u4E2D\u6027\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 0
+    realWorldTier: 7
+    damage: 24
+    sellPrice: 70
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_19
+    icon: {fileID: 0}
+  - id: 20
+    brand: "\u5A01\u8FEA\u6587 Waterman"
+    modelName: "Hemisphere \u534A\u7403\u94A2\u7B14"
+    displayName: "\u5A01\u8FEA\u6587 Waterman Hemisphere \u534A\u7403\u94A2\u7B14"
+    description: "\u3010\u7D2B\u3011\u5A01\u8FEA\u6587 Waterman Hemisphere \u534A\u7403\u94A2\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      8\uFF0C\u9002\u5408\u4F5C\u4E3A \u94A2\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 2
+    realWorldTier: 8
+    damage: 25
+    sellPrice: 75
+    fireRate: 6
+    maxSpread: 4.8
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_20
+    icon: {fileID: 0}
+  - id: 21
+    brand: "\u9AD8\u4ED5 Cross"
+    modelName: "Century II \u5706\u73E0\u7B14"
+    displayName: "\u9AD8\u4ED5 Cross Century II \u5706\u73E0\u7B14"
+    description: "\u3010\u7D2B\u3011\u9AD8\u4ED5 Cross Century II \u5706\u73E0\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      8\uFF0C\u9002\u5408\u4F5C\u4E3A \u5706\u73E0\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 1
+    realWorldTier: 8
+    damage: 26
+    sellPrice: 78
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_21
+    icon: {fileID: 0}
+  - id: 22
+    brand: "\u7EA2\u73AF Rotring"
+    modelName: "600 \u5236\u56FE\u9488\u7BA1\u7B14"
+    displayName: "\u7EA2\u73AF Rotring 600 \u5236\u56FE\u9488\u7BA1\u7B14"
+    description: "\u3010\u7D2B\u3011\u7EA2\u73AF Rotring 600 \u5236\u56FE\u9488\u7BA1\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      8\uFF0C\u9002\u5408\u4F5C\u4E3A \u9488\u7BA1\u7B14 \u4F7F\u7528\u3002"
+    rarity: 1
+    penStyle: 4
+    realWorldTier: 8
+    damage: 28
+    sellPrice: 80
+    fireRate: 7
+    maxSpread: 4
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_22
+    icon: {fileID: 0}
+  - id: 23
+    brand: "\u51CC\u7F8E Lamy"
+    modelName: "2000 \u7ECF\u5178\u94A2\u7B14"
+    displayName: "\u51CC\u7F8E Lamy 2000 \u7ECF\u5178\u94A2\u7B14"
+    description: "\u3010\u6A59\u3011\u51CC\u7F8E Lamy 2000 \u7ECF\u5178\u94A2\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      9\uFF0C\u9002\u5408\u4F5C\u4E3A \u94A2\u7B14 \u4F7F\u7528\u3002"
+    rarity: 2
+    penStyle: 2
+    realWorldTier: 9
+    damage: 32
+    sellPrice: 120
+    fireRate: 5.5
+    maxSpread: 4.5
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_23
+    icon: {fileID: 0}
+  - id: 24
+    brand: "\u6D3E\u514B Parker"
+    modelName: "Duofold \u4E16\u7EAA\u94A2\u7B14"
+    displayName: "\u6D3E\u514B Parker Duofold \u4E16\u7EAA\u94A2\u7B14"
+    description: "\u3010\u6A59\u3011\u6D3E\u514B Parker Duofold \u4E16\u7EAA\u94A2\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      9\uFF0C\u9002\u5408\u4F5C\u4E3A \u94A2\u7B14 \u4F7F\u7528\u3002"
+    rarity: 2
+    penStyle: 2
+    realWorldTier: 9
+    damage: 35
+    sellPrice: 140
+    fireRate: 5
+    maxSpread: 4.2
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_24
+    icon: {fileID: 0}
+  - id: 25
+    brand: "\u5A01\u8FEA\u6587 Waterman"
+    modelName: "Expert \u4E13\u5BB6\u94A2\u7B14"
+    displayName: "\u5A01\u8FEA\u6587 Waterman Expert \u4E13\u5BB6\u94A2\u7B14"
+    description: "\u3010\u6A59\u3011\u5A01\u8FEA\u6587 Waterman Expert \u4E13\u5BB6\u94A2\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      10\uFF0C\u9002\u5408\u4F5C\u4E3A \u94A2\u7B14 \u4F7F\u7528\u3002"
+    rarity: 2
+    penStyle: 2
+    realWorldTier: 10
+    damage: 38
+    sellPrice: 160
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_25
+    icon: {fileID: 0}
+  - id: 26
+    brand: "\u767E\u5229\u91D1 Pelikan"
+    modelName: "Souver\xE4n M400 \u7EFF\u6761\u94A2\u7B14"
+    displayName: "\u767E\u5229\u91D1 Pelikan Souver\xE4n M400 \u7EFF\u6761\u94A2\u7B14"
+    description: "\u3010\u6A59\u3011\u767E\u5229\u91D1 Pelikan Souver\xE4n M400 \u7EFF\u6761\u94A2\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      10\uFF0C\u9002\u5408\u4F5C\u4E3A \u94A2\u7B14 \u4F7F\u7528\u3002"
+    rarity: 2
+    penStyle: 2
+    realWorldTier: 10
+    damage: 40
+    sellPrice: 180
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_26
+    icon: {fileID: 0}
+  - id: 27
+    brand: "\u4E07\u5B9D\u9F99 Montblanc"
+    modelName: "StarWalker \u661F\u9645\u884C\u8005"
+    displayName: "\u4E07\u5B9D\u9F99 Montblanc StarWalker \u661F\u9645\u884C\u8005"
+    description: "\u3010\u6A59\u3011\u4E07\u5B9D\u9F99 Montblanc StarWalker \u661F\u9645\u884C\u8005\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      11\uFF0C\u9002\u5408\u4F5C\u4E3A \u7B7E\u5B57\u7B14 \u4F7F\u7528\u3002"
+    rarity: 2
+    penStyle: 3
+    realWorldTier: 11
+    damage: 42
+    sellPrice: 200
+    fireRate: 8
+    maxSpread: 6
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_27
+    icon: {fileID: 0}
+  - id: 28
+    brand: "\u767E\u4E50 PILOT"
+    modelName: "Custom 74 14K \u91D1\u5C16\u94A2\u7B14"
+    displayName: "\u767E\u4E50 PILOT Custom 74 14K \u91D1\u5C16\u94A2\u7B14"
+    description: "\u3010\u6A59\u3011\u767E\u4E50 PILOT Custom 74 14K \u91D1\u5C16\u94A2\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863
+      11\uFF0C\u9002\u5408\u4F5C\u4E3A \u94A2\u7B14 \u4F7F\u7528\u3002"
+    rarity: 2
+    penStyle: 2
+    realWorldTier: 11
+    damage: 45
+    sellPrice: 220
+    fireRate: 5
+    maxSpread: 4
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_28
+    icon: {fileID: 0}
+  - id: 29
+    brand: "\u4E07\u5B9D\u9F99 Montblanc"
+    modelName: "Meisterst\xFCck 149 \u5927\u73ED\u94A2\u7B14"
+    displayName: "\u4E07\u5B9D\u9F99 Montblanc Meisterst\xFCck 149 \u5927\u73ED\u94A2\u7B14"
+    description: "\u3010\u7EA2\u3011\u4E07\u5B9D\u9F99 Montblanc Meisterst\xFCck
+      149 \u5927\u73ED\u94A2\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863 12\uFF0C\u9002\u5408\u4F5C\u4E3A
+      \u94A2\u7B14 \u4F7F\u7528\u3002"
+    rarity: 3
+    penStyle: 2
+    realWorldTier: 12
+    damage: 58
+    sellPrice: 450
+    fireRate: 4.5
+    maxSpread: 3.5
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_29
+    icon: {fileID: 0}
+  - id: 30
+    brand: "\u8F89\u67CF\u5609 Faber-Castell"
+    modelName: "Pen of the Year \u5E74\u5EA6\u7B14"
+    displayName: "\u8F89\u67CF\u5609 Faber-Castell Pen of the Year \u5E74\u5EA6\u7B14"
+    description: "\u3010\u7EA2\u3011\u8F89\u67CF\u5609 Faber-Castell Pen of the Year
+      \u5E74\u5EA6\u7B14\u3002\u73B0\u5B9E\u4EF7\u4F4D\u6863 12\uFF0C\u9002\u5408\u4F5C\u4E3A
+      \u94A2\u7B14 \u4F7F\u7528\u3002"
+    rarity: 3
+    penStyle: 2
+    realWorldTier: 12
+    damage: 65
+    sellPrice: 500
+    fireRate: 4
+    maxSpread: 3.2
+    maxRange: 80
+    magazineSize: 0
+    maxReserveAmmo: 0
+    reloadTime: 0
+    iconPath: CombatSystem/WeaponIcons/pen_30
+    icon: {fileID: 0}
