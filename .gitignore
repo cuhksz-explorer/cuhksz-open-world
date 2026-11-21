@@ -1,0 +1,70 @@
+# ===== Unity 生成物（永不提交） =====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+sysinfo.txt
+crashlytics-build.properties
+
+# ===== 本工程特有：已停用的服务器与临时目录 =====
+/GameServerRuntime/
+/Assets/code/GameServer/
+/ExportedScripts/
+/egg/import_temp/
+/egg/tools_audio_cache/
+/egg/scene_backups/
+/egg/library_reimport_backup/
+/_import_narration_temp/
+
+# ===== Python 环境 =====
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ===== 大体积二进制资产（外置，见 ASSETS_EXTERNAL.md） =====
+*.fbx
+*.blend
+*.glb
+*.ply
+*.obj
+*.bytes
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.exr
+*.tif
+*.tiff
+*.psd
+*.mp3
+*.wav
+*.ogg
+*.mp4
+*.zip
+*.7z
+*.rar
+
+# 单个文件超过 GitHub 100MB 上限
+/Assets/TextMesh Pro/Resources/Fonts & Materials/AlibabaPuHuiTi-3-75-SemiBold SDF.asset
+
+# ===== 系统垃圾 =====
+.DS_Store
+Thumbs.db
+desktop.ini
