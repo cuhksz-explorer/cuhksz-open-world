@@ -18,6 +18,10 @@
 | `Tools/` | Python 辅助工具（剧情/音频处理） |
 | `egg/design_docs/` | 设计文档 |
 
+## Windows 可玩版本
+
+下载已打包的校园开放世界，解压后即可启动。见[下载、校验与启动说明](Builds/Windows/README.md)。
+
 ## 本地运行
 
 1. 用团结引擎打开本目录（首次导入会生成 `Library/`，约数十分钟）。
